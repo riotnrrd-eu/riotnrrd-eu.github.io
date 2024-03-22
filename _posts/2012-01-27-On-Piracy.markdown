@@ -1,0 +1,46 @@
+---
+layout: post
+title:  On Piracy 
+date:   2012-01-27 
+categories:  media piracy 
+---
+
+# On Piracy
+
+
+This is a post that has been festering for a while, but no matter how long I let it simmer, it refused to boil down to 140 chars so I could tweet it. The whole reason for this blog is to post thoughts which are too long for Twitter and too not-job-related and/or controversial for my work blog, so here goes.
+
+I get the outrage about SOPA and ACTA and all their little friends. They are enormously big sticks to wave around, and the risk is that when all you have is a big stick, you use it every time, and end up squishing everything in the general vicinity of what you were aiming at.
+
+![](/images/unknown_filename.261.jpeg)
+
+However.
+
+I was talking to a colleague today, and while I don't know exactly what he makes, it's surely into low six figures (in Euros). We were discussing smart TVs and the relative merits of serving content via DLNA directly to the TV versus using something like an AppleTV. I was making the case for the latter, and his counter-argument was that all the films he downloads can be read directly by his TV as soon as the download completes, while most would require transcoding to work with the AppleTV. I was a bit non-plussed and probed deeper, only to discover that this colleague downloads several movies per week completely illegally.
+
+![](/images/unknown_filename.262.png)
+
+Now, I'm the first to complain about the ridiculous anti-piracy warnings on DVDs, the region coding, the unskippable trailers and ads, and so on - on content I *already paid for*, let’s not forget. However, my answer is to rip the DVD first thing and watch it via the AppleTV. The actual disc gets played once or twice to get the special content, and then it goes on the shelf as back-up or to be loaned out to friends.
+
+This seems to me the honest approach, and I'm not saying that (just) because I make my living off for-pay software.
+
+I do the same sort of thing with audio CDs, but there it's pure self-interest. Let's take an example from my wish list. The CD of "Bloody Kisses" by Type O Negative is currently GBP3.99, versus GBP6.99 for the MP3 download of the album. Plus this way I get a backup copy, the cover art and liner notes, and it adds to the wall of CDs which share responsibility with books for hiding the walls in my house. MP3s and e-books aren't good for furnishing.
+
+When I mentioned this approach to my colleague he, and others in the room, called me a chump. Why would I spend money on something I can get so easily for free?
+
+Er, because it's **stealing**?
+
+If this is the attitude among people who cannot make even a pretence of not being able to afford the content, it makes me sympathize with the MPAA and their ilk. If I were suddenly to sprout musical ability, get signed and release an album, I would expect to be paid for it, and consider people downloading it to be stealing food from my table.
+
+We can have the argument about the percentage of profits that goes to record companies as opposed to artists another time.
+
+Also the argument about the value-for-money of most mainstream artists.
+
+Also about obsolete business models - buggy-whips and gas lanterns.
+
+The point remains: these works were created for pay, they were put on sale for money, and yet large swathes of the population, even among people affluent enough to be easily able to pay, consider it perfectly acceptable and unexceptional to pay nothing.
+
+If we as a society are OK with this, we should not be surprised that the owners of that content get a bit hysterical and take a "shoot first, ask questions later" attitude, even when the questions are quite reasonable ones from people who would love to pay for content if only it were re-released. Or available in their region. Or available in a convenient format. Or not encumbered with restrictions on personal and other fair use.
+
+The time to argue about right-to-roam is not when the game-keeper catches you with a haunch of venison in one hand and a leg of swan in the other.
+

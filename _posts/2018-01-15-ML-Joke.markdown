@@ -1,0 +1,16 @@
+---
+layout: post
+title:  ML Joke 
+date:   2018-01-15 
+categories:  humour AI machine-learning joke 
+---
+
+# ML Joke
+
+
+A machine learning algorithm walked into a bar.
+
+The bartender asked, "What would you like to drink?"
+
+The algorithm replied, "What’s everyone else having?"
+
