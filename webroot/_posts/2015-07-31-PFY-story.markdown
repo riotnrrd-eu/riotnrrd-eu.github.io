@@ -1,0 +1,30 @@
+---
+layout: post
+title:  PFY story 
+date:   2015-07-31 
+categories:  tech sysadmin 
+---
+
+# PFY story
+
+
+## Tales from the front
+
+*In honour of [Sysadmin Day](http://sysadminday.com/), here’s a story from my own sysadmin days, originally posted [here](http://www.bofhcam.org/pfy/dominic1.txt). It’s a snapshot of history, from CodeRed, to Ghost, to my sub-BOfH stylings. Enjoy!* 
+
+So I'm talking to my BOFH, currently undergoing recovery on some Mediterranean island with his s/o, via a rather good free online SMS service, when I notice the (usually) non-PH B bearing down on me at a high rate of panic. It's too late to hide beneath my desk (too much "reassigned" hardware), so I stand my ground...
+
+Once I make sense of his pathetic gibbering, I gather that he has just received a call from IT-Security (an oxymoron if I ever heard one, at least in these people's hands) about some machines in our IP pool *still* sending requests from CodeRed, only three weeks after it first turned up in the wild and (of course) instantly penetrated $ORK's network. So I speak to him in calming tones, get into my records and find the owner of one machine, but note that the second IP address is still listed as "free" in my records. Now any discrepancy between the Real World(tm) and my records must immediately be adjusted, naturally in my records' favour, and traditionally with much screaming and gnashing of teeth on the part of the luser who made the Real World(tm) alteration.
+
+I wander over to the luser I did manage to locate, but he tells me that he passed the machine on to $OTHER_LUSER and did not see fit to inform me... Sometimes being the PFY sucks - I need to instill more respect in these people, but I'm leaving soon anyway.
+
+At $OTHER_LUSER's desk I find *both* the problem machines... This one will need watching, I fear. I enquire of $OTHER_LUSER what part of the extra-ultra-high-priority email I sent around about patching all Windows machines[^1] he didn't understand, and he burbles something about how he thought *pointless waste of neurons forgotten even as it emerged from his mouth*.
+
+Sighing I kill the processes, remove the backdoors, patch the machines and reboot them without asking if he had anything important to save among the myriad apps uselessly cluttering his task bar. I sense him about to protest and turn all 500 watts of my hardest stare on him - he holds out longer than most, and his eyebrows are beginning to singe when he finally looks down.
+
+"Good", I mutter darkly, and wander back to my cube to check the web servers’[^2] logs yet again - I had foolishly assumed that all was well, but yet again my naive trust in humanity's native intelligence has been proved wrong. Fortunately this time everything would appear to be well, so it's back to snoozing for another hour or so until it's time to go home...
+
+[^1]: Yes, even if it's a test machine. Yes, even if you're going to Ghost it again in a few weeks. Yes, even if it would be hugely inconvenient. YES, *ALL* FSCKING WINDOWS MACHINES!!! *YOU* INSISTED ON HAVING THEM!!! *YOU* IGNORED ME WHEN I POINTED OUT EVERYTHING THAT WOULD GO WRONG! *YOU* THEN INTERRUPTED ME WHEN EVERYTHING ON THAT LIST PROCEEDED TO PROVE ME RIGHT BY GOING WRONG! *sigh*
+[^2]: All Apache on various flavours of UNIX and Linux - do I *look* like I enjoy pain[^3]
+[^3]: Someone evidently did - when I arrived there was IIS everywhere. Not any more!
+

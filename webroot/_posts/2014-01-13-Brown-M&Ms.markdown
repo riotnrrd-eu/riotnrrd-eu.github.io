@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Brown M&Ms 
+date:   2014-01-13 
+categories:  Van-Halen 
+---
+
+# Brown M&Ms
+
+
+I read a post by Lydia Leong today: [Shooting squirrels from the roof](http://cloudpundit.com/2014/01/12/shooting-squirrels-from-the-roof/). The phrase comes from a rental agreement:
+
+> This rental agreement had all the usual stipulations about what tenants aren’t allowed to do, but then it had a list of increasingly specific and weird directives about what the tenant was not allowed to do, culminating in, "Tenant shall not shoot squirrels from the roof." You just *know* that each of these clauses came from some previous bad experience that the landlord had with some tenant, which caused them to add these "thou shalt not" behaviors in great specificity to each subsequent lease. 
+
+This reminded me of a story of my own. Way back when, I still had an honest job running proof-of-concept exercises on a pretty technical piece of data center automation software called BladeLogic[^1]. A proof of concept meant installing the software on equipment belonging to a prospective customer, typically on their premises, and running through a series of real-world situations to demonstrate how our software could help them in their daily lives.
+
+It was pretty much a given that out of the week that we typically allocated for the process, we would lose at least one full day to logistics issues. The galling thing was that we sent a document well ahead of time, specifying over many, many pages which ports should be open, what type of access we would need, which administrators would need to be available to us during installation (usually the DBA, maybe a network person as well), and so on and so forth.
+
+As sure as clockwork, we would rock up to the client site bright and early on a Monday morning - and find ports closed, accounts not set up, and DBAs nowhere to be found. Cue much wailing and gnashing of teeth — but strictly on the inside. We are professionals, after all.
+
+After this had happened a few times, I heard the story on the radio about Van Halen and the brown M&Ms. It seems that Van Halen were the first band to take such an extravagant live show on tour, and would regularly end up without enough power, or no room to park their fleet of vehicles, or whatever. Their rider grew more and more detailed, until in frustration they added the infamous Article 126. This clause specified that the band’s dressing room should contain a bowl of M&Ms from which all the brown M&Ms had been removed, upon pain of forfeiture of the show.
+
+![](/images/unknown_filename.59.jpeg)
+
+*Brown M&Ms? That’s IT! I’m outta here!*
+
+The truth of the matter is not that Eddie Van Halen gave a fig either way for the colour of his M&Ms. The M&Ms were there purely as a test. If there were brown M&Ms in the bowl, or no M&Ms at all, the tour managers instantly knew that they could not take anything for granted and had to double-check everything else.[^2]
+
+I lobbied hard to get our proof-of-concept requirements document to include a clause about “the software consultants require a bowl of M&Ms with no brown ones, on pain of forfeiture of the PoC”. It would have gone right after the clause about the root password and right before the one about the network ports. Unfortunately, I was over-ruled. Boo.
+
+[^1]: If this means nothing to you, you’re probably not in the target audience - for which you should probably be grateful.
+[^2]: The story is on [Wikipedia](http://en.wikipedia.org/wiki/Van_Halen#Contract_riders) and you can find the actual rider at [The Smoking Gun](http://www.thesmokinggun.com/documents/crime/van-halens-legendary-mms-rider).
+
