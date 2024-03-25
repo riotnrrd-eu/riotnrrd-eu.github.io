@@ -25,7 +25,7 @@ So that's why it all took so long, basically.
 
 # Acknowledgements
 
-I was finally ready to go live, but stumbled on setting up DNS. Serendipitously, I found my old comrade Sean Berry in the acknowledgements to Cory Doctorow's excellent book [The Bezzle](https://craphound.com/bezzle/).
+I was finally ready to go live, but stumbled on setting up DNS. Serendipitously, I found my old comrade Sean Berry in the acknowledgements to Cory Doctorow's excellent book [The Bezzle](https://craphound.com/bezzle/), which I cannot recommend enough. It's a sequel to his earlier [Red Team Blues](https://craphound.com/category/redteamblues/), but while they are linked, you don't *need* to have read the earlier book (which takes place later) to enjoy this one.
 
 ![](/images/bezzle-US-cover-large.jpg)
 
