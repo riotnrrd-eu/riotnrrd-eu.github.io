@@ -5,9 +5,9 @@ date: 2024-03-25
 categories: admin evernote
 ---
 
-# Migrating — Again
+# Here We Go Again
 
-Yes, the blog has moved — [again]({% post_url 2013-10-06-Easiest-blog-platform-ever %}). This time it's running on Github Pages, which is billed as being an easy and free way of hosting Markdown, but turns out to have a number of issues in practice if you are trying to migrate an existing blog there, even if it was already written in Markdown.
+Yes, the blog has moved — [again]({% post_url 2013-10-06-Easiest-blog-platform-ever %}). This time it's running on [Github Pages](https://pages.github.com), which is billed as being an easy and free way of hosting Markdown, but turns out to have a number of issues in practice if you are trying to migrate an existing blog there, even if it was already written in Markdown.
 
 Evernote had been going downhill for a while, so I had moved almost all my note-taking to [Obsidian](https://obsidian.md). I was still running my blog through Postach.io, though, because it was up and running and still worked fine for me. However, [Evernote's new owners](https://evernote.com/blog/evernote-next-move-joining-bending-spoons) rug-pulled the free tier, limiting it to 50 notes. This blog goes back to 2012 and has way more than 50 notes, so that was a problem. To their credit they didn't actually delete anything, but they did block users with more than 50 notes from creating any new ones.
 
