@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon verification</a>
+<a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a>
