@@ -16,7 +16,7 @@ One of the problems of having kids is that they grow up. At first this is a reli
 
 That third point is the focus of our story today. The teenager who occupies a quite infeasible amount of space in my home has taken to borrowing my grooming products, and specifically my nail clippers. I did buy him his own set of nail clippers, but he promptly lost them (somehow) and resumed borrowing mine — and has now succeeded in losing those too. After some searching failed to turn up either set of nail clippers, I went online and looked for “best nail clippers”. Amazingly, this actually worked, once I had dodged all the obvious spam honeypots. Evidently there is not enough money in nail clipper affiliate marketing for it to be worth anyone’s while to spin up a ChatGPT instance, but I am sure they will get to it eventually.
 
-Having settled on nail clippers from Zwilling as being the best fit for my needs, I went to their website to order a pair. I actually have an account there, because I own several Zwilling knives and Staub pots — but the Italian site does not offer their non-kitchen product lines, and it’s the only one that will ship to an address in Italy.
+Having settled on nail clippers from Zwilling as being the best fit for my needs, I went to their website to order a pair. I actually have an account there, because I own several Zwilling cooking knives and Staub pots — but the Italian site does not offer their non-kitchen product lines, and it’s the only one that will ship to an address in Italy.
 
 So yes, I ordered the nail clippers from Amazon, where Prime means I don’t have to worry about shipping costs or import duties, and they will be here tomorrow.
 
