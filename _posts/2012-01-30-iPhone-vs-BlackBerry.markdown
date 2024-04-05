@@ -5,24 +5,19 @@ date:   2012-01-30
 categories:  iPhone 
 ---
 
-# iPhone vs BlackBerry
-
-
 I finally ditched my BlackBerry in December, so this is the one-month-in review.
 
 ![](/images/unknown_filename.194.jpeg)
 
 Since it's only a month in, it may well be the case that I've missed something. I just read an article about [40 iPhone features](http://iphone.appstorm.net/roundups/developer/40-secret-iphone-features-and-shortcuts/), and I found several I did not know, despite having owned both an iPod Touch and an iPad since before they came out in Europe.
 
-Things I miss from the BlackBerry
---------------------------------------------- 
+# Things I miss from the BlackBerry
 
 + E-mail tagging. iOS has a flag which you can set, but that's not really granular enough. I end up just using "mark as unread" and then tagging things with Outlook.
 + Reply to calendar events. If some dolt has left off the non-US access number for his conference call, e-mailing him to ask is made that much more frustrating.
 + That red LED. Well, if I'm honest I only miss it some of the time, but I do wish the lock screen had a count of unread e-mails.
 
-Things I *don’t* miss from the BlackBerry
--------------------------------------------------------
+# Things I *don’t* miss from the BlackBerry
 
 + The memory leaks. I had to do a full reboot about once a week as the whole thing would just grind to a halt. This was with careful management of running applications, too.
 + The random freezes and reboots. I thought I just had a lemon, but no - almost all my colleagues with recent BlackBerries have similar stories. It wasn't a problem with several previous models of BlackBerry handsets, but now it's anecdotally widespread.

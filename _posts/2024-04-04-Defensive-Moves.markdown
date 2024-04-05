@@ -5,7 +5,7 @@ date: 2024-04-04
 categories: Redis MongoDB database open-source enterprise
 ---
 
-The news of the day is that [Redis has changed its licensing](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/), moving from the nice simple [3-clause BSD license](https://opensource.org/license/BSD-3-clause) to a combination of the [Server Side Public License (SSPL)](https://en.wikipedia.org/wiki/Server_Side_Public_License) first introduced by MongoDB, and a rev of its own [Redis Source Available License (RSAL)](https://redis.com/legal/rsalv2-agreement/). 
+The news of the day is that [Redis has changed its licensing](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/), moving from the nice simple [3-clause BSD license](https://opensource.org/license/BSD-3-clause) to a combination of the [Server Side Public License (SSPL)](https://en.wikipedia.org/wiki/Server_Side_Public_License) first introduced by MongoDB, plus a rev of its own [Redis Source Available License (RSAL)](https://redis.com/legal/rsalv2-agreement/). 
 
 ![](/images/kabo-BHJs5TZ-Nt0-unsplash.jpg)
 
@@ -13,12 +13,12 @@ The news of the day is that [Redis has changed its licensing](https://techcrunch
 
 A super-simplified narrative of the fate that has consumed many open-source vendors before Redis would go something like this:
 
-- A vendor is running a classic Red Hat-style dual-track strategy, with an open-source "community" release and a paid add-on project; the payment is typically justified by some combination of added enterprise functionality and official support contracts. 
+- A vendor is running a classic Red Hat-style dual-track strategy, with an open-source "community" release and a closed-source commercial product. The value proposition for the latter is typically based on some combination of added enterprise functionality and official support contracts. 
 - The open-source project is picked up by the cloud hyperscalers, who host it themselves, and contribute nothing back to the vendor acting as commercial shepherd of the project.
 - The vendor's business quickly goes from being promising (*look at all this community growth that can be monetised!*) to extremely challenging (*why would anyone deal with a subscale vendor when they can get the same experience in a couple of clicks from their current cloud vendor?*). 
 - Investors flee and the vendor goes into a death spiral, stabilising (in the best case) as a niche player in a community dominated by the hyperscalers.
 
-The first push back against this state of affairs was arguably when MongoDB changed its license back in 2018, essentially as a defense against encroachment by the cloud hyperscalers. The new license that MongoDB came up with was the SSPL, which is essentially the [GNU Affero General Public License (AGPL)](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) with a single added clause. That addition was designed to act as a poison pill and prevent the hyperscalers from pulling their usual moves on MongoDB.
+The first push back against this state of affairs was arguably when MongoDB changed its license back in 2018, essentially as a defense against encroachment by the cloud hyperscalers. The new license that MongoDB came up with was the SSPL, which is basically the [GNU Affero General Public License (AGPL)](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) with a single added clause. That addition was designed to act as a poison pill and prevent the hyperscalers from pulling their usual moves on MongoDB.
 
 The SSPL’s extension to the AGPL is sometimes characterised as requiring would-be service providers to acquire a license from MongoDB (the company) in order to offer MongoDB (the software) as a service. As written, it actually requires any entity hosting the software covered by the license as a managed service to also release under the SSPL any subsidiary software used to operate that service:
 
@@ -44,7 +44,7 @@ Pleas that the SSPL did not meaningfully restrict *use* of the software, only it
 
 The OSI’s objection was moot, however: MongoDB withdrew the SSPL from consideration as an “open-source” license, and has always been very careful to describe its Community edition punctiliously as “source-available”. The most important result had been achieved: MongoDB's nascent Atlas business was now protected from erosion by service providers.
 
-The hyperscalers, unable to offer a native MongoDB service of their own due to the strictures of the SSPL, pivoted to offering their own home-grown implementations of the MongoDB API on top of different data platforms. At the time, my Market Intelligence team at MongoDB and I lampooned these efforts, even going as far as putting up a site with the self-explanatory URL [https://www.isdocumentdbreallymongodb.com](https://www.isdocumentdbreallymongodb.com)[^1] (also fully compliant with [Betteridge's Law](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines)). I was later told that our little prank site had actually got as far as Andy Jassy, and he was not amused!
+The hyperscalers, unable to offer a native MongoDB service of their own due to the strictures of the SSPL, pivoted to offering their own home-grown implementations of the MongoDB API on top of different data platforms. At the time, my Market Intelligence team at MongoDB and I lampooned these efforts, even going as far as putting up a site with the self-explanatory URL [https://isdocumentdbreallymongodb.com](https://www.isdocumentdbreallymongodb.com)[^1] (also fully compliant with [Betteridge's Law](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines)). I was later told that our little prank site had actually got as far as Andy Jassy, and he was not amused!
 
 ![](/images/absolutvision-uCMKx2H1Y38-unsplash.jpg)
 
@@ -92,12 +92,15 @@ Meanwhile, the PostgreSQL community operates basically entirely independently of
 
 This sort of monoculture seems far more antithetical to the spirit of open-source than any stricture imposed by the SSPL. 
 
-***
 
-🖼️  Photos by [Kabo](http://www.kabo.co/), [Patrick Tomasso](http://youtube.com/impatrickt), [Pablo García Saldaña](https://www.garciasaldana.com/) and [AbsolutVision](https://www.alterego.swiss/) on [Unsplash](https://www.unsplash.com)
-
-[^1]: There is also a companion site at [https://www.iscosmosdbreallymongodb.com/](https://www.iscosmosdbreallymongodb.com/), lest anyone think we were playing favourites. Google is the odd one out of the Big Three here, not having launched its own MongoDB clone, but their DBMS efforts seem anyway to be focused more on the OLAP side rather than on OLTP.
+[^1]: There is also a companion site at [https://iscosmosdbreallymongodb.com/](https://www.iscosmosdbreallymongodb.com/), lest anyone think we were playing favourites. Google is the odd one out of the Big Three here, not having launched its own MongoDB clone, but their DBMS efforts seem anyway to be focused more on the OLAP side rather than on OLTP.
 
 [^2]: Elastic has pivoted from being a pure-play DBMS vendor and into the security space, a move which seems to be going well, judging by [user reviews](https://www.gartner.com/reviews/market/security-information-event-management/vendor/elasticsearch/product/elastic-security), and which is less subject to encroachment by the hyperscalers — at least for the time being.
 
 [^3]: My personal opinion is that AWS would be better off just dropping DocumentDB. It is quite evidently the least-loved of their many (so many) DBMS offerings, either left off the slide entirely, or jostling for position in twelve-point font at the back of the family picture. I can't imagine it is making meaningful revenue contributions — but it does have fixed costs to develop, as well as constituting an ongoing irritant to an important partnership. Because of the feature lag, I would estimate with a high level of confidence that no significant rework would be required to migrate a running app from DocumentDB to MongoDB. AWS should just endorse Atlas (on AWS) as its document database solution, and move on, washing down that bitter pill with all of the revenue from the increased compute usage coming from those new Atlas users — revenue that would have much better profit margins, once the need to fund development of DocumentDB is removed. But hey, just my opinion.
+
+
+***
+
+
+🖼️  Photos by [Kabo](http://www.kabo.co/), [Patrick Tomasso](http://youtube.com/impatrickt), [Pablo García Saldaña](https://www.garciasaldana.com/) and [AbsolutVision](https://www.alterego.swiss/) on [Unsplash](https://www.unsplash.com)
