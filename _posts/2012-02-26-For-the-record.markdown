@@ -22,7 +22,7 @@ I'm running FreeBSD because it is as close to a hassle-free OS as I know. It als
 
 First things first, I need to get the server to talk to my ISP and to provide IP addresses to the local LAN. On FreeBSD, this is super easy. Just add the following to `rc.conf`:
 
-     `ifconfig_rl0=“DHCP"
+     ifconfig_rl0=“DHCP"
      ifconfig_re0="inet 192.168.1.1 netmask 255.255.255.0 broadcast 192.168.1.255”
      dhcpd_enable=“YES"
      dhcpd_ifaces=“re0"
@@ -31,13 +31,13 @@ First things first, I need to get the server to talk to my ISP and to provide IP
      gateway_enable=“YES"
      named_enable=“YES"
      named_auto_forward=“yes"
-     named_auto_forward_only="yes"`
+     named_auto_forward_only="yes"
 
 The first line instructs the `rl0` network interface to request its configuration via DHCP. The second line gives a fixed address to interface `re0`.
 
 I wanted a firewall that would let me talk to the outside world, but would not allow any inbound traffic. Since my ISP NATs traffic unles you pay them lots, there is no downside to a complete lock-down. I went with pf, purely because it's hard to replicate in iptables the artistic intent of a pf rule that says `pass out quick on $cheap_gin`. The pf firewall is enabled by the `pf_enable=YES"` line in `rc.conf`, and configured with `pf.conf`. Here's my firewall setup:
 
-     `ext_if = “rl0"
+     ext_if = “rl0"
      haus_if = “re0"
      haus_ips = "192.168.1.0/24”
      wifi_ips = "192.168.3.0/24”
@@ -58,13 +58,13 @@ I wanted a firewall that would let me talk to the outside world, but would not a
      pass out on $ext_if proto tcp all modulate state flags S/SA
      pass out on $ext_if proto { udp icmp } all modulate state
      pass in on $haus_if from $haus_if:network to any keep state
-     pass out on $haus_if from any to $haus_if:network keep state`
+     pass out on $haus_if from any to $haus_if:network keep state
 
 Simples. I have my two interfaces, `rl0` and `re0`, respectively the one facing teh internets and the one facing the house LAN. Everything from the outside gets dropped, including anything spoofing an address which should be internal, and everying from the inside gets passed, whether to the outside or to another internal network.
 
 Now everything in the house can talk to the internet. Next, DHCP and dynamic DNS. The DHCP server, dhcpd, is started with the `dhcpd_enable="YES"` line from `rc.conf`. This enables the server, and then `dhcpd_ifaces="re0"`, which forces it to listen only on the internal interface. Having dealt with rogue DHCP servers before, I don't want to be guilty of unleashing one. The DHCP server is then configured with `dhcpd.conf`:
 
-     `option domain-name "dashaus.lan”;
+     option domain-name "dashaus.lan”;
      option domain-name-servers 192.168.1.1;
      option subnet-mask 255.255.255.0;
 
@@ -82,7 +82,7 @@ Now everything in the house can talk to the internet. Next, DHCP and dynamic DNS
      subnet 192.168.1.0 netmask 255.255.255.0 {
           range 192.168.1.2 192.168.1.200;
           option routers 192.168.1.1;
-     }`
+     }
 
 The house domain is `dashaus.lan`, and this is the authoritative DHCP server for the domain. In addition, any device that gets an IP address from this server also gets its hostname resolvable under `dashaus.lan`. This is great for not having to remember which access point has 192.168.1.15, or where the NAS is now. Sure, I could do it with hosts files, but then I'd have to update those, and iOS doesn't do hosts files anyway, so this is better.
 
@@ -90,7 +90,7 @@ Of course this doesn't work alone - you also need a DNS server. I enabled it sim
 
 And here is my `named.conf`:
 
-     `options {
+     options {
           directory       "/etc/namedb/working”;
           pid-file        "/var/run/named/pid”;
           dump-file       "/var/dump/named_dump.db”;
@@ -125,11 +125,11 @@ And here is my `named.conf`:
           allow-update {
                dashaus;
           };
-     };`
+     };
 
 There's nothing particularly funky going on here. The acl directive specifies that only clients with an IP address in that subnet can update their DNS records. Here are the zone files:
 
-     `$ORIGIN .
+     $ORIGIN .
      $TTL 86400      ; 1 day
      dashaus.lan             IN SOA  skeletor.dashaus.lan. root.skeletor.dashaus.lan. (
                                 20011955   ; serial
@@ -157,11 +157,11 @@ There's nothing particularly funky going on here. The acl directive specifies th
      HPB1251A                A       192.168.1.9    
                         TXT     "31a9b7ff798848034e2cf14e05aa6f7648”    
      $TTL 86400      ; 1 day
-     skeletor                A       192.168.1.1`
+     skeletor                A       192.168.1.1
 
 Skeletor is the server's name, for obvious case-related reasons. Here's the reverse file:
 
-     `$ORIGIN .
+     $ORIGIN .
      $TTL 86400      ; 1 day
      1.168.192.in-addr.arpa  IN SOA  skeletor.dashaus.lan. root.skeletor.dashaus.lan. (
                                 20011704   ; serial
@@ -180,7 +180,7 @@ Skeletor is the server's name, for obvious case-related reasons. Here's the reve
      4                       PTR     dashaus-nas.dashaus.lan.
      5                       PTR     beast.dashaus.lan.
      7                       PTR     Demonic-iPhone.dashaus.lan.
-     9                       PTR     HPB1251A.dashaus.lan.`
+     9                       PTR     HPB1251A.dashaus.lan.
 
 This is from a running instance, so you can see the AppleTV, a couple of iPads, an iPhone, the NAS, Beast (my Windows box), and the printer, each with its own IP address. I assume the wifi APs aren't showing up because they haven't refreshed recently, but they're working so I am not going to mess with them!
 
@@ -188,11 +188,11 @@ Last step: as this stands, clients can recognize each other, but Skeletor itself
 
 The way to fix that is by writing `dhclient.conf`:
 
-     `interface “rl0”
+     interface “rl0”
      {
           prepend domain-name-servers 127.0.0.1;
           supersede domain-name "dashaus.lan”;
-     }`
+     }
 
 This adds the local DNS server before the ones supplied by my ISP, and forces unqualified hostname searches to use the house domain instead of going to the internet.
 
