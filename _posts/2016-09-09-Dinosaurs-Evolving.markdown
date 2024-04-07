@@ -5,11 +5,6 @@ date:   2016-09-09
 categories:  iPhone email 
 ---
 
-# Dinosaurs Evolving
-
-
-![](/images/unknown_filename.100.jpeg)
-
 Right now, basically the entire Internet is having a massive collective tantrum over the fact that [Apple dropped the headphone jack from the newest iPhone](https://www.buzzfeed.com/johnpaczkowski/inside-iphone-7-why-apple-killed-the-headphone-jack ). This, despite the fact that (in a very un-Apple move) the box includes *both* a Lightning-to-TRS audio jack adapter, *and* a pair of EarPods with a Lightning connector.
 
 Speaking for myself, I already specced out the iPhone I want, but I’m just waiting to pick it up when I go to San Francisco next month. Some times, geo restrictions actually work in my favour, as even with SF sales tax, the US price is a couple of hundred Euros cheaper than my local price. EarPods don’t fit my ears (which also means the new AirPods are out), so I’ll use the adapter while I look for W1 wireless earphones that I like.
@@ -20,9 +15,9 @@ I am of course referring to email[^1].
 
 ## A bit of history
 
-To [recap](https://www.theguardian.com/technology/2016/mar/07/email-ray-tomlinson-history "How did email grow from messages between academics to a global epidemic? | Technology | The Guardian" ), everything started back in those tie-died days of 1965. This was not yet email as we know it, however; even the @-sign was not added until 1971, although for a while there things like [bang paths](http://www.catb.org/jargon/html/B/bang-path.html "bang path" ) were viable alternatives.
+To [recap](https://www.theguardian.com/technology/2016/mar/07/email-ray-tomlinson-history), everything started back in those tie-died days of 1965. This was not yet email as we know it, however; even the @-sign was not added until 1971, although for a while there things like [bang paths](http://www.catb.org/jargon/html/B/bang-path.html "bang path" ) were viable alternatives.
 
-In those days the Internet in general and email specifically were still things that only academics and governments used. However, in September of 1993 - [the September that never ended](https://en.wikipedia.org/wiki/Eternal_September "Eternal September - Wikipedia, the free encyclopedia" ) - Arpanet was opened up to the public, becoming the Internet[^2]. It didn’t take long for the whole thing to degenerate into the wretched hive of scum and villainy that we know and love today.
+In those days the Internet in general and email specifically were still things that only academics and governments used. However, in September of 1993 - [the September that never ended](https://en.wikipedia.org/wiki/Eternal_September) - Arpanet was opened up to the public, becoming the Internet[^2]. It didn’t take long for the whole thing to degenerate into the wretched hive of scum and villainy that we know and love today.
 
 ![](/images/unknown_filename.99.jpeg)
 
@@ -30,7 +25,8 @@ So why did email survive the transition to the Internet, when many other protoco
 
 The key thing about email is that it is extremely simple. If you want (and if you can still find an SMTP server that does not require authentication), you can still send email from the command line in just a couple of lines.
 
-     `> telnet mail.domain.ext 25
+    ```
+	 > telnet mail.domain.ext 25
      Trying ???.???.???.???...
      Connected to mail.domain.ext.
      Escape character is '^]'.
@@ -49,7 +45,8 @@ The key thing about email is that it is extremely simple. If you want (and if yo
      250 2.0.0 ???????? Message accepted for delivery
      > QUIT
      221 2.0.0 mail.domain.ext closing connection
-     Connection closed by foreign host.`
+     Connection closed by foreign host.
+	```
 
 Try *that* with Chatter.
 
@@ -68,6 +65,8 @@ Try snoozing a notification from Facebook Messenger, or marking a WhatsApp messa
 You don’t need a fancy client, either. There are a ton of features built right into the protocol. Think of the concise power of the CC and BCC headers, or the simple “forward” action. With CC (“carbon copy”, a coelacanth term surviving from a previous age of office technology) you can make people aware of a conversation, while also making it clear that they are being informed but are not expected to take action. BCC (“blind carbon copy”) lets you send a message without making each participant aware of all of the others, so you can let your boss see the email you sent without the recipients seeing their name. BCC *should* also be used by anyone sending mass emails, to avoid disclosing the entire recipient list to every recipient, but people regularly forget - with hilarious consequences.
 
 In contrast, chat systems are symmetrical. You can add people to a group chat, but it’s a flat hierarchy; no question of someone being informed as opposed to an active participant, or a silent observer. Forwarding a message with its context is also usually impossible. Sure, you can easily copy the text, but not the group participants and so on. Email’s simplicity make all of these features universal, independent of the generosity of one particular developer.
+
+![](/images/unknown_filename.100.jpeg)
 
 ## Email just won’t die
 
