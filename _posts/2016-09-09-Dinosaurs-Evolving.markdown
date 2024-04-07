@@ -26,24 +26,24 @@ So why did email survive the transition to the Internet, when many other protoco
 The key thing about email is that it is extremely simple. If you want (and if you can still find an SMTP server that does not require authentication), you can still send email from the command line in just a couple of lines.
 
     ```
-	 > telnet mail.domain.ext 25 
+	 \> telnet mail.domain.ext 25 
      Trying ???.???.???.???... 
      Connected to mail.domain.ext. 
      Escape character is '^]'. 
      220 mail.domain.ext ESMTP Sendmail ?version-number?; ?date+time+gmtoffset? 
-     > HELO local.domain.name 
+     \> HELO local.domain.name 
      250 mail.domain.ext Hello local.domain.name [loc.al.i.p], pleased to meet you 
-     > MAIL FROM: mail@domain.ext 
+     \> MAIL FROM: mail@domain.ext 
      250 2.1.0 mail@domain.ext... Sender ok 
-     > RCPT TO: mail@otherdomain.ext 
+     \> RCPT TO: mail@otherdomain.ext 
      250 2.1.0 mail@otherdomain.ext... Recipient ok 
-     > DATA 
-     > Subject: This is a subject 
-     > 
-     > This is the body of the email 
-     > . 
+     \> DATA 
+     \> Subject: This is a subject 
+     \> 
+     \> This is the body of the email 
+     \> . 
      250 2.0.0 ???????? Message accepted for delivery 
-     > QUIT 
+     \> QUIT 
      221 2.0.0 mail.domain.ext closing connection 
      Connection closed by foreign host. 
 	```
