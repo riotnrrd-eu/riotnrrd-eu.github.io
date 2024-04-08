@@ -5,20 +5,19 @@ date:   2019-11-26
 categories:  UX UI discoverability slack 
 ---
 
-# Power Tools
-
-
 It’s not easy to hit the right balance between making thing easy for new or infrequent users and enabling power users to be very efficient. It’s even harder for a tool like Slack, which by definition has to be universally adopted in order to succeed.
 
 This is why it’s particularly important to note the discussion about [the recent changes to Slack’s editing functionality](https://www.vice.com/en_us/article/pa7nbn/slacks-new-rich-text-editor-shows-why-markdown-still-scares-people "Slack's New Rich Text Editor Shows That Markdown Still Scares People" ). The editor used to use [Markdown](https://daringfireball.net/projects/markdown/syntax), which is the sort of thing power users love, but others, eh, not so much. 
 
-![|454x0](/images/unknown_filename.280.png)
+![](/images/unknown_filename.280.png)
 
 Markdown was created as a a quicker and simple alternative to HTML, but with the aim of catering to the sort of people who would otherwise be crafting HTML by hand in a text editor window. I *can* pop open BBEdit or vi, start right from 
 
-    `<html>
-    <head>
-    <title>This is my new document</title>`
+```
+<html>
+<head>
+<title>This is my new document</title>
+```
 
 and go from there, but it’s a bit of a faff. Markdown makes it easy for me, a power user, to be more productive.
 
@@ -28,9 +27,7 @@ This is why Slack built a rich text editor which shows all the functions – bol
 
 WYSIWYG tools are a major democratising force, opening up functionality to huge groups of users who would not otherwise have had access to them. However, as with many user-assistive functionalities, they need to be implemented with care so that they do not become obstacles for users who do not require (or prefer to do without) their assistance.
 
-[twitter url="https://twitter.com/crossan007/status/1197615290768601088" ]
-
-The problem in Slack’s case is that the way the WYSIWYG editor is implemented [breaks Markdown quite badly](https://quuxplusone.github.io/blog/2019/11/20/slack-rich-text-box/ "Slack’s new WYSIWYG input box is really terrible" ). In fact, the reaction got so bad that there is a [Chrome plugin to disable the new editor](https://chrome.google.com/webstore/detail/disable-slack-wysiwyg/jenojkbpialbgpbgokiakifhpmoponjn "Disable Slack Wysiwyg" ). 
+The problem in Slack’s case is that the way the WYSIWYG editor is implemented [breaks Markdown quite badly](https://quuxplusone.github.io/blog/2019/11/20/slack-rich-text-box/ "Slack’s new WYSIWYG input box is really terrible" ). In fact, the reaction got so bad that there is a [Chrome plugin to disable the new editor](https://chrome.google.com/webstore/detail/disable-slack-wysiwyg/jenojkbpialbgpbgokiakifhpmoponjn "Disable Slack Wysiwyg"). 
 
 To their credit, Slack are apparently walking back the changes and will rethink their approach:
 
@@ -47,4 +44,3 @@ with a reasonable expectation of getting only matches that contained both of tho
 Providing assistive interfaces for those who need them is both a Good Thing in general, and good for product growth. Power users who are dedicated to learning something will jump through whatever hoops they need to jump through, but casual users will bounce off a learning curve that is too steep. The best match would seem to be a toggle somewhere that lets power users turn off the helpful interjections and talk directly to the machine (see also: autocorrect).
 
 By giving both groups of users what they need, a user interface with this dual nature will *both* deliver easy onboarding of new users, *and* enable power users to work efficiently. I hope Slack figures it out quickly and becomes an example of Doing It Right.
-

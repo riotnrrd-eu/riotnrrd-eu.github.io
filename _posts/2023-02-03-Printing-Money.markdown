@@ -21,17 +21,17 @@ I'm going to document what happened in exhaustive detail because I still can't b
 - The HP website's search function resolutely denied all knowledge of the printer model.
 - A Google search scoped to the HP web site found the printer's product page, which included an actual manual.
 - The manual asked me to connect to the printer's management interface, but at no point includes a step-by-step process. By piecing together various bits of information from the doc and some frantic Googling, I finally work out that I need to:
-- Connect to the printer's own ad-hoc Wi-Fi network;
-- Print a test page to get its IP address (this step involves holding down the paper feed button for 10 seconds);
-- Connect to that IP address;
-- Reassure the web browser that it's fine to connect to a website that is INSECURE!!1!
-- Not find the menu options from the doc, only some basic information about supplies;
-- Panic;
-- Note a tiny "Login" link hidden away in a corner;
-- Mutter "surely not…"
-- Fail to find any user credentials documented anywhere, or indeed any mention of a login flow;
-- Connect as "admin" with no password on a hunch;
-- Access the full management interface.
+  - Connect to the printer's own ad-hoc Wi-Fi network;
+  - Print a test page to get its IP address (this step involves holding down the paper feed button for 10 seconds);
+  - Connect to that IP address;
+  - Reassure the web browser that it's fine to connect to a website that is INSECURE!!1!
+  - Not find the menu options from the doc, only some basic information about supplies;
+  - Panic;
+  - Note a tiny "Login" link hidden away in a corner;
+  - Mutter "surely not…"
+  - Fail to find any user credentials documented anywhere, or indeed any mention of a login flow;
+  - Connect as "admin" with no password on a hunch;
+  - Access the full management interface.
 - At this point I was finally able to authenticate the printer to the correct Wi-Fi network, at which point it promptly rebooted and then went catatonic for a worryingly long time before finally connecting.
 - But we're not done yet! The HP printer app claims to be able to set up the local printer on the Chromebook, but as far as I can tell, it doesn't even attempt to do this. However, we have a network connection, I can read out supply levels and what-not, how hard can this be?
 - Despite having Google Cloud Print enabled, nothing was auto-detected, so I created it as IPP (amazingly, this step *is* actually in the docs).

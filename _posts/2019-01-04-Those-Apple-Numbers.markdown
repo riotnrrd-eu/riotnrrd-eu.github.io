@@ -5,14 +5,11 @@ date:   2019-01-04
 categories:  iPhone Apple 
 ---
 
-# Those Apple Numbers
-
-
 Apple’s terrible, bad, no good updated guidance (not actual results yet, note) was pretty much unavoidable – as were the reams of commentary on the subject. Nevertheless, I had some thoughts of my own to add to the torrent.
 
 # China Syndrome
 
-![|1000x0](/images/103833.jpg)
+![](/images/103833.jpg)
 
 [Tim Cook cited slowing sales in China](https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/) as the primary factor in his guidance:
 
@@ -32,7 +29,7 @@ However, I do not think that the Chinese economy and sanctions represent the who
 
 # A Perfect Storm
 
-![|695x0](/images/103853.jpg)
+![](/images/103853.jpg)
 
 As everyone concentrates on the impact of US sanctions and wider macro-economic trends, there is another factor whose unfortunate timing is compounding the bad news for Apple.
 
@@ -60,7 +57,7 @@ John Gruber [made the same connection](https://daringfireball.net/linked/2019/01
 
 # What Now?
 
-![|978x0](/images/104033.jpg)
+![](/images/104033.jpg)
 
 I am hardly going to offer advice,[^3] either to Tim Cook or to Apple investors. Tim Cook sees numbers that nobody outside the company does, and has certainly already put plans in motion whose effects we will only see several quarters from now. An aircraft carrier[^4] the size of Apple does not turn on the spot. Meanwhile Apple investors, taken as a group, have never displayed any particularly deep understanding of the company’s business, and will no doubt continue to do their own thing.
 
@@ -79,5 +76,3 @@ Apple will probably never again have another iPhone-type product, with such univ
 [^4]: That’s an AirPower reference! Zing! 😢
 
 [^5]: Oh yes, and Mac users – but that platform plateaued a long time ago. I love the macOS as a user, but it’s not a growth market. iPad – still not sure that Apple knows what it wants to do with iPad.
-
-                                             

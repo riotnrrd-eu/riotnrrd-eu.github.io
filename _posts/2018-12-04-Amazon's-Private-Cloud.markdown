@@ -5,16 +5,13 @@ date:   2018-12-04
 categories:  cloud amazon AWS 
 ---
 
-# Amazon's Private Cloud
-
-
 Last week was [AWS re:Invent](https://reinvent.awsevents.com/), and I’m still dealing with the email hangover.[^1] AWS always announce [a thousand and one new offerings and services](https://aws.amazon.com/new/reinvent/) at their show, and this year was no exception. However, there is one announcement that I wanted to reflect upon briefly, out of however many there were during the week.
 
-![|2048x0](/images/IMG_0083.JPG)
+![](/images/IMG_0083.JPG)
 
 [AWS Outposts](https://aws.amazon.com/outposts/) are billed as letting users “Run AWS infrastructure on-premises for a truly consistent hybrid experience”. This of course provoked a certain amount of hilarity in the parts of Twitter that have been earnestly debating the existence of hybrid cloud since the term was first coined.
 
-[twitter url=“https://twitter.com/jamestomkins/status/1068252682404515840?s=21]
+![](/images/tweet-1068252682404515840.png)
 
 On the surface, it might indeed seem somewhat strange for AWS, the archetypal public cloud in most people’s minds, to start offering hardware to be deployed on customers’ premises. However, to me it makes perfect sense.
 
@@ -47,4 +44,3 @@ Amazon Outposts is not that. For a start, despite running physically on the cust
 So yes, hybrid cloud. Turns out, it’s not only still a thing, but you can even get it from AWS. Who’d have thunk it?
 
 [^1]: I managed to avoid any hangovers of the alcoholic variety; staying well hydrated in Las Vegas is good for multiple purposes. My inbox, however, is a *mess*.
-

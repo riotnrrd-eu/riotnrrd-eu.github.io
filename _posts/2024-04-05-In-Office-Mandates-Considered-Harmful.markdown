@@ -9,9 +9,17 @@ I was amused to read in [this week's *Platformer* newsletter](https://www.platfo
 
 ![](/images/marissa-mayer.jpg)
 
-Unsurprisingly, simply having everyone physically present in one place does not seem to be a recipe for success — at least, not on its own:
+Her company, Sunshine, took the in-office mandate to a quite ridiculous level:
 
 > Employees are required to work in the office five days a week, and have an all-hands meeting that is scheduled for 5PM on Fridays.
+
+Unsurprisingly, simply having everyone physically present in one place does not seem to be a recipe for success — not even if they stay late into Friday night:
+
+> In the office, employees placed bets on how many downloads the app would get on its first day. Mayer set hers high, at 12,000 (12 is her lucky number). But the actual number was closer to 1,000.
+
+> This week, the company suffered another blow: Mayer’s co-founder, former Google and Yahoo executive Enrique Muñoz Torres, resigned.
+
+> Last summer, Mayer laid off 20 percent of the company, leaving it with about 15 employees.
 
 I have often cited the ability to gather around a whiteboard as one of the great benefits of in-person meetings, but, er, not like this:
 

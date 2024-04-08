@@ -5,9 +5,6 @@ date:   2019-11-19
 categories:  Apple AR VR Virtual-Reality Augmented-Reality 
 ---
 
-# Won’t Somebody Think of the (Virtual) Users?
-
-
 Here’s the thing with VR: nobody has yet figured out what – or who – it’s actually *for*.
 
 It seems like you can’t throw a rock without hitting some wild-eyed evangelist for VR. Apparently the next big thing is going to be [VR tourism](https://www.lifewire.com/virtual-reality-tourism-4129394). On the one hand, this sort of thing could solve problems with overcrowding. Imagine if instead of the Mona Lisa, smaller than you expected, behind a barrier of smudged glass and smartphone-wielding fellow tourists, you could spend undisturbed time as close as you wanted to a high-pixel-count scan. And of course, being VR, you could take selfies from any angle without needing to wield a selfie stick or worry about permits for your camera drone.
@@ -42,7 +39,6 @@ It’s not clear at this stage whether the delay in their AR/VR efforts is due t
 
 The players who are staying in are the ones who want VR and AR to succeed for their own reasons, not because they see huge numbers of potential users clamouring for it. This is a dangerous road, as Sun found out to their cost, back in the day.
 
-[twitter url="https://twitter.com/mcclure111/status/1196557401710837762?s=21”]
 ![](/images/tweet-1196557401710837762.png)
 
 [Read the whole thread](https://web.archive.org/web/20230101130406/https://twitter.com/mcclure111/status/1196557401710837762), it’s gold.

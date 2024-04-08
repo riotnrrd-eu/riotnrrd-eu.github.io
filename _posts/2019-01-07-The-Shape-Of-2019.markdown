@@ -5,9 +5,6 @@ date:   2019-01-07
 categories:  cars privacy social social-media Uber 
 ---
 
-# The Shape Of 2019
-
-
 > They said they need real-world examples, but I don’t want to be their real-world mistake
 
 ![](/images/unknown_filename.430.png)
@@ -19,10 +16,6 @@ That quote comes from a [NYT story about people attacking self-driving vehicles]
 > And shouldn’t you have the choice to make that call?
 
 Cars are just the biggest manifestation of this experimentation that is visible in the real world. How often do we have to read about [Facebook manipulating the content of users’ feeds]({% post_url 2014-06-18-Privacy?-on-the-Internet? %}) – just to see what happens? 
-
-And what about this horrific case?
-
-![](/images/tweet-1072589687489998848.png)
 
 Meanwhile, my details were included in last year’s big [Marriott hack](https://www.cbsnews.com/amp/news/marriott-hack-more-than-5-million-passports-exposed/), and now I find out that my passport details may have been included in the leaked information. Marriott’s helpful suggestion? A year’s free service – from Experian. Yes, [that Experian, the one you know from one of the biggest hacks ever](https://www.washingtonpost.com/business/technology/equifax-hack-hits-credit-histories-of-up-to-143-million-americans/2017/09/07/a4ae6f82-941a-11e7-b9bc-b2f7903bab0d_story.html). 
 

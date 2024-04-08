@@ -5,12 +5,9 @@ date:   2018-05-14
 categories:  work 
 ---
 
-# The VP of Nope
-
-
 I have a character in my head, the VP of Nope. This is pure wish-fulfilment on my part: when everyone was in the room taking an utterly wrong and bone-headed decision, I wish there had been someone present who was sufficiently senior to just say "nnnope" and move on.
 
-![|304x0](/images/unknown_filename.438.jpeg)
+![](/images/unknown_filename.438.jpeg)
 
 It seems I’m not the only one to feel that way, judging by the reactions to my tweet where I mentioned this:
 
