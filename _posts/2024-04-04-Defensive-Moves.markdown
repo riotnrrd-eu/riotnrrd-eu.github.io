@@ -13,7 +13,7 @@ The news of the day is that [Redis has changed its licensing](https://techcrunch
 
 A super-simplified narrative of the fate that has consumed many open-source vendors before Redis would go something like this:
 
-- A vendor is running a classic Red Hat-style dual-track strategy, with an open-source "community" release and a closed-source commercial product. The value proposition for the latter is typically based on some combination of added enterprise functionality and official support contracts. 
+- A vendor is running a classic Red Hat-style dual-track strategy, with an open-source "community" release and a commercial product on top. The value proposition for the latter is typically based on some combination of added closed-source enterprise functionality and official support contracts. 
 - The open-source project is picked up by the cloud hyperscalers, who host it themselves, and contribute nothing back to the vendor acting as commercial shepherd of the project.
 - The vendor's business quickly goes from being promising (*look at all this community growth that can be monetised!*) to extremely challenging (*why would anyone deal with a subscale vendor when they can get the same experience in a couple of clicks from their current cloud vendor?*). 
 - Investors flee and the vendor goes into a death spiral, stabilising (in the best case) as a niche player in a community dominated by the hyperscalers.

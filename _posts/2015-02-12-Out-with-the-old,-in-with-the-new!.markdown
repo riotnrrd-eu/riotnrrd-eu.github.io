@@ -8,7 +8,7 @@ categories:  personal travel
 # Out with the old, in with the new!
 
 
-![|3103x2327](/images/FullSizeRender.1.jpg) 
+![](/images/FullSizeRender.1.jpg) 
 
 When I got my old passport I was living in a different country, I had not even asked my wife to marry me, and I had no idea of the many wonderful ways in which children can upend your life… 
 

@@ -5,12 +5,9 @@ date:   2015-09-24
 categories:   
 ---
 
-# Not Thinking It Through
-
-
 Dear web programmers, input validation is important. We can all agree on this. 
 
- ![|500x280](/images/unknown_filename.247.gif) 
+![](/images/unknown_filename.247.gif) 
 
 *Lazy* input validation, however, just leads to user frustration. 
 

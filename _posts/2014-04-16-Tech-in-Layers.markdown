@@ -40,11 +40,11 @@ Pace layering divides IT into three layers:
 
 The idea is that there are parts of the business where the emphasis is on absolute stability, reliability and predictability - the *Systems of Record*, which are basically the boring stuff that has to work but isn’t particularly interesting. Other areas need to move fast and respond with agility to changing conditions - the *Systems of Innovation*, the cool high-tech leading-edge stuff. In between there are the *Systems of Differentiation*, which are about what the company actually *does*. They need to move fast enough to be relevant, but still be reliable enough to use - often a tough balancing act. The layering looks like this:
 
-![|1411x0](/images/153039.jpg)
+![](/images/153039.jpg)
 
 If we overlay two common IT methodologies, we start to understand many of the ongoing arguments of the last few years, where it seems that practitioners are talking past each other:
 
-![|1368x0](/images/153058.jpg)
+![](/images/153058.jpg)
 
 DevOps, Agile, and so on are approaches that work well for Systems of Innovation. Here it is appropriate to "move fast and break stuff", to fail fast, to A/B test things on the live environment. Run with what works; the goal is speed and quickly figuring out the Next Big Thing.
 

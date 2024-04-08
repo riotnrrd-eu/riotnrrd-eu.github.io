@@ -5,10 +5,7 @@ date:   2014-09-01
 categories:  fastweb customer-sat 
 ---
 
-# A maze of menu options, all alike
-
-
-I cancelled my service with [the Most Incompetent ISP In The World](http://www.fastweb.it "FASTWEB" )[^1] months ago, and somehow they are still able to ruin my week right from a Monday morning.  
+I cancelled my service with [the Most Incompetent ISP In The World](http://www.fastweb.it "FASTWEB")[^1] months ago, and somehow they are still able to ruin my week right from a Monday morning.  
 
 > If you wish to access the service, please press 1.  
   
@@ -27,7 +24,7 @@ Anyway, I no longer have my phone number. I do have my contract number, but I be
 
 > Sorry, that contract ID is not valid. We can not complete your call. (hangs up)  
 
-![|291x300](/images/unknown_filename.3.png)  
+![](/images/unknown_filename.3.png)  
 
 Then I figure out there is a **different** number you can call for inactive contracts, because of course there is. Call *that* up, and on the first attempt it won't recognise DTMF tones. Great start.  
 
@@ -39,4 +36,3 @@ Call them back again, this time it takes the tones. Press 1 for this, press 2 fo
 
 [^1]: Yes, that's my tiny attempt at Google-bombing them. Feel free to join in.
 [^2]: It should tell you something when the cancellation help line is tied up. Remember, this line is for customers who have already leapt through several hoops to cancel, all of which keep moving, and some of which are on fire.
-

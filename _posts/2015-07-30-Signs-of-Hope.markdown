@@ -8,13 +8,13 @@ categories:  media geography bbc
 # Signs of Hope
 
 
-I was heartened to read that the EU, no less, is [calling out Sky](http://www.nytimes.com/2015/07/24/business/international/eu-antitrust-movie-studios-sky-uk.html "E.U. Opens Antitrust Case Against Major U.S. Studios and Sky UK" ) over their silly geographical restrictions: 
+I was heartened to read that the EU, no less, is [calling out Sky](http://www.nytimes.com/2015/07/24/business/international/eu-antitrust-movie-studios-sky-uk.html "E.U. Opens Antitrust Case Against Major U.S. Studios and Sky UK") over their silly geographical restrictions: 
 
-> The European Union’s top antitrust authority on Thursday charged six American studios and a pay television company in Britain with unfairly blocking access to films and other content. 
+> The European Union’s top antitrust authority on Thursday charged six American studios and a pay television company in Britain with unfairly blocking access to films and other content.
 
 Margrethe Vestager had [one of the most intelligent comments I have ever heard from a politician](http://europa.eu/rapid/press-release_IP-15-5432_en.htm "Antitrust: Commission sends Statement of Objections on cross-border provision of pay-TV services available in UK and Ireland" ): 
 
-> European consumers want to watch the pay-TV channels of their choice regardless of where they live or travel in the E.U. 
+> European consumers want to watch the pay-TV channels of their choice regardless of where they live or travel in the E.U.
 
 *Standing ovation* 
 
@@ -42,4 +42,3 @@ Image by [elizabeth lies](https://www.flickr.com/photos/elizabethlies) via [Uns
 
 [^1]: Or to anyone savvy enough to run a VPN - but then again, it’s always possible to [jump the fences]({% post_url 2014-02-04-Jumping-the-fence %})…
 [^2]: Yes, I’m going to give Chris Evans a chance - but I’m also going to check out what the original trio get up to over on Amazon Prime. *That* is a whole *other* rant.
-

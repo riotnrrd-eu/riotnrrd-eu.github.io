@@ -5,7 +5,7 @@ date:   2016-09-09
 categories:  iPhone email 
 ---
 
-Right now, basically the entire Internet is having a massive collective tantrum over the fact that [Apple dropped the headphone jack from the newest iPhone](https://www.buzzfeed.com/johnpaczkowski/inside-iphone-7-why-apple-killed-the-headphone-jack ). This, despite the fact that (in a very un-Apple move) the box includes *both* a Lightning-to-TRS audio jack adapter, *and* a pair of EarPods with a Lightning connector.
+Right now, basically the entire Internet is having a massive collective tantrum over the fact that [Apple dropped the headphone jack from the newest iPhone](https://www.buzzfeed.com/johnpaczkowski/inside-iphone-7-why-apple-killed-the-headphone-jack). This, despite the fact that (in a very un-Apple move) the box includes *both* a Lightning-to-TRS audio jack adapter, *and* a pair of EarPods with a Lightning connector.
 
 Speaking for myself, I already specced out the iPhone I want, but I’m just waiting to pick it up when I go to San Francisco next month. Some times, geo restrictions actually work in my favour, as even with SF sales tax, the US price is a couple of hundred Euros cheaper than my local price. EarPods don’t fit my ears (which also means the new AirPods are out), so I’ll use the adapter while I look for W1 wireless earphones that I like.
 
@@ -82,4 +82,3 @@ Who wants to bet that inside of two years, all the major Android manufactures of
 
 [^1]: Yes, I have given up on calling it “e-mail”, although I still think that is more correct.
 [^2]: An internet, the Internet. Come at me.
-

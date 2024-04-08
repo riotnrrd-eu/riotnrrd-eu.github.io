@@ -65,7 +65,7 @@ If you have to spend just one night on the road, it's not worth hauling an entir
 
  ![](/images/unknown_filename.221.jpeg) 
 
-I own a previous generation of [this bag from Tumi](http://www.tumi.com/p/deluxe-wheeled-brief-with-laptop-case-026127DH "Deluxe Wheeled Brief with Laptop Case | Tumi" ), and I love it. Others do the same sort of thing with a backpack, but then you need somewhere to put your clean clothes so they don't end up in a ball at the bottom of the backpack with a packet of last year's mints and a cable for a device you no longer own. However, I'm aware that I am prejudiced against the suit+backpack look, so if that combo works for you, more power to you. 
+I own a previous generation of [this bag from Tumi](http://www.tumi.com/p/deluxe-wheeled-brief-with-laptop-case-026127DH "Deluxe Wheeled Brief with Laptop Case | Tumi"), and I love it. Others do the same sort of thing with a backpack, but then you need somewhere to put your clean clothes so they don't end up in a ball at the bottom of the backpack with a packet of last year's mints and a cable for a device you no longer own. However, I'm aware that I am prejudiced against the suit+backpack look, so if that combo works for you, more power to you. 
 
 ## The Basic Roll-Aboard
 
@@ -93,9 +93,9 @@ Duffel bags **are** subject to the same limitation that I was complaining about 
 
 This one definitely depends on your lifestyle and wardrobe - but if you need to wear a suit or similar formalwear at your destination more than rarely, you need one of these. Basically, the idea is that instead of *folding* your clothes, you just place them in the case, still on their hangers, secure them in place with a strap or two, zip up the case and off you go. At your destination, you can either hang the entire bag if you have a suitably sturdy wardrobe, or simply remove your clothes, still on their hangers, and hang them right up. While they won't be 100% fresh, they will be *far* less rumpled than if you'd folded them. 
 
-Once again, my own choice is from Tumi - the previous generation of [this bag](http://www.tumi.com/p/wheeled-medium-trip-garment-bag-022035D2?subcat=true "Wheeled Medium Trip Garment Bag" ):  
+Once again, my own choice is from Tumi - the previous generation of [this bag](http://www.tumi.com/p/wheeled-medium-trip-garment-bag-022035D2 "Wheeled Medium Trip Garment Bag"):  
 
- ![](/images/unknown_filename.224.jpeg) 
+![](/images/unknown_filename.224.jpeg) 
 
 The thing is genius. If it does have one flaw, it's that it is pretty wide, so it can be unwieldy in airports where they have those width restrictions to stop people going through with their trolleys. It *is* still within IATA dimensions, although I've had to argue the point with gate agents a couple of times. Overall, the results are worth it though. 
 
@@ -128,7 +128,7 @@ Happy travels! 
 ***
 ## Update 
 
-I had no sooner published this post, than I found [this list of "bad travel gear"](http://www.economist.com/blogs/gulliver/2015/04/bad-travel-gear "Bad travel gear: What not to bring" ) from The Economist in my RSS queue. 
+I had no sooner published this post, than I found [this list of "bad travel gear"](http://www.economist.com/blogs/gulliver/2015/04/bad-travel-gear "Bad travel gear: What not to bring") from The Economist in my RSS queue. 
 
 The very first item in the list is: 
 
@@ -152,4 +152,3 @@ For once, I can't agree with Gulliver and The Economist. Unless it's a short-ha
 Image by [Matthew Wiebe](http://www.flickr.com/mattwieve) via [Unsplash](https://unsplash.com)
 
 [^1]: The most infuriatingly loose specification *ever*. Just say "jeans & sneakers okay" or "chinos & polo shirts" or whatever. "Business casual" is too context-dependant to be useful unless you already know.
-

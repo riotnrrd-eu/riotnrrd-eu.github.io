@@ -12,7 +12,7 @@ categories:  AI machine-learning
 
 AI and machine-learning (ML) are the hot topic of the day. As is usually the case when something is on the way up to the Peak of Inflated Expectations, wild proclamations abound of how this technology is going to either doom or save us all. Going on past experience, the results will probably be more mundane – it will be useful in some situations, less so in others, and may be harmful where actively misused or negligently implemented. However, it can be hard to see that stable future from inside the whirlwind.
 
-In that vein, I was reading [an interesting article](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/ "AI is now so complex its creators can’t trust why it makes decisions" ) which gets a lot right, but falls down by conflating two issues which, while related, should remain distinct.
+In that vein, I was reading [an interesting article](https://qz.com/1146753/ai-is-now-so-complex-its-creators-cant-trust-why-it-makes-decisions/) which gets a lot right, but falls down by conflating two issues which, while related, should remain distinct.
 
 > there’s a core problem with this technology, whether it’s being used in social media or for the Mars rover: The programmers that built it don’t know why AI makes one decision over another.
 
@@ -22,7 +22,7 @@ This is great, as developing those rules is time-consuming and not exactly rivet
 
 I spend a fair amount of my time at [work](http://www.moogsoft.com) dealing with prospective customers of our own machine-learning solution. There are two common objections I hear, which fall at opposite ends of the same spectrum, but both illustrate just how different users find these new techniques.
 
-![|371x0](/images/IMG_0007.PNG)
+![](/images/IMG_0007.PNG)
 
 *Yes, there is an [XKCD](https://xkcd.com/1838/) for every occasion*
 
@@ -32,7 +32,7 @@ Something of the calibre of Siri or Alexa would absolutely have been considered 
 
 This leads us to the second class of objection: “how can I debug it?” People want to be able to pause execution and inspect the state of variables, or to have some sort of log that explains exactly the decision tree that led to a certain outcome. Unfortunately machine learning simply does not work that way. Its results are what they are, and the only way to influence them is to flag which are good and which are bad.
 
-![|640x0](/images/unknown_filename.442.jpeg)
+![](/images/unknown_filename.442.jpeg)
 
 This is where the confusion I mentioned above comes in. When these techniques are applied in a purely technical domain - in my case, enterprise IT infrastructure - the results are fairly value-neutral. If a monitoring event gets mis-classified, the nature of Big Data (yay! even more buzzwords!) means that the overall issue it is a symptom of will probably still be caught, because enough other related events will be classified correctly. If however the object of mis-categorisation happens to be a human being, then even one failure could affect that person’s job prospects, romantic success, or even their criminal record.
 
