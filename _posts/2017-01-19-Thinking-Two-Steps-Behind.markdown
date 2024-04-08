@@ -5,10 +5,7 @@ date:   2017-01-19
 categories:  cars sales disruption enterprise 
 ---
 
-# Thinking Two Steps Behind
-
-
-![|800x0](/images/unknown_filename.443.png)
+![](/images/unknown_filename.443.png)
 
 In [my day job](http://www.moogsoft.com), I spend a lot of my time building business cases to help understand whether our technology is a good fit for a customer. When you are building a startup business, this is the the expected trajectory: in the very early days, you have to make the technology work, translating the original interesting idea into an actual product that people can use in the real world. Once you have a working product, though, it’s all about *who* can use it, and *what* they can do with it.
 
@@ -18,7 +15,7 @@ This discipline of analysing goals and identifying a technology fit is very usef
 
 ### Let’s think about driverless cars
 
-Limited forms of self-driving technology already exist, from radar cruise-control to more complete approaches such as Tesla’s Autopilot. None of these are quite ready for prime time, and there are fairly regular stories about their failures, with consequences from the comic to the [tragic](http://www.theverge.com/2016/6/30/12072408/tesla-autopilot-car-crash-death-autonomous-model-s "Tesla driver killed in crash with Autopilot active, NHTSA investigating" ).
+Limited forms of self-driving technology already exist, from radar cruise-control to more complete approaches such as Tesla’s Autopilot. None of these are quite ready for prime time, and there are fairly regular stories about their failures, with consequences from the comic to the [tragic](http://www.theverge.com/2016/6/30/12072408/tesla-autopilot-car-crash-death-autonomous-model-s "Tesla driver killed in crash with Autopilot active, NHTSA investigating").
 
 Because of these issues, Tesla and others require that a drivers keep their hands on the wheel even when the car is in Autopilot mode. This brings its own problems, falling into an “uncanny valley” of attention: the driver is neither fully engaged, nor can they fully disengage. Basically it’s the worst of both worlds, as drivers are no longer involved in the driving, but still cannot relax and read a book or watch a film.
 
@@ -26,9 +23,9 @@ These limitations have not stopped much of the commentary from assuming self-dri
 
 ### Okay, maybe not cars
 
-Self-driving technology is not nearly capable (yet) of navigating busy city streets, full of unpredictable pedestrians, cyclists, and so on, so near-term projections focus on what is perceived as a more easily solvable problem: [long-distance trucking](https://www.wired.com/2016/10/ubers-self-driving-truck-makes-first-delivery-50000-beers/ "Uber’s Self-Driving Truck Makes Its First Delivery: 50,000 Beers" ).
+Self-driving technology is not nearly capable (yet) of navigating busy city streets, full of unpredictable pedestrians, cyclists, and so on, so near-term projections focus on what is perceived as a more easily solvable problem: [long-distance trucking](https://www.wired.com/2016/10/ubers-self-driving-truck-makes-first-delivery-50000-beers/ "Uber’s Self-Driving Truck Makes Its First Delivery: 50,000 Beers").
 
-The idea is that currently existing self-driving tech is already just about capable of navigating the constrained, more predictable environment of the highways between cities. Given some linear improvement, it does not seem that far-fetched to assume that a few more years of development would give us software capable of staying in lane and avoiding obstacles reliably enough to [navigate a motorway in formation with other trucks](http://www.theverge.com/2016/4/7/11383392/self-driving-truck-platooning-europe "Self-driving truck convoy completes its first major journey across Europe" ).
+The idea is that currently existing self-driving tech is already just about capable of navigating the constrained, more predictable environment of the highways between cities. Given some linear improvement, it does not seem that far-fetched to assume that a few more years of development would give us software capable of staying in lane and avoiding obstacles reliably enough to [navigate a motorway in formation with other trucks](http://www.theverge.com/2016/4/7/11383392/self-driving-truck-platooning-europe "Self-driving truck convoy completes its first major journey across Europe").
 
 Extrapolating this capability to the wholesale replacement of truckers with autonomous robot trucks, however, is a big reach - and not so much for technical reasons, as for less easily tractable external reasons.
 
@@ -38,7 +35,7 @@ This is all starting to sound very familiar. We already *have* a network optimis
 
 I am of course talking about railways.
 
-![|800x0](/images/unknown_filename.444.png)
+![](/images/unknown_filename.444.png)
 
 ### Get on the train
 
@@ -85,5 +82,3 @@ But that doesn’t get as many visionary thinkpieces and TED talks.
 
 ***
 Images by [Nabeel Syed](http://nabeelsyed.com) and [Darren Bockman](https://unsplash.com/@bockman) via [Unsplash](https://unsplash.com), and by [ronnieb](http://www.therising-sun.us) via [Morguefile](https://morguefile.com)
-
-                                                               

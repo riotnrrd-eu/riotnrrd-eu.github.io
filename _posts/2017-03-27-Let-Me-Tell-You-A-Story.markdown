@@ -2,19 +2,16 @@
 layout: post
 title:  Let Me Tell You A Story 
 date:   2017-03-27 
-categories:  sales 
+categories:  sales marketing
 ---
-
-# Let Me Tell You A Story
-
 
 Any good presentation is a story, and a good presenter is adept at telling their audience a story in a way that is compelling. Some are naturally good at this sort of thing - but all of us have been forced to sit through presentations with no unifying thread of story.
 
 Luckily for the rest of us, there are techniques that can help us become better storytellers, and avoid boring our audiences to tears.
 
-![|800x0](/images/unknown_filename.211.png)
+![](/images/unknown_filename.211.png)
 
-One of the most effective approaches I have learned is called [SCIPAB](https://www.mandel.com/top-ten-reasons/tools-methodology/scipab "Mandel | SCIPAB" ), a technique developed by Steve Mandel and now spread by the company he founded, Mandel Communications. I was lucky enough to be trained in SCIPAB by Mandel Communications as part of a more general "presentation skills" training. I don’t want to steal their thunder (or their business!), but I do want to share some of the insights that I carry with me and use regularly.
+One of the most effective approaches I have learned is called [SCIPAB](https://www.mandel.com/top-ten-reasons/tools-methodology/scipab "Mandel | SCIPAB"), a technique developed by Steve Mandel and now spread by the company he founded, Mandel Communications. I was lucky enough to be trained in SCIPAB by Mandel Communications as part of a more general "presentation skills" training. I don’t want to steal their thunder (or their business!), but I do want to share some of the insights that I carry with me and use regularly.
 
 *SCIPAB* is an acronym, which stands for the phases of a story:
 
@@ -39,7 +36,7 @@ These phases have a specific technical meaning within the Mandel technique, but 
 
 Let us map SCIPAB onto the Hero’s Journey, so that we can take our audiences on a journey with us and lead them to a shared conclusion.
 
-![|940x0](/images/unknown_filename.210.jpeg)
+![](/images/unknown_filename.210.jpeg)
 
 ## Situation
 
@@ -74,4 +71,3 @@ By structuring your communications in this way, you will be able to have much mo
 Plus, this way is much more fun for the presenter. Try it, and let me know how it goes!
 
 [^1]: This is also known as "Position", but "Proposal" is what I learned, plus I think it fits better within the flow.
-

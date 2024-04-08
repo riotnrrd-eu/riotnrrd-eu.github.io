@@ -5,12 +5,9 @@ date:   2017-07-31
 categories:  amazon privacy big-data Apple 
 ---
 
-# Sowing Bitter Seeds
-
-
 The Internet is outraged by… well, a whole lot of things, as usual, but in particular by Apple. For once, however, the issue is not phones that are both unexciting and unavailable, lacking innovation and wilfully discarding convention, and also both over- and under-priced. No, this time the issue is apps, and in particular VPN apps.
 
-![|728x0](/images/IMG_0964.JPG)
+![](/images/IMG_0964.JPG)
 
 Authoritarian regimes around the world (Russia, "Saudi" Arabia, China, North Korea, etc) have long sought to control their populations' access to information in general, and to the Internet in particular. Of course anyone with a modicum of technical savvy - or a friend, relative, or passing acquaintance willing to do the simple setup - can keep unfettered access to the Internet by going through a Virtual Private Network, or VPN.
 
@@ -47,5 +44,4 @@ What *other* design decisions are being made today based on obsolete assumptions
 UPDATE: And there we go, now Russia is following China’s example and [banning VPNs](http://www.reuters.com/article/us-russia-internet-idUSKBN1AF0QI) as well. The idea of a technical fix to social and legal problems is always a short-term illusion.
 
 ***
-Image by [Sean DuBois](https://unsplash.com/@seandubois") via [Unsplash](https://unsplash.com)
-
+Image by [Sean DuBois](https://unsplash.com/@seandubois") via [Unsplash](https://unsplash.com)

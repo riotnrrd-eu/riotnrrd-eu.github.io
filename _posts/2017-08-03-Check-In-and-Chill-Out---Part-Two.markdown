@@ -5,10 +5,7 @@ date:   2017-08-03
 categories:  travel 
 ---
 
-# Check In and Chill Out - Part Two
-
-
-Yesterday I wrote about [travel tips for road warriors](http://findthethread.postach.io/post/check-in-and-chill-out) to survive the holiday season. Today, I wanted to share some advice for less frequent travellers.
+Yesterday I wrote about [travel tips for road warriors]({% post_url 2017-08-02-Check-In-and-Chill-Out %}) to survive the holiday season. Today, I wanted to share some advice for less frequent travellers.
 
 ![](/images/unknown_filename.70.png)
 
@@ -34,7 +31,7 @@ Empty your pockets - of *everything*, not just metal. These days, most airports 
 
 You may be able to pay to access **Fast Track lanes** even if you are not a frequent flyer or flying business class. At this time of year, that's probably a good investment. Check your departure airport's website; they often have deals, especially if you also pre-pay for parking (something else you need to allow time for, because all the parking lots are full and you'll end up two miles' walk and a long shuttle bus ride from the terminal).
 
-![|400x0](/images/unknown_filename.69.png)
+![](/images/unknown_filename.69.png)
 
 Once you're through security, keep an eye on time. These days, most airports don't assign gates until quite close to **boarding time**. Don't hover in front of the screens waiting for a gate to be assigned! Your airline or airport's app or website should give you updates, so you can find yourself a corner in a bar or café to wait in comfort, instead of standing around in a crowd of bewildered tourists. There are also [dedicated apps](https://appsto.re/it/PXtkP.i) that will put a flight board right on your phone. If you’re worried about roaming, most airports have free wifi, at least for a time. Here’s a tip, though: park yourself right outside the frequent-flyer lounges, and you may be able to sneak onto their unlimited wifi instead.
 
@@ -50,4 +47,3 @@ My best advice to both seasoned road warriors and nervous travel newbies is just
 
 ***
 Photos by [ANDRIK ↟ LANGFIELD ↟ PETRIDES](https://unsplash.com/photos/qvFlxrDSyXU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Tom Eversley](https://unsplash.com/photos/1bK7uTiSxcM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Ashim D’Silva](https://unsplash.com/photos/sXeV4NySLWc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and [Bambi Corro](https://unsplash.com/photos/VSnHXBD2Thc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com)
-

@@ -5,10 +5,7 @@ date:   2016-09-19
 categories:  cars iPhone iOS CarPlay 
 ---
 
-# Updating the Car
-
-
-As I mentioned in my [one-year review of my car]( ), the one aftermarket upgrade I made was to swap the rather dated factory ICE for a CarPlay head unit. That modification is itself now about a year into its service, so it is also about due a review. 
+As I mentioned in my [one-year review of my car]({% post_url  2016-05-17-Stupid-Car-Review,-One-Year-In %}), the one aftermarket upgrade I made was to swap the rather dated factory ICE for a CarPlay head unit. That modification is itself now about a year into its service, so it is also about due a review. 
 
 The reason for the upgrade is that the factory PCM 2.1 unit was really showing its age, with no USB, Bluetooth, or even Aux-in. In other words, Porsche were way ahead of Apple in removing the headphone jack… *Courage!*
 
@@ -20,7 +17,7 @@ The worst part, though, was the near decade-old maps. While we do have some road
 
 My solution for these problems was to swap the PCM 2.1 system for a head unit that is basically just a dumb screen driven by an iPhone, with no functionality of its own beyond a FM tuner. The reason is that I change phones much more frequently than I change cars, and upgrade the software on my phone more frequently than that. 
 
-The specific device is an [Alpine ILX-007](https://kb.alpine-usa.com/category/av-head-units-head-units/ilx/ilx-007/369/)
+The specific device is an [Alpine ILX-007](https://kb.alpine-usa.com/category/av-head-units-head-units/ilx/ilx-007/369/)and I am quite satisfied with it. It has a decent screen, which seems to be one of the key [complaints](http://pxlnv.com/linklog/vinh-carplay/) people have about other CarPlay systems. There is occasionally a little lag, but I assume that’s software rather than hardware, since it’s not reproducible. It did crash on me once, losing my radio presets, but that’s it.
 
 ## Upgrades
 

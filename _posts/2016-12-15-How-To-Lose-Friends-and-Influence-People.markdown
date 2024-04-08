@@ -5,9 +5,6 @@ date:   2016-12-15
 categories:  privacy social evernote 
 ---
 
-# How To Lose Friends and Influence People
-
-
 I am a huge fan of Evernote. I have used their software for many years, and its many features are key parts of my workflow. I take notes on multiple devices, use tagging to sync between those devices, take snapshots of business cards and let the OCR and the access to LinkedIn sort out the details, annotate images and PDFs, and more.
 
 I should say, I *used* to be a fan of Evernote. They recently made some changes to their privacy policy that have users up in arms. Here is the relevant entry from their changelog:
@@ -18,7 +15,7 @@ I should say, I *used* to be a fan of Evernote. They recently made some changes 
 > 
 > We clarified that in building a more personalized Evernote service that can adapt to the way you think and work, a small group of engineers may need to oversee these automated technologies to ensure they are working as intended. Also, we added that we will be using data from other sources to tailor your Evernote experience and explain how you can get more out of your Evernote account. Please see our FAQ for more information on these changes.
 
-[Updates to our legal documents | Evernote](https://evernote.com/legal/changes.php?2017-update#privacy)
+[Updates to our legal documents \| Evernote](https://evernote.com/legal/changes.php?2017-update#privacy)
 
 This may be fairly inoffensive, but it is worrying to me and to many users. These days, “personalisation" is often code for "gathering data indiscriminately for obscure purposes that may change at any time". This exchange is generally presented as a bargain where users sacrifice (some) privacy to the likes of Google in exchange for free use of their excellent services such as Gmail or Maps.
 
@@ -42,7 +39,7 @@ So basically, Evernote employees have always had access to our stuff. This part
 * New: We need to do so for troubleshooting purposes **or to maintain and improve the Service**;
 * Old: We need to do so for troubleshooting purposes;
 
-[Privacy Policy | Evernote](https://evernote.com/legal/privacy.php)
+[Privacy Policy \| Evernote](https://evernote.com/legal/privacy.php)
 [Privacy Policy - 2017 update](https://evernote.com/legal/privacy.php?2017-update)
 
 ![](/images/unknown_filename.162.jpeg)
@@ -82,4 +79,3 @@ The Bear team have even been having some fun on Twitter at Evernote’s expense
 I composed this post in Bear, and I have to say, it is very nice. I copied it over to Evernote to publish here, but it’s the first crack. Before this mess, I was a vocal advocate of Evernote. Now? I am actively evaluating alternatives. 
 
 Respect your users, yo.
-

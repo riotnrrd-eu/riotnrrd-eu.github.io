@@ -8,33 +8,29 @@ categories:  bladelogic Puppet
 # What if…
 
 
-While it may seem obvious to those of us who have been around this market for a while, it was interesting to read that at the recent Puppetconf 2016 event, Puppet still felt the need to state that ["In the future code is going to be managed and deployed by other code"](http://www.theregister.co.uk/2016/10/21/puppetconf_2016/ "Puppet shows its hand: All your software is belong to us" ). If you’re surprised that this sentiment still needs to be articulated explicitly in 2016, you have not been paying attention.
+While it may seem obvious to those of us who have been around this market for a while, it was interesting to read that at the recent Puppetconf 2016 event, Puppet still felt the need to state that ["In the future code is going to be managed and deployed by other code"](http://www.theregister.co.uk/2016/10/21/puppetconf_2016/ "Puppet shows its hand: All your software is belong to us"). If you’re surprised that this sentiment still needs to be articulated explicitly in 2016, you have not been paying attention.
 
-It is certainly true that the leading edge is all ["cattle, not pets"](http://www.slideshare.net/randybias/pets-vs-cattle-the-elastic-cloud-story "Pets vs. Cattle: The Elastic Cloud Story" ) and "automate all the things", but there’s a pretty long tail behind that head. Only 2% of workloads are currently running in "the cloud" - although the precise definition is complicated by that nebulous term. Everything else? Still running on premises, or at best in a colo.
+It is certainly true that the leading edge is all ["cattle, not pets"](http://www.slideshare.net/randybias/pets-vs-cattle-the-elastic-cloud-story "Pets vs. Cattle: The Elastic Cloud Story") and "automate all the things", but there’s a pretty long tail behind that head. Only 2% of workloads are currently running in "the cloud" - although the precise definition is complicated by that nebulous term. Everything else? Still running on premises, or at best in a colo.
 
 ![](/images/unknown_filename.478.jpeg)
 
 The same goes for automation: for every fully-automated containerised full-stack deployment, there are fifty that are not automated.
 
-Nevertheless, Puppet has built a $100M business on automation. I know a bit about this space, having worked at BladeLogic, one of the pioneers of automation. While BladeLogic and Puppet have a [history](http://findthethread.postach.io/post/the-bigger-picture "The Bigger Picture" ), today I am wondering about whether things might have gone differently.
+Nevertheless, Puppet has built a $100M business on automation. I know a bit about this space, having worked at BladeLogic, one of the pioneers of automation. While BladeLogic and Puppet have a [history]({% post_url 2014-04-29-The-Bigger-Picture %}), today I am wondering about whether things might have gone differently.
 
 Luke Kanies, the founder of Puppet, was a BladeLogic employee, although he left before I ever joined. From what I gather, he was a proponent of extending BladeLogic’s foundation in Network Shell, or NSH, into a free open-source platform, on which a commercial product could be built. Instead, BladeLogic’s management preferred to shut down the open-source NSH project and just use the technology inside the commercial BladeLogic product.
 
 For those in the know, [NSH](http://www.fredshack.com/docs/networkshell.html) was a fantastic tool. At root it was a shell based on ZSH, but with network awareness on top. What this meant was that you could do things like this:
 
-     `host $ cp /etc/hosts //host1/etc/hosts
-
-     host $ cd //host2/home
-
-     host2 $ ps -ef | grep inetd
-
-     host2 $ diff //host3/etc/passwd //host4/etc/passwd
-
-     host2 $ iostat 2 5
-
-     host2 $ vi //nthost/c/AUTOEXEC.BAT
-
-     host2 $ nexec nthost reboot Let's reboot NT`
+```
+host $ cp /etc/hosts //host1/etc/hosts
+host $ cd //host2/home
+host2 $ ps -ef | grep inetd
+host2 $ diff //host3/etc/passwd //host4/etc/passwd
+host2 $ iostat 2 5
+host2 $ vi //nthost/c/AUTOEXEC.BAT
+host2 $ nexec nthost reboot Let's reboot NT
+```
 
 You could copy files between systems, compare them or even edit them in place, and generally do all sorts of good things - including developing scripts to automate those tasks. For me at least, this was the first hint of the new world in which systems are no longer managed one by one, with admins ssh’ing into them individually, but in bulk, deploying a single config to many systems in one action. Best of all, it was multi-platform, abstracting the differences between different UNIX variants, and even working on Windows. ZSH on NT? That’s a major selling point right there!
 
@@ -42,7 +38,7 @@ However, even among BladeLogic employees and users, the interactive mode of NSH 
 
 ## 20/20 Hindsight
 
-Of course hindsight is a wonderful thing, and what is a fairly uncontroversial strategy to propose in 2016 was not so obvious fifteen years ago. Back then, there were vanishingly few successful hybrid business models that combined an open-source platform with a commercial component. It would not be fair to criticise BladeLogic’s management at the time for not taking that route - especially since they were [outstandingly successful](http://www.datacenterknowledge.com/archives/2008/03/17/bmc-buys-bladelogic-for-800-million/ "BMC Buys BladeLogic for $800 Million" ) with the strategy that they did choose. The hybrid model would have been a major strategic choice, and there is no guarantee that VCs and other investors would have gone along with it.
+Of course hindsight is a wonderful thing, and what is a fairly uncontroversial strategy to propose in 2016 was not so obvious fifteen years ago. Back then, there were vanishingly few successful hybrid business models that combined an open-source platform with a commercial component. It would not be fair to criticise BladeLogic’s management at the time for not taking that route - especially since they were [outstandingly successful](http://www.datacenterknowledge.com/archives/2008/03/17/bmc-buys-bladelogic-for-800-million/ "BMC Buys BladeLogic for $800 Million") with the strategy that they did choose. The hybrid model would have been a major strategic choice, and there is no guarantee that VCs and other investors would have gone along with it.
 
 I just wonder sometimes - what might have been, in a world where a free download of NSH would have gained mindshare in the data center, *at the same time* that high-powered, PTC-trained sales people were gaining the trust of the C-suite?
 
@@ -53,4 +49,3 @@ Today, in 2016, Robert Stroud, a Forrester analyst at the Puppet event, is sayin
 At BladeLogic, we were saying that ten years ago. Regardless of the commercials, this market of automated server configuration management is arguably ten years behind where it should be. Sure, we can *deploy* things at scale, but *managing* them at scale is still a challenge - although the challenge is as much one of process as of tools. The cloud has enabled all sorts of new businesses and even entire new business models, but it is still constrained by the complexity and consequent fragility of the underlying infrastructure.
 
 What might be possible if we had solved that problem ten years ago? What new possibilities might have been enabled, that we will only find out about years from now?
-

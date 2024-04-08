@@ -10,16 +10,16 @@ categories:  sales bitcoin
 
 Young people these days, am I right?
 
-> We have fallen upon evil times,
-> And the world has waxed very old and wicked.
-> Politics are very corrupt.
-> Children are no longer respectful to their parents.
+> We have fallen upon evil times,
+> And the world has waxed very old and wicked.
+> Politics are very corrupt.
+> Children are no longer respectful to their parents.
 >
-> Author: Naram Sin, King of Chaldea. Date: 3800 B.C.[^1]
+> Author: Naram Sin, King of Chaldea. Date: 3800 B.C.[^1]
 
 I don’t know how long is too long to be in sales, but I have now been doing it for long enough that I can look down at young whippersnappers and their naivety.
 
-Today’s example is actually a perfect storm of sorts, involving Silicon Valley VCs, a Bitcoin startup, and large enterprise processes. I was listening to [the a16z podcast](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin" ), which as usual is about equally irritating and enlightening. The guest on this particular episode was one [Adam Ludwin](https://twitter.com/adamludwin), whose claim to fame is as the founder of a Bitcoin - sorry, ***blockchain*** startup, called [Chain](http://chain.com "Chain | Enterprise Blockchain Platform" ).
+Today’s example is actually a perfect storm of sorts, involving Silicon Valley VCs, a Bitcoin startup, and large enterprise processes. I was listening to [the a16z podcast](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin"), which as usual is about equally irritating and enlightening. The guest on this particular episode was one [Adam Ludwin](https://twitter.com/adamludwin), whose claim to fame is as the founder of a Bitcoin - sorry, ***blockchain*** startup, called [Chain](http://chain.com "Chain | Enterprise Blockchain Platform").
 
 ![](/images/unknown_filename.10.jpeg)
 
@@ -63,21 +63,21 @@ So far so good, right? Well, if it were that simple, everyone would be doing it.
 
 "At any given institution, it’s very very rare to find someone who actually knows how the whole thing works.” ([direct link to relevant quote in podcast](https://overcast.fm/+BlzHxlBRY/23:40))
 
-This is something else that people don’t always get when they begin dealing with large organisations. Very few people have visibility into the whole problem[^2]. Here is [an example]({% post_url 2013-06-24-All-Software-Sucks %}) from my own past:
+This is something else that people don’t always get when they begin dealing with large organisations. Very few people have visibility into the whole problem[^2]. Here is [an example]({% post_url 2013-06-24-All-Software-Sucks %}) from my own past.
 
-> Years ago, I was the tech guy on a team selling to a mobile telco. As part of our business case, we were trying to quantify the impact of downtime on a system that activated SIM cards. We had some numbers from IT, but they were incomplete. We rounded them out with some numbers from the helpdesk, but we kept feeling we were missing something. Finally, the sales guy stopped off at a couple of corner shops that sold the SIM cards, and found that the impact was far greater than anyone imagined. It turned out that the shops rarely activated the SIM cards with the customer in the shop, but did them all in a batch at closing time. This created the overload spikes which were taking the central system down, but it also meant that the downtime was costing far more than anyone imagined.
+Years ago, I was the tech guy on a team selling to a mobile telco. As part of our business case, we were trying to quantify the impact of downtime on a system that activated SIM cards. We had some numbers from IT, but they were incomplete. We rounded them out with some numbers from the helpdesk, but we kept feeling we were missing something. Finally, the sales guy stopped off at a couple of corner shops that sold the SIM cards, and found that the impact was far greater than anyone imagined. It turned out that the shops rarely activated the SIM cards with the customer in the shop, but did them all in a batch at closing time. This created the overload spikes which were taking the central system down, but it also meant that the downtime was costing far more than anyone imagined.
 
-In that situation, when we asked the IT team, they described the part of the problem that they saw. Actually, it was more complex than that; we had to speak to a number of dedicated teams within IT, from servers, to databases, to middleware, to networks - but at least we were able to find people within IT who did have visibility across the IT parts of the problem. The main point, though, is that as far as IT was concerned, *everything was fine*. The parts that they saw were doing fine, all of their indicators were in the green except for a couple, and they believed themselves to be on track to address those. 
+In that situation, when we asked the IT team, they described the part of the problem that they saw. Actually, it was more complex than that; we had to speak to a number of dedicated teams within IT, from servers, to databases, to middleware, to networks - but at least we were able to find people within IT who did have visibility across the IT parts of the problem. The main point, though, is that as far as IT was concerned, *everything was fine*. The parts that they saw were doing fine, all of their indicators were in the green except for a couple, and they believed themselves to be on track to address those. 
 
 Support had an idea that something was wrong, but it was only at certain times, and at other times everything was fine, so the problem seemed to be contained.
 
 Meanwhile, in the corner shops, customers were getting frustrated and picking up the competitors’ SIM cards instead, because they could actually activate those and use them to make phone calls.
 
-It turned out that *literally nobody* within the company understood the entire end-to-end process. This was a core business process: we were dealing with a mobile telco, and the process we were analysing was the activation of new subscriber SIM cards. One of the key metrics that the company measured itself against was *churn*, the difference between customers acquired versus those lost to their competition - so customer acquisition was a critical step, and yet nobody truly understood the entire process of how new customers were acquired. 
+It turned out that *literally nobody* within the company understood the entire end-to-end process. This was a core business process: we were dealing with a mobile telco, and the process we were analysing was the activation of new subscriber SIM cards. One of the key metrics that the company measured itself against was *churn*, the difference between customers acquired versus those lost to their competition - so customer acquisition was a critical step, and yet nobody truly understood the entire process of how new customers were acquired. 
 
-What I learned is that this is normal. The sorts of processes that modern business runs on are too complex to be understood in their entirety - not when there are a hundred and one other tasks demanding people’s attention. When selling to these organisations, we need to ensure that we understand what we are proposing that they replace - and this means talking to many different people, because nobody sees the whole picture. 
+What I learned is that this is normal. The sorts of processes that modern business runs on are too complex to be understood in their entirety - not when there are a hundred and one other tasks demanding people’s attention. When selling to these organisations, we need to ensure that we understand what we are proposing that they replace - and this means talking to many different people, because nobody sees the whole picture. 
 
-![](/images/unknown_filename.12.jpeg) 
+![](/images/unknown_filename.12.jpeg) 
 
 People working inside complex processes are busy with individual trees, and not necessarily focusing on the entire forest. Vice versa, if we are to propose that foresters change how they manage their trees, we had better have a pretty comprehensive picture of *why*.
 
@@ -86,7 +86,7 @@ People working inside complex processes are busy with individual trees, and not 
 Anyway, if you are a brash startup planning to sell into large corporations, just be aware that there is a lot going on inside those buildings - and much of it even makes sense, if you take the time to understand it. Selling to enterprise is *different* from selling to consumers or SMB, and needs to be approached with different tools.
 
 ***
-Image by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) via [Unsplash](https://unsplash.com)
+Image by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) via [Unsplash](https://unsplash.com)
 
 [^1]: Yes, [I know it’s apocryphal](http://quoteinvestigator.com/2012/10/22/world-end/), but it’s still a good quote!
 [^2]: Which is also why I tend not to believe any conspiracy theory requiring perfect functioning of a large bureaucracy. Getting the whole mass pointed vaguely in the same direction is so hard that any claim of additional agility or intelligence simply beggars belief.

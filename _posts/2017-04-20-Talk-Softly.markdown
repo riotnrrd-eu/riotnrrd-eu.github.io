@@ -5,10 +5,7 @@ date:   2017-04-20
 categories:  security Apple enterprise 
 ---
 
-# Talk Softly
-
-
-With the advent of always-on devices that are equipped with sensitive microphones and a permanent connection to the Internet, new [security concerns](http://www.csoonline.com/article/3190837/security/5-ways-to-keep-virtual-assistants-from-sharing-your-companys-secrets.html "How to keep virtual assistants from sharing your company's secrets" ) are emerging.
+With the advent of always-on devices that are equipped with sensitive microphones and a permanent connection to the Internet, new [security concerns](http://www.csoonline.com/article/3190837/security/5-ways-to-keep-virtual-assistants-from-sharing-your-companys-secrets.html "How to keep virtual assistants from sharing your company's secrets") are emerging.
 
 > Virtual assistants like Apple’s Siri, Microsoft’s Cortana and Google Now have the potential to make enterprise workers more productive. But do “always listening” assistants pose a serious threat to security and privacy, too?
 
@@ -53,4 +50,3 @@ Thinking about access to data is a good idea in general, not just for voice assi
 Any time companies choose to adopt a service that relies on the cloud, their attack surface is not limited to the device itself, but also extends to that back-end service - which is almost certainly outside their visibility and control. Worse, in a BYOD scenario, users may introduce new devices and services to the corporate network that are not designed or configured for compliance with organisations’ security and privacy rules.
 
 Security is important - but let’s focus on getting the basics right, without getting distracted by overly-specific cybersecurity fantasy role-playing game scenarios involving Jason Bourne hacking your Alexa to steal your secrets.
-

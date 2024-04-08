@@ -5,10 +5,7 @@ date:   2017-03-20
 categories:  Apple IoT watch 
 ---
 
-# Smart Swatch
-
-
-Remember Swatch? The must-have colourful plastic watches of the 80s and 90s? They are back in the news, with their new plan to [produce their own smartwatch operating system](https://www.ft.com/content/e9d8427c-0a59-11e7-97d1-5e720a26771b "Swatch to build rival to Apple and Android operating systems" ).
+Remember Swatch? The must-have colourful plastic watches of the 80s and 90s? They are back in the news, with their new plan to [produce their own smartwatch operating system](https://www.ft.com/content/e9d8427c-0a59-11e7-97d1-5e720a26771b "Swatch to build rival to Apple and Android operating systems").
 
 ![](/images/unknown_filename.322.jpeg)
 
@@ -16,7 +13,7 @@ Remember Swatch? The must-have colourful plastic watches of the 80s and 90s? The
 >
 > Mr Hayek added that he wanted to avoid relying on Apple’s iOS and Google’s Android and provide a “Swiss” alternative offering stronger data protection and ultra-low energy consumption.
 
-This new plan has caused all sorts of consternation around the Internet, but I was disposed to ignore it - until now. I just received [this week's Monday Note](https://mondaynote.com/swatchos-not-a-smart-decision-6b2cc883c99f#.f288jyi88 "SwatchOS: Not A Smart Decision" ), by the usually reliable Jean-Louis Gassée.
+This new plan has caused all sorts of consternation around the Internet, but I was disposed to ignore it - until now. I just received [this week's Monday Note](https://mondaynote.com/swatchos-not-a-smart-decision-6b2cc883c99f#.f288jyi88 "SwatchOS: Not A Smart Decision"), by the usually reliable Jean-Louis Gassée.
 
 M. Gassée makes some initially good points about the complexity of operating systems, the immaturity of the smartwatch market, and the short timescales involved. Swatch intends to ship actual products by the end of 2018, which is barely any time at all when it comes to developing and shipping an entirely new physical product at mass-market scale. However, I do wonder whether he is falling into the same trap that he accuses Hayek and Swatch of falling into.
 
@@ -37,7 +34,7 @@ What if Swatch is going back to its roots, and making something simple and undem
 
 ![](/images/unknown_filename.321.jpeg)
 
-Now *that* would be a Swatch move. In fact, it's such a Swatch move that they've [done it before](https://www.theguardian.com/travel/2001/oct/28/travelkit.observerescapesection "Swatch Access 'Snow Pass' | Travel | The Guardian" ), with their Snow Pass line:
+Now *that* would be a Swatch move. In fact, it's such a Swatch move that they've [done it before](https://www.theguardian.com/travel/2001/oct/28/travelkit.observerescapesection "Swatch Access 'Snow Pass' | Travel | The Guardian"), with their Snow Pass line:
 
 > Its ski watch stores ski pass information and has an antenna that communicates with a scanner at the fast-track ski lift entrance. One swipe of the wrist and you're through.
 
@@ -49,7 +46,7 @@ Seen through this lens, the focus on privacy and security makes sense. It has be
 
 ## So What Is Swatch *Really* Up To?
 
-As to why Swatch would even be interested in entering into such a project, remember that these days Swatch is part of a [group](https://en.m.wikipedia.org/wiki/The_Swatch_Group "The Swatch Group" ) that sprawls across 70 different brands, most far more up-scale (albeit less profitable) than lowly Swatch with its plastic watches. Think Omega, Breguet, Glashütte, Longines, or Blancpain. The major threat to those kinds of watches is not any single other watch; most [watch lovers](http://www.newyorker.com/magazine/2017/03/20/confessions-of-a-watch-geek "CONFESSIONS OF A WATCH GEEK" ) own several different mechanical watches, and choose one or another to wear for each day, activity, or occasion. In my own small way, I own three mechanical watches (and two quartz), for instance.
+As to why Swatch would even be interested in entering into such a project, remember that these days Swatch is part of a [group](https://en.m.wikipedia.org/wiki/The_Swatch_Group "The Swatch Group") that sprawls across 70 different brands, most far more up-scale (albeit less profitable) than lowly Swatch with its plastic watches. Think Omega, Breguet, Glashütte, Longines, or Blancpain. The major threat to those kinds of watches is not any single other watch; most [watch lovers](http://www.newyorker.com/magazine/2017/03/20/confessions-of-a-watch-geek "CONFESSIONS OF A WATCH GEEK") own several different mechanical watches, and choose one or another to wear for each day, activity, or occasion. In my own small way, I own three mechanical watches (and two quartz), for instance.
 
 For a while now, and accelerating since the release of the iPhone, the competition for  watches was - no watch at all. Why bother to wear a watch, the thinking went, when your smartphone can tell the time much more accurately? But now, insidiously, the competition is a watch again - but it is the last watch its owners will ever wear. Once you start really using an Apple Watch, you don't want to take it off, lest you miss out on all those activities being measured. Circles will go unfilled if you wear your Rolex to dinner.
 
@@ -57,7 +54,6 @@ But what if every watch you buy, at least from The Swatch Group, gives you the s
 
 Now we are back to the comfortable (and profitable) *status quo ante* for the Swiss watch industry, in which watch aficionados own several different watches which they mix and match, but with each one part of the same connected experience.
 
-Analogies are dangerous things. The last few years have conditioned us to watch out for the "[PC guys are not just going to figure this out](https://www.engadget.com/2006/11/21/palms-ed-colligan-laughs-off-iphone/ "Palm's Ed Colligan laughs off iPhone" )"-type statements from incumbents about to be disrupted. What if this time, the arrow points the other way? What if Swatch has finally figured out a way for the traditional watch industry to fight back against the ugly, unclassy interloper?
+Analogies are dangerous things. The last few years have conditioned us to watch out for the "[PC guys are not just going to figure this out](https://www.engadget.com/2006/11/21/palms-ed-colligan-laughs-off-iphone/ "Palm's Ed Colligan laughs off iPhone")"-type statements from incumbents about to be disrupted. What if this time, the arrow points the other way? What if Swatch has finally figured out a way for the traditional watch industry to fight back against the ugly, unclassy interloper?
 
 [^1]: In a further sign of the fact that this is still a developing market, even auto-correct appears to get confused between "smartwatch" and "smart watch".
-

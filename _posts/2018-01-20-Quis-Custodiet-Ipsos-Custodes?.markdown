@@ -5,17 +5,16 @@ date:   2018-01-20
 categories:  google email 
 ---
 
-# Quis Custodiet Ipsos Custodes?
-
-
 Google is back in the news - and once again, it’s not for anything good. They added a Promotions folder to Gmail some time ago, and the pitch was that all the emails from *brands* that wanted to *engage* with you would automagically end up in there.
 
-![|820x0](/images/IMG_0014.PNG)
+![](/images/IMG_0014.PNG)
 
-The problem is that this mechanism works a little too well, as [Seth Godin describes](http://sethgodin.typepad.com/seths_blog/2018/01/an-open-note-to-google.html "Please don't kill the blogs" ):
+The problem is that this mechanism works a little too well, as [Seth Godin describes](http://sethgodin.typepad.com/seths_blog/2018/01/an-open-note-to-google.html "Please don't kill the blogs"):
 
 > You take the posts from this blog and dump them into my promo folder--and the promo folder of more than a hundred thousand people who never asked you to hide it.
+>
 > Emails from my favorite charities end up in my promo folder. The Domino Project blog goes there as well. Emails from Medium, from courses I've signed up for, from services I confirmed just a day earlier. Items sent with full permission, emails that by most definitions aren't "promotions."
+>
 >Here's a simple way to visualize it: Imagine that your mailman takes all the magazines you subscribe to, mixes them in with the junk mail you never asked for, and dumps all of it in a second mailbox, one that you don't see on your way into the house every day. And when you subscribe to new magazines, they instantly get mixed in as well.
 
 It may be that this mechanism has recently received a revamp, as others are reporting sudden impacts on their newsletters:
@@ -36,4 +35,3 @@ Will Gmail end up like Facebook – or like Reader?
 
 ***
 Photo by [Mathyas Kurmann](http://mathyaskurmann.tumblr.com) on [Unsplash](http://www.unsplash.com)
-
