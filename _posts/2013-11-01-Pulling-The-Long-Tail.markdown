@@ -5,9 +5,6 @@ date:   2013-11-01
 categories:  marketing long-tail 
 ---
 
-# Pulling The Long Tail
-
-
 I love some gratuitous hyperbole. I admit to using it myself on occasion, but that doesn’t make it any less gratuitous… 
 
 *Elite-level* gratuitous hyperbole is to pretend to take someone *else’s* hyperbole at face value and use it as fuel for a new round of hyperbole.
@@ -20,7 +17,7 @@ Exhibit A comes via an [MITX talk](http://marketingland.com/blockbusters-why-the
 > 
 > "The notion of smaller bets being safer is a myth,” Elberse told the audience. “It is safer to make bigger bets because they are likely to have bigger outcomes.”
 
-![|1156x0](/images/unknown_filename.286.jpeg)
+![](/images/unknown_filename.286.jpeg)
 
 The Long Tail was never about individual producers spreading their bets across many different initiatives. Rather, it was about the newfound ability for smaller single-play producers to reach a much larger market thanks to web-phase retailers who are not constrained by their high street display space. 
 
@@ -30,4 +27,3 @@ What Elberse has identified is only the difference between spreading yourself th
 
 ***
 Image by [Charlie Foster](http://flickr.com/photos/charliefoster/) via [Unsplash](http://unsplash.com/)
-

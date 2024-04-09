@@ -5,9 +5,6 @@ date:   2014-01-16
 categories:  equality work 
 ---
 
-# Babe Got Talent
-
-
 I’ve worked booth duty at my fair share of trade shows, starting back when I was still in high school. One of the constants is the presence of "booth babes"[^1] at the shows, acting as eye candy to bring traffic into the booth. I had never actually worked in a booth which had booth babes until recently, but I really didn’t like it, not least because I have always had close female colleagues, and I felt that booth babes devalued their presence and professionalism.[^2]
 
 I just didn’t have the data to do more than roll my eyes and gripe about it in the bar after the show with those female colleagues. But now, someone actually did A/B testing on whether booth babes even work, and wrote up their findings: [Booth Babes Don’t Work](http://techcrunch.com/2014/01/13/booth-babes-dont-convert/).
@@ -18,7 +15,7 @@ I just didn’t have the data to do more than roll my eyes and gripe about it in
 
 Read the whole thing, but basically it boils down to the fact that nobody you want to talk to wants to talk to booth babes - and vice versa. Anecdotally, I have seen the exact same mechanism in action. Sure, there will be a queue to talk to the booth babes, made up of people drunk on their own inflated self-regard or actual booze - or both. Meanwhile, actual *real* prospects are hovering around the edges of the booth or even walking away, embarrassed or unwilling to waste time talking to the eye candy.
 
-![|714x0](/images/unknown_filename.45.jpeg)
+![](/images/unknown_filename.45.jpeg)
 
 *Wow, don’t I look comfortable…*
 

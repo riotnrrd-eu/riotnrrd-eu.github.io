@@ -24,11 +24,11 @@ Sticking with the surfing metaphor for a moment, surfers like smooth, predictabl
 
 It used to take years, sometimes even decades, for new technologies to be widely adopted in the enterprise. Sure, there might be testbeds experimenting with crazy notions such as relational databases or object-oriented programming, but they remained isolated.
 
-![|2048x404](/images/192719.1.png)
+![](/images/192719.1.png)
 
 This gave vendors the time to adapt their own offerings, whether that meant using the New Hotness themselves, integrating with it, or managing it - or buying a smaller player who had worked it out faster. Once they had built an offering, they could also count on getting revenue from it for a good few years, as their customers kept on using the now mature and widely adopted tech.
 
-![|2048x368](/images/192719.png)
+![](/images/192719.png)
 
 So what changed? The pace of adoption of new technologies in the enterprise has accelerated enormously, and indeed is still accelerating. The plateau of productivity has also shortened, since there is a new technology wave coming right behind the current one, and another one even closer behind that.
 
@@ -44,11 +44,11 @@ So, both customers and vendors need to build flexibility into their plans. No mo
 
 This new model also requires a different type of sales process.
 
-![|2048x484](/images/194458.png)
+![](/images/194458.png)
 
 Traditionally, vendors start engaging with customers only once a sales process begins, with activity really ramping in the delivery phase. Once implementation is complete, the vendor generally disengages, handing the implemented solution over to the customer's IT team to manage in production. As I [posted yesterday]({% post_url 2014-04-10-Not-Surprising-At-All %}), customers don’t see a huge amount of value in this approach, especially nowadays.
 
-![|2048x519](/images/194509.png)
+![](/images/194509.png)
 
 The New Normal requires a much more constant engagement between vendors and users. This contact begins long before an official sales or procurement cycle, as part of what is known as the [Zero Moment Of Truth](http://www.thinkwithgoogle.com/collections/zero-moment-truth.html "Zero Moment of Truth (ZMOT)") or ZMOT. The ZMOT requires a constant exchange between vendor and user. This conversation will cover topics such as:
 
@@ -75,4 +75,3 @@ Next up: what can customers do in this brave new world? Follow Mum’s advice: [
 **Serendipity**: Seth Godin’s [post for today](http://sethgodin.typepad.com/seths_blog/2014/04/thinking-lifetime-dont-break-the-chain.html "Thinking lifetime (don't break the chain)") has an example of a company failing to engage in this way. His example is more consumer-oriented - an inkjet printer - but the general point about continuous engagement holds. Vendors that sell something, then disappear until it’s time for them to sell something again, are actively pushing customers away. What do you call a *vendor* who doesn’t *vend*?
 
 [^1]: If you think it’s only vendors who have inflexible roadmaps, I have a bridge here that is going cheap to a good home.
-
