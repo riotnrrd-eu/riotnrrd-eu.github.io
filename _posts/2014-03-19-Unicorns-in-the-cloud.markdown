@@ -5,9 +5,6 @@ date:   2014-03-19
 categories:  cloud tech 
 ---
 
-# Unicorns in the cloud
-
-
 No, it’s not [what](http://www.ascrewsloose.com/2012/10/25/rainbow-farting-unicorns/) [you](http://diversity.net.nz/the-great-cloud-api-debate-and-vmwares-hybrid-cloud-inside-baseball-unicorns-and-rainbows/2013/09/12/) [think](http://it20.info/2013/12/unicorns-pendulums-and-private-clouds/)… Here “unicorns" are guru-level sysadmins, difficult to find in the wild when you really need them.[^1]
 
 ![](/images/unknown_filename.461.jpeg)

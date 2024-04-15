@@ -5,9 +5,6 @@ date:   2014-12-15
 categories:  cloud 
 ---
 
-# Lowering the Barrier to Cloud
-
-
 The 451 Group might not have the name recognition of some of the bigger analyst firms, with their magic quadrants and what-not, but there is a lot of value in their approach to the business. In particular, they have the only "cloud economist" I know, in the person of [Dr Owen Rogers](https://451research.com/biography?eid=698 "Analyst Bios - 451 Research"). Dr Rogers actually did his PhD on the economics of cloud computing, so he knows what he is talking about. 
 
 Dr Rogers also defies the stereotype of economists by being fun to talk to. He's also good on his personal blog - see [this recent post](http://cloud-economics.com/post/105016816894/my-wife-and-jevons-paradox "My wife and Jevon’s paradox" ) for instance. I'll let you read the setup yourself - it's worth it - but I just wanted to comment on the closing paragraph: 
@@ -44,4 +41,3 @@ How to ensure that this flowering of IT delivers business value? In yet another 
 That is where the value of cloud computing comes from: the good old 80/20 rule. Done right, cloud computing acts on both parts of the rule, making it easy to increase the 20% of IT that actually delivers value - by lowering the barrier to entry - while automating or outsourcing the keep-the-lights-on activity that consumes the other 80% of the IT budget. 
 
 So much for the dismal science!
-

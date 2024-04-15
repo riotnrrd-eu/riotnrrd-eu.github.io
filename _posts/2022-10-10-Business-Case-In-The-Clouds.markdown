@@ -5,9 +5,6 @@ date:   2022-10-10
 categories:  Facebook google meta 
 ---
 
-# Business Case In The Clouds
-
-
 A perennial problem in tech is people building something that is undeniably *cool*, but is not a viable product. The most common definition of "viable" revolves around the size and accessibility of the target market, but there are other factors as well: sustainability, profitability, growth versus funding, and so on.
 
 I am as vulnerable as the next tech guy to this disease, which is just one of many reasons why I stay firmly away from consumer tech. I know myself well enough to be aware that I would fall in love with something that is perfectly suited to my needs and desires — and therefore has a minuscule target market made up of me and a handful of other weirdos.
@@ -76,5 +73,3 @@ None of these are questions that can be answered based on technical capabilities
 So there you have it, one failed product and one that is still unproven, both cautionary tales of putting the tech before the actual **product**.
 
 [^1]: I love this devastating quote from [PCGamesN](https://www.pcgamesn.com/half-life-2/episode-3-came-out-in-2007): "Half-Life: Alyx, \[...\] artfully crafted though it was, \[...\] had all the cultural impact of a Michael Bublé album." Talk about vicious!
-
-                          

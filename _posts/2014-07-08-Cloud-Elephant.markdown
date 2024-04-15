@@ -5,9 +5,6 @@ date:   2014-07-08
 categories:  cloud tech 
 ---
 
-# Cloud Elephant
-
-
 There are fashions in IT (and don't let anyone tell you us nerds are all perfectly rational actors). That goes double in IT *marketing*, where metaphors get adopted rapidly and [even more rapidly perverted]({% post_url 2014-06-03-SMAC-My-Pitch-Up %}). If you need an example, look no further than the infamous "cloud computing" itself.  
 
 There is a new trend I am seeing, of calling cloud "the elephant in the room". I heard this the other day and went off into a little [dwam](http://caledonianmercury.com/2010/04/11/useful-scots-word-dwam/005243 "Useful Scots word: dwam" ), thinking of the cloud as an *actual* elephant.  

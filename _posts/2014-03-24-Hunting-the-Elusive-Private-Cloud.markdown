@@ -5,9 +5,6 @@ date:   2014-03-24
 categories:  cloud tech 
 ---
 
-# Hunting the Elusive Private Cloud
-
-
 *While I work for a cloud management vendor, the following represents my personal opinion - which is why it’s published here and not at my work blog.*
 
 It seems that in IT we spend a lot of time re-fighting the same battles. The current example is “private cloud is not a cloud”.
@@ -37,4 +34,3 @@ The reason this type of organisation might want to look at private cloud is that
 Each organisation will have its own utilisation target, although 100% utilisation is unlikely for a number of reasons. In the same way, each organisation will have its own answer as to what to do next: whether to invest in additional data centre capacity for their private cloud, or to add public cloud resources to the mix in a hybrid model. 
 
 The point remains though that private cloud is unquestionably “real” and a viable option for these types of customers. Having holy wars about it among the clouderati is entertaining, but ultimately unhelpful.
-

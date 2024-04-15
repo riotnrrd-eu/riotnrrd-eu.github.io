@@ -5,9 +5,6 @@ date:   2015-10-30
 categories:  language 
 ---
 
-# On Learning Languages
-
-
 When the topic of languages comes up in conversation, people are sometimes surprised to hear how many languages I speak. The reactions mainly break down into two different groups:
 
 - **Native English speakers**: "wow, that is so cool! I could never learn languages…"
@@ -57,11 +54,10 @@ Not having been exposed to *real* grammar before, English-speakers are at a sign
 
 Bottom line: languages are not magical. I love learning languages as a hobby, and I am enabled to do that by background, education, and no doubt some native aptitude[^2]. Languages have certainly helped me in my career, because even people who can communicate perfectly well in English appreciate when somebody goes to the effort of learning their language well enough to conduct the meeting that way.
 
-The reason this worked, though, was that languages were [another circle](http://findthethread.postach.io/post/intersections "Intersections" ) for me. I was the person who could do X and had a background in Y, *and* could also do it in language Z. If I had *only* had the language skills, I would not have got anywhere. If your choice is between learning a skill and learning a language, nowadays the skill is almost certainly the better investment.
+The reason this worked, though, was that languages were [another circle]({% post_url 2014-02-07-Intersections %}) for me. I was the person who could do X and had a background in Y, *and* could also do it in language Z. If I had *only* had the language skills, I would not have got anywhere. If your choice is between learning a skill and learning a language, nowadays the skill is almost certainly the better investment.
 
 Unless you just enjoy language, in which case I’ll see you out there, making friends with people at the bar, tripping over [false friends](https://en.wikipedia.org/wiki/False_friend) hilariously, and generally enjoying myself with languages.
 
 [^1]: You thought I was going to go with "…walk into a bar", didn’t you?
 [^2]: I am a cunning linguist[^3].
 [^3]: Sorry - not sorry.
-
