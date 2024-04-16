@@ -13,9 +13,9 @@ Humane makes a big deal of not making users look at a screen, and instead intera
 
 ![](/images/The_Memex_3002477109.jpg)
 
-The one unique benefit that the AI Pin can claim and would be difficult to deliver today is the camera on the user's lapel that can see what they are holding or looking at. These capabilities are potentially interesting, going back as far as the forehead-mounted camera from Vannevar Bush's famous essay, *[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)*. What is not clear, though, is why this camera needs to be a discrete standalone device. Most of the recognition features rely on offboard servers in the cloud anyway, so why not proxy through a phone? And if there is a phone in the mix, maybe it can run some of the models itself, saving the lag and unreliability that are still features of cloud LLMs in 2024.
+The one unique benefit that the AI Pin can claim and would be difficult to deliver today is the camera on the user's lapel that can see what they are holding or looking at. These capabilities are potentially interesting, going back as far as the forehead-mounted camera from Vannevar Bush's famous essay, *[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)*, where he introduced the Memex and the concept of hypermedia. What is not clear, though, is why this camera needs to be a discrete standalone device. Most of the recognition features rely on offboard servers in the cloud anyway, so why not proxy through a phone? And if there is a phone in the mix, maybe it can run some of the models itself, saving the lag and unreliability that are still features of cloud LLMs in 2024.
 
-Even the more positive reviews recognise these issues, but excuse them on the basis of the device's future potential. Humane claims that many of the shortcomings will be addressed in forthcoming updates, and anyway, it's the long-term vision that matters. The AI Pin will (eventually) free us all from our phone dependency — whether want it to or not.
+Even the more positive reviews recognise these issues, but excuse them on the basis of the device's future potential. Humane claims that many of the shortcomings will be addressed in forthcoming updates, and anyway, it's the long-term vision that matters. The AI Pin will (eventually) free us all from our phone dependency — whether we want it to or not.
 
 This hyping of the nebulous future potential of a device whose current incarnation is somewhat disappointing all sounds very familiar. Apple's Vision Pro suffers from many of the same problems as Humane's AI Pin: neither one is really a *product*, or at least, not yet. Both are better considered as technology demonstrators, the founders of lineages which will deliver value at some point in the dim future.
 
@@ -27,7 +27,7 @@ Here is an example of the sort of [special pleading](https://www.macworld.com/ar
 
 Since we're referring back to the dawn of the personal computer, it might be worth reviewing the [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect). Humane and Apple both need to sell the devices that they have available *now* — although Apple can stand to lose money on speculative notions for quite a bit longer than Humane can.
 
-In the case of Apple, this story sounds very familiar. I am reading *[Inventing the Future](https://books.by/john-buck)* right now, and just came to this passage:
+In the case of Apple, this story sounds very familiar. I am reading *[Inventing the Future](https://books.by/john-buck)* right now, about the history of Apple's Advanced Technology Group, and just came to this passage:
 
 > Future Apple Ill Product Manager David Fradin recalled:
 > 
@@ -37,7 +37,7 @@ In the case of Apple, this story sounds very familiar. I am reading *[Inventing 
 >
 > > "...for the first little bit, people were just buying it because it's cool. But then to go beyond the early adopters and you're now starting to get into people that have to justify why they're doing it, all of a sudden it needed to be able to do things."
 
-"People were just buying it because it's cool". That certainly sounds like both the Vision Pro and the AI Pin. They both represent undeniably cool notions, just ones that are not fully realised in the here-and-now.
+"People were just buying it because it's cool". That certainly sounds like both the Vision Pro and the AI Pin. They both represent potentially cool notions, just ones that are not fully realised in the here-and-now.
 
 The Vision Pro has been described as being two years ahead of its time in terms of technology. This is also why it costs so much more than other contemporary VR goggle devices. Horace Dediu notes as much in his [review](https://www.asymco.com/2024/03/21/its-spacetime/):
 
