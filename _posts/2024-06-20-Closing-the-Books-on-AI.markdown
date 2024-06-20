@@ -43,7 +43,7 @@ Given Sloan’s textual fascination with AIs and San Francisco, a casual reader 
 
 # The problem with books And AI
 
-The coincidence of these two books coming to me so close to each other, together with AI being unsurprisingly a major topic of all my work conversations right now, let me see these parallels clearly. During that same visit to the Bay Area, we conducted a fascinating exercise: an “AI Red Team” — kind of a team-based version of my beloved [VP of Nope]({% post_url 2018-05-14-The-VP-of-Nope }). 
+The coincidence of these two books coming to me so close to each other, together with AI being unsurprisingly a major topic of all my work conversations right now, let me see these parallels clearly. During that same visit to the Bay Area, we conducted a fascinating exercise: an “AI Red Team” — kind of a team-based version of my beloved [VP of Nope]({% post_url 2018-05-14-The-VP-of-Nope %}). 
 
 ![](/images/genai-trough.png)
 
