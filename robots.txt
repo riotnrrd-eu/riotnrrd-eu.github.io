@@ -1,0 +1,11 @@
+#Applebot 
+User-agent: Applebot-Extended
+Disallow: /
+
+#GPTBot
+User-agent: GPTBot
+Disallow: /
+
+#Googlebot-Extended
+User-agent: Googlebot-Extended
+Disallow: /
