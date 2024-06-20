@@ -25,11 +25,11 @@ Next up was [Deauville](https://en.normandie-tourisme.fr/unmissable-sites/deauvi
 
 ![](/images/crip-on-stage.jpeg)
 
-It was also an extremely French event. For a start, the evening keynote speaker was an actual philosopher, who proceeded to give a quite theatrical show on the philosophical implications of AI. I later heard a quite extraordinary amount of gossip about the man, which I will not repeat here, but was also extremely French. There was also some really quite good wine served throughout, and I may have used some to steady my nerves prior to setting foot on stage.
+It was also an extremely French event. For a start, the evening keynote speaker was an actual philosopher, who proceeded to give a very theatrical show on the philosophical implications of AI. I later heard a quite extraordinary amount of gossip about the man, which I will not repeat here, but was also extremely French. There was also some really pretty good wine served throughout, and I may have used some to steady my nerves prior to setting foot on stage.
 
 ![](/images/crip-on-beach.jpeg)
 
-The relaxed tone was a bit spoiled by trip home. Deauville does have an airport, but it is not really well connected to anywhere much with scheduled flights. Instead, I had planned to ride the shuttle bus back to Paris and catch a flight from there. So far so good, except we left Deauville fully three-quarters of an hour late, and then hit both construction and Friday afternoon rush-hour traffic. Fortunately I had foreseen this eventuality and had arranged for a mototaxi to meet me at the shuttle's destination in Neuilly to take me to CDG.
+The relaxed tone was a bit spoiled by trip home. Deauville does have an airport, but it is not really well connected to anywhere much with scheduled flights. Instead, I had planned to ride the shuttle bus laid on by the event organisers back to Paris and catch a flight from there. So far so good, except we left Deauville fully three-quarters of an hour late, and then hit both construction and Friday afternoon rush-hour traffic. Fortunately I had foreseen this eventuality and had arranged for a mototaxi to meet me at the shuttle's destination in Neuilly to take me to CDG.
 
 ![](/images/taxi-moto-paris.jpg)
 

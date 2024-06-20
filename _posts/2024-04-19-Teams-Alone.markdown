@@ -25,13 +25,13 @@ This evolution from standalone tools to features of integrated platforms is remi
 
 For those who were not around or have forgotten, there was a brief period at the dawn of the consumer Internet when there was a viable market for a commercial web browser. This was possible because consumer operating systems did not include that feature as a matter of course, as they do today. Netscape was doing well with its Navigator product — developed among others by Jamie Zawinksi, who coined the eponymous law that I (mis)quoted above. Then Microsoft introduced Internet Explorer as a built-in feature of its Windows operating system — and this at a time when Windows had something like 95% market share. 
 
-This move immediately made life very difficult for Netscape, who sued Microsoft for anti-competitive behaviour. The trial dragged on for years, and the [result](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.#Settlement) satisfied absolutely nobody. It took long enough to reach that unsatisfactory settlement that it was mostly irrelevant anyway, from Netscape's perspective at least, as the market had moved forwards. Netscape the company was bought by AOL, and the code was released into the open-source world, where it survives today as Mozilla.
+This move immediately made life very difficult for Netscape, who sued Microsoft for anti-competitive behaviour. The trial dragged on for years, and the [result](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.#Settlement) satisfied absolutely nobody. It took long enough to reach that unsatisfactory settlement that it was mostly irrelevant anyway, from Netscape's perspective at least, as the market had moved forwards. Netscape the company was bought by AOL, and the code was released into the open-source world, where it survives today as Mozilla Firefox.
 
 A major pushback against Netscape even at the time of the Browser Wars was that a web browser is a necessary component of an OS. This position has become mainstream now, to the point that a platform would today be considered incomplete without a built-in browser.
 
 In the same way, an office suite without collaboration would be equally incomplete as an operating system without a built-in web browser. These days, video chat is commoditised: it's one collaboration feature among many.
 
-But then, what about Chrome?
+# But then, what about Chrome?
 
 Internet Explorer won the Browser Wars, even becoming the default on MacOS, displacing Apple's short-lived but interesting [Cyberdog](https://en.wikipedia.org/wiki/Cyberdog) (yes yes, awful name that has not aged well). 
 
@@ -56,7 +56,7 @@ How does all this history apply to Zoom and Teams?
 
 Teams has arguably already got all the push it needed from integration with Office. The Teams payload is separating from the Office booster perhaps a little early, while there was still thrust to give — but Microsoft's plan is fairly transparently to avoid another decade of litigation and consent decrees, so they can get on with their other plans.
 
-Zoom is arguably doing the right thing by adding collaboration (properly, as opposed to earlier half-hearted attempts). The problem Zoom has is that the customer base overlaps very significantly with Slack's, which offers all the collaboration its users could possibly want, and has a solid track record of delivering what people want. Slack even has video calls in the shape of Huddles, further proving my point that video calling is a feature, not a platform.
+Zoom is arguably doing the right thing by adding collaboration (properly, as opposed to earlier half-hearted attempts). The problem Zoom has is that the customer base overlaps very significantly with Slack's, which offers all the collaboration its users could possibly need, and has a solid track record of delivering what people want. Slack even has video calls in the shape of Huddles, further proving my point that video calling is a feature, not a platform. And then of course there is Google, which keeps trying to get people to use Meet (or whatever it's called this month) to collaborate inside Google Docs.
 
 As these platforms converge, they are moving into Microsoft's home turf. Microsoft has never been the best at any one thing, focusing instead on (eventually) being the best overall with the widest coverage. Zoom and Slack on the other hand have always been predicated on being the best of their respective breeds, so this sort of miscegenation is foreign to them.
 
