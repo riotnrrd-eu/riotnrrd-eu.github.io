@@ -29,7 +29,7 @@ It was also an extremely French event. For a start, the evening keynote speaker 
 
 ![](/images/crip-on-beach.jpeg)
 
-The relaxed tone was a bit spoiled by trip home. Deauville does have an airport, but it is not really well connected to anywhere much with scheduled flights. Instead, I had planned to ride the shuttle bus laid on by the event organisers back to Paris and catch a flight from there. So far so good, except we left Deauville fully three-quarters of an hour late, and then hit both construction and Friday afternoon rush-hour traffic. Fortunately I had foreseen this eventuality and had arranged for a mototaxi to meet me at the shuttle's destination in Neuilly to take me to CDG.
+The relaxed tone was a bit spoiled by the trip home. Deauville does have an airport, but it is not really well connected to anywhere much with scheduled flights. Instead, I had planned to ride the shuttle bus laid on by the event organisers back to Paris and catch a flight from there. So far so good, except we left Deauville fully three-quarters of an hour late, and then hit both construction and Friday afternoon rush-hour traffic. Fortunately I had foreseen this eventuality and had arranged for a mototaxi to meet me at the shuttle's destination in Neuilly to take me to CDG.
 
 ![](/images/taxi-moto-paris.jpg)
 

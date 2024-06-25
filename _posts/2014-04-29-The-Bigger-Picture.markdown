@@ -5,9 +5,7 @@ date:   2014-04-29
 categories:  bladelogic tech 
 ---
 
-# The Bigger Picture
-
-
+## The Bigger Picture
 ## Or, Why BladeLogic Isn’t Puppet
 
 ***Disclaimer:*** *In case you don’t know already, I work for BMC Software, having joined with the acquisition of BladeLogic. My current role is in marketing for BMC’s cloud computing and data center automation products, including BladeLogic. In other words, if you are looking for a 100% objective take, look elsewhere. The reason this piece is here rather than on a bmc.com site is to make it clear that this is personal opinion, not official corporate communication.*  
@@ -20,7 +18,7 @@ BladeLogic and Opsware both let sysadmins automate common tasks without scriptin
 
 Yes, *marketplace*. Because in the last decade or so a huge number of automation tools have emerged (or matured to the point of usefulness), mainly in the open-source arena. If you are managing tons of OSS Linux boxes, running an OSS application stack, it makes sense to have an OSS config management tool as well.  
 
-So far, so good. For a while the OSS tools flew under the radar of the big vendors, since the sorts of people willing to download a free tool and hack Ruby to do anything with it tended not to be the same sorts of people with the six- or seven-figure budgets for the big-vendor tools. As is the way of such things, though, the two markets started to overlap, and people started to ask why one tool was free and the other was expensive. This all came to a head when Puppet Labs published a document entitled ["Puppet Enterprise vs BMC BladeLogic"](https://puppetlabs.com/sites/default/files/Puppet_Enterprise_vs_BladeLogic.pdf). Matthew Zito from BMC responded with [An Open Letter to PuppetLabs](https://communities.bmc.com/community/bmcdn/bmc_service_automation/server_configuration_automation_bladelogic/blog/2014/04/28/an-open-letter-to-puppetlabs) on BMC’s site, which led to an exchange on Twitter, storified [here](https://storify.com/dwellington/puppet-vs-bladelogic "Puppet vs BladeLogic · dwellington · Storify” ).  
+So far, so good. For a while the OSS tools flew under the radar of the big vendors, since the sorts of people willing to download a free tool and hack Ruby to do anything with it tended not to be the same sorts of people with the six- or seven-figure budgets for the big-vendor tools. As is the way of such things, though, the two markets started to overlap, and people started to ask why one tool was free and the other was expensive. This all came to a head when Puppet Labs published a document entitled ["Puppet Enterprise vs BMC BladeLogic"](https://puppetlabs.com/sites/default/files/Puppet_Enterprise_vs_BladeLogic.pdf). Matthew Zito from BMC responded with [An Open Letter to PuppetLabs](https://communities.bmc.com/community/bmcdn/bmc_service_automation/server_configuration_automation_bladelogic/blog/2014/04/28/an-open-letter-to-puppetlabs) on BMC’s site, which led to an exchange on Twitter, storified [here](https://storify.com/dwellington/puppet-vs-bladelogic "Puppet vs BladeLogic · dwellington · Storify").  
 
 ### This is the longer response I promised Luke Kanies.  
 
@@ -45,4 +43,3 @@ Enterprise IT departments and the vendors that serve them cannot compete with th
 Sure, use Puppet - and Chef, and Ansible, and SaltStack, and CFEngine, and your home-grown scripts, and maybe even BladeLogic’s BLpackages. Just make sure that you are using them in a way that makes sense, and that meets the users’ needs. At the end of the day, that’s what we are all here for.
 
 [^1]: Yes, all three. The point of automation is to resolve that dilemma.
-
