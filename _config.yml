@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Find The Thread
-email: dominic.wellingtonNO@SPAMgmail.com
+# email: dominic.wellingtonNO@SPAMgmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Occasional overspill from other places 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://findthethread.blog" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: riotnrrd-eu 
+# github_username: riotnrrd-eu 
 
 permalink: /:title/
 
