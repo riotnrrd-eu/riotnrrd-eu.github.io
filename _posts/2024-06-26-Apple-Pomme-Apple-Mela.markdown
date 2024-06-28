@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple, Pomme, Apple, Mela
+title: Apple, Pomme, Apfel, Mela
 date: 2024-06-26
 categories: Apple tech EU
 ---
@@ -15,7 +15,7 @@ Too much of the commentary frames this situation as a tug-of-war between Apple o
 
 ![](/images/lucas-van-oort-1cONnsS3ih0-unsplash.jpg)
 
-# Squeezing users
+## Squeezing users
 
 The way the EC has framed the situation is that evil Apple is forcing developers to overcharge users in order to extract maximum profit from that exchange. Now Apple is hardly innocent here; some of the anti-steering rules do get ridiculous. Customers would, all things being equal, prefer a cheaper product. But what if the product they are getting for a lower price is not the same?
 
@@ -29,7 +29,7 @@ If the EC forces Apple to relax its rules, one result will be that people will b
 
 Could Apple design their systems differently? Maybe, and they could certainly be a little more circumspect in how they enforce their rules. Most egregiously, during the Covid lockdowns of 2020, many in-person experiences (exempt from paying Apple's 30% cut) were forced to pivot to digital formats — and Apple demanded a 30% cut from struggling gym trainers in the middle of a pandemic, refusing to back down until [Facebook got involved](https://techcrunch.com/2020/09/25/facebook-vs-apple-revisited/). In fact, I will stipulate that *this entire situation* with the European Commission could have been avoided if Apple had been just a little bit more flexible. But that's not who they are, so here we are.
 
-# Who pays for apps?
+## Who pays for apps?
 
 These are the specific areas that the EC propose to investigate: 
 
@@ -37,7 +37,7 @@ These are the specific areas that the EC propose to investigate:
 > 2. **Apple's multi-step user journey to download and install alternative app stores or apps on iPhones**. The Commission will investigate whether the steps that a user has to undertake to successfully complete the download and installation of alternative app stores or apps, as well as the various information screens displayed by Apple to the user, comply with the DMA.
 > 3. **The eligibility requirements for developers** related to the ability to offer alternative app stores or directly distribute apps from the web on iPhones. The Commission will investigate whether these requirements, such as the ‘membership of good standing' in the Apple Developer Program, that app developers have to meet in order to be able to benefit from alternative distribution provided for in the DMA comply with the DMA.
 
-## The almighty Euro
+# The almighty Euro
 
 Let's start by talking about money. To be clear, Apple's Core Technology Fee applies to apps that have more than one million downloads — and Apple [added additional criteria to the CTF](https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/) to cover hobbyist apps with no revenue, and to avoid bankrupting apps that suddenly cross that threshold with a three-year "on-ramp" of payments. 
 
@@ -47,7 +47,7 @@ The usual objection is that these "free" apps also have value to Apple — and t
 
 Apple has accommodated these "free" apps on the App Store without extracting revenue directly, but has demanded that they at least abide by the strictures of the platform, despite recurring attempts to evade those controls and abuse users by the likes of [Meta](https://www.theverge.com/2024/3/26/24112930/court-documents-reveal-how-facebooks-onavo-vpn-tracked-snapchat-data-for-project-ghostbusters) and [Epic](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments). The CTF is Apple's way of making sure that these abusive vendors cannot simply leave the App Store, further weakening the controls Apple puts in place to protect its users, without any sort of consequences.
 
-## Installing apps outside the App Store
+# Installing apps outside the App Store
 
 The EC also complains that Apple has made it too complicated to install an alternative (lower-case) app store, or to deploy an app directly from a web site. The question is, just how easy should it be to do those things?
 
@@ -55,7 +55,7 @@ In my misguided youth I ran Windows for a few years, and it was just generally a
 
 Given that situation, and the weaker controls that Apple can enforce outside of the App Store, it seems reasonable to warn users that they are about to do something that is technically more dangerous than what they are used to in the App Store. In fact my preferred option for this sort of side-loading would have been to enable it only for developer accounts, or accounts that have specifically accepted some additional limitation of liability. By the time the DMA came around, that would certainly not have been acceptable, but I do wonder what would have happened if Apple had enabled such an option years ago to take the pressure of that particular request from technical power users.
 
-## Who's in charge around here?
+# Who's in charge around here?
 
 The final point is about which developers are eligible for these mechanisms. Developers say, not unfairly, that to require them to have been in the App Store for two years to take advantage of the new distribution mechanisms becomes a chicken-and-egg problem. If the app you want to launch is not allowed in the official App Store, but you need two years in the App Store to be able to launch outside it, you are effectively locked out of ever launching your app. 
 
@@ -63,7 +63,7 @@ Apple has been revising those criteria, and will no doubt do so again, but the o
 
 I am not saying that Apple's proposal is perfect, but it is not unreasonable, and once again, it has benefits for users in terms of how trustworthy they can assume app vendors are.
 
-# Integration is the key
+## Integration is the key
 
 All of these EC proposals are, in the words of Ben Thompson on the Dithering podcast, "targeted at the heart of Apple, which is integration". Apple's ecosystem is valuable in large part because it is so tightly integrated — but it is integrated precisely because Apple controls all the components. If Apple had to open every one of its features up to third parties, that seamless integration — which users love! — would inevitably be weakened, as the simple calculation of "Watch works with iPhone" would turn into some sort of horrible compatibility matrix, with different vendors, platforms, and even versions of individual products all offering differing levels of support.
 
@@ -71,7 +71,7 @@ In fact, the [recently-announced delay to some headline iOS 18 features](https:/
 
 ![](/images/why-not-both.png)
 
-# Where are we going
+## Where are we going
 
 Of course Apple is still not immune to shooting itself in the foot, because in the middle of this fracas, the App Store moderation team decided now was the perfect time to [ban an emulator app](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/). Apple has a long-standing policy against anything that can run downloaded code, for fairly obvious security reasons; anything that is going to run on an iPhone needs to be vetted first. The developers of the UTM emulator removed just-in-time compilation (JIT) from the build they submitted to Apple, but it was still rejected, on the grounds that a PC is not a games console. Apparently the only emulators that are allowed are the ones that emulate games consoles, like Riley Testut’s [Delta](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us), the game emulator that fired the starting gone in the Alt Store race — not general-purpose computers. The fact that Apple is using its control to enforce this rule even outside its own App Store — and doing so at this time — is what is liable to come back to haunt them in the future.
 
