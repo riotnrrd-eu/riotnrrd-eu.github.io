@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Find me on <a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a>
+Find me on <a rel="me" href="https://mastodon.social/@riotnrrd">M

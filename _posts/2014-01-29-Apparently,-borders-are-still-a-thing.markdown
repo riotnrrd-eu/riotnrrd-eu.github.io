@@ -11,7 +11,7 @@ Unless, that is, you are trying to buy or sell content.
 
 ![](/images/unknown_filename.28.jpeg)
 
-I have never watched the Godfather films (I know, I know), and with some intercontinental travel coming up, I thought this would be a good time to load them up on my iPad and finally catch up - forty years late, but who’s counting?
+I have never watched the *Godfather** films (I know, I know), and with some intercontinental travel coming up, I thought this would be a good time to load them up on my iPad and finally catch up - forty years late, but who’s counting?
 
 Since I no longer have any truck with physical media, my first stop was iTunes. At first I thought they did not have the films, but this turned out to be because I live in Italy, and so they are listed as *Il Padrino*. Fair enough, except that it’s not just the title card that’s Italian; the only soundtrack available is an Italian dub. It’s not even the original, it’s a re-dub, and the reviews are all one-stars complaining about the new dub.
 
