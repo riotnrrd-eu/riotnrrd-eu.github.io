@@ -35,6 +35,6 @@ That said, I wouldn’t mind if the next time I get back to Finale, the weather 
 
 ***
 
-🖼️  Sunny photo by me, rainy ones by my guide [Martino](link). Check out his [school]() if you are in Finale!
+🖼️  Sunny photo by me, rainy ones by my guide [Martino](https://www.instagram.com/martino.accame). Check out his [school](http://www.flowschool.it) if you are in Finale, and tell him I sent you!
 
 [^1]: Well, only until we had to pick our bikes up. Mine weighs maybe a third of theirs, if that, so I had my revenge there — until they could get back on the flat and enable “walk mode”. I can make a case for riding an e-bike, but that is just straight-up cheating. Not that it helped them much: the unladen rear wheels seemed to skid around on the wet rock way more than they provided any assistance.
