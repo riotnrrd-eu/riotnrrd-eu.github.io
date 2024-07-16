@@ -5,7 +5,7 @@ date: 2024-07-15
 categories: MTB cycling
 ---
 
-It’s easy to love cycling in [Finale Ligure]({% 2020-06-24-An-Unexpected-Holiday %}). This corner of the Italian Riviera offers great food, fun trails, and the promise of a cooling dip in the sea at the end of a day’s hard riding. 
+It’s easy to love cycling in [Finale Ligure]({% post_url 2020-06-24-An-Unexpected-Holiday %}). This corner of the Italian Riviera offers great food, fun trails, and the promise of a cooling dip in the sea at the end of a day’s hard riding. 
 
 ![A mountain bike leaning against a rock with the sea in the background](/images/IMG_8680.jpeg)
 
