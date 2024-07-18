@@ -2,7 +2,7 @@
 layout: post
 title: A Good Old-Fashioned Platform War
 date: 2024-04-03
-categories: Apple MacOs
+categories: Apple MacOS
 ---
 
 # I think I remember how to do this
