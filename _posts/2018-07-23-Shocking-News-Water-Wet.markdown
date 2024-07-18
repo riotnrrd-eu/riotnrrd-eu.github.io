@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Shocking News: Water Wet
+title:  Shocking News — Water Wet
 date:   2018-07-23 
 categories:  media digital-life geography piracy
 ---
@@ -44,4 +44,5 @@ The only thing that has changed since I wrote that piece is that I no longer hav
 Eventually these geographic restrictions must fall – but until then, people will find a way to get content, which means content producers and distributors are leaving money on the table. The first to embrace this new reality will see the greatest returns. The last? Nobody will hear about them any more.
 
 ***
-Photo by [Sven Scheuermeier](http://svenscheuermeier.ch) on [Unsplash](https://unsplash.com/)
+
+🖼️  Photo by [Sven Scheuermeier](http://svenscheuermeier.ch) on [Unsplash](https://unsplash.com/)
