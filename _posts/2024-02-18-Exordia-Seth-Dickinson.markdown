@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: Exordia, by Seth Dickinson
+title: Book review — Exordia, by Seth Dickinson
 date: 2024-02-18
 categories: books 
 ---

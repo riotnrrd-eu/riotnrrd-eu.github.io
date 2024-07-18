@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: Maror, by Lavie Tidhar
+title: Book review — Maror, by Lavie Tidhar
 date: 2023-12-31
 categories: books israel
 ---

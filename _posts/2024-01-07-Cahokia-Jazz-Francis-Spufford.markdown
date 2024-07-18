@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: Cahokia Jazz, by Francis Spufford
+title: Book review — Cahokia Jazz, by Francis Spufford
 date: 2024-01-07
 categories: books
 ---

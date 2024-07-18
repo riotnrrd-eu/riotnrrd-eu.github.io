@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: The Imposition of Unnecessary Obstacles, by Malka Older
+title: Book review — The Imposition of Unnecessary Obstacles, by Malka Older
 date: 2024-02-19
 categories: books
 ---

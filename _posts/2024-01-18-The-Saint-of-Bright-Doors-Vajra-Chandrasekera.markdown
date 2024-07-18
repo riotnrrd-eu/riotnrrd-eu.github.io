@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: The Saint of Bright Doors, Vajra Chandrasekera
+title: Book review — The Saint of Bright Doors, Vajra Chandrasekera
 date: 2024-01-18
 categories: books
 ---
