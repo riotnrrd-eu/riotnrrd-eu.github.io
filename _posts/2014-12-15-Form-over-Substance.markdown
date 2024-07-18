@@ -5,7 +5,7 @@ date:   2014-12-15
 categories:  Tolkien books
 ---
 
-The *Grauniad** informs us that [Tolkien's myths are a political fantasy](http://www.theguardian.com/books/booksblog/2014/dec/12/tolkiens-myths-are-a-political-fantasy "Tolkien's myths are a political fantasy"). 
+The *Grauniad* informs us that [Tolkien's myths are a political fantasy](http://www.theguardian.com/books/booksblog/2014/dec/12/tolkiens-myths-are-a-political-fantasy "Tolkien's myths are a political fantasy"). 
 
 > We’re left to take on trust from Gandalf, a manipulative spin doctor, and the Elves, immortal elitists who kill humans and hobbits for even entering their territory, when they say that the maker of the one ring is evil. Isn’t it more likely that the orcs, who live in dire poverty, actually support Sauron because he represents the liberal forces of science and industrialisation, in the face of a brutally oppressive conservative social order? 
 
