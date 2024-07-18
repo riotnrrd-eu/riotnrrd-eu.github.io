@@ -23,7 +23,11 @@ The platforms are obviously betting that the breadth and quality of their conten
 
 And meanwhile the old ways are still out there. Nobody has yet succeeded in taking down The Pirate Bay in twenty years of trying. 
 
+Perhaps platforms are assuming that as people move from open personal computer platforms to closed phone operating systems, they will be able to control enough of the chain that "unauthorised" media simply will not be able to play? This would be a bleak future indeed, but again, I think any such assumption underestimates human ingenuity, especially once the price of all the subscriptions rises past a certain pain point.
+
 I would prefer to pay artists, I really would — but there is only so much nonsense I will put up with from services I pay for, and we are getting very close to that line.
+
+***
 
 In the same [article](https://netwars.pelicancrossing.net/2024/07/12/the-return-of-piracy/) I quoted earlier, we also find this aside:
 
