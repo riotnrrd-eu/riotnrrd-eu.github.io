@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Book review: October, by China Mieville
+title: Book review — October, by China Miéville
 date: 2024-07-31
 categories: books
 ---
 
 ![Cover image for book](/images/october-cover.jpeg)
 
-This is a book review that is not actually at all about the book itself. 
+This is a book review that is not actually at all about the book itself. If you want that, I enjoyed reading [this review](https://www.on-magazine.co.uk/arts/book-review/non-fiction/october-story-russian-revolution-china-mieville/), which I think captures the essence of the book itself.
 
 I have been on a Russian-history kick lately, for obvious Ukraine-related reasons. Some other books I have read are *[Putin’s People](https://us.macmillan.com/books/9780374712785/putinspeople)* and *[Putin and the Return of History](https://www.bloomsbury.com/uk/putin-and-the-return-of-history-9781399409865/)*. On the Ukrainian side, I went straight to the source with Anna Reid’s wonderfully readable *[Borderland: A Journey Through the History of Ukraine](https://www.hachettebookgroup.com/titles/anna-reid/borderland/9781541603486/)*, and Ukraine also figures heavily in last summer’s reading, *[Bloodlands: Europe between Hitler and Stalin](https://www.hachettebookgroup.com/titles/timothy-snyder/bloodlands/9781541600065/?lens=basic-books)*, by Timothy Snyder. At some point I do need to read a straight-through history of the Soviet Union, but after that little lot, I thought it was high time for me to look at the Revolution itself. 
 
