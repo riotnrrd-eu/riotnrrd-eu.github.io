@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: October, by China Miéville
+title: Book review: October, by China Mieville
 date: 2024-07-31
 categories: books
 ---
