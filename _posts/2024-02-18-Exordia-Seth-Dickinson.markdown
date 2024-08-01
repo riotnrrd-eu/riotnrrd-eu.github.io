@@ -7,9 +7,7 @@ categories: books
 
 ![Cover image for book](/images/exordia-cover.jpeg)
 
-# Exordia, by Seth Dickinson
-
-This is not a *nice* book. It’s not a comforting read. I really should have known this going in, given everything that happens in his *Baru Cormorant* series — but also like those other books, *Exordia* is very hard to put down, even as more and more horrible things keep happening. Every single character is horrifically morally compromised before the plot even gets properly under way, and then each of them is forced into further terrible moral choices. 
+This is not a *nice* book. It’s not a comforting read. I really should have known this going in, given everything that happens in his *[Baru Cormorant](https://www.sethdickinson.com/the-traitor-baru-cormorant/)* series — but also like those other books, *Exordia* is very hard to put down, even as more and more horrible things keep happening. Every single character is horrifically morally compromised before the plot even gets properly under way, and then each of them is forced into further terrible moral choices. 
 
 It’s perhaps comforting that it’s alt-history: Obama is still President in the book’s timeline, so what is happening is not in our branch of the manifold. There are a couple of hints dropped that make me wonder whether this is a deliberate choice, leading up to a reconciliation with our own timeline in a future instalment. 
 
