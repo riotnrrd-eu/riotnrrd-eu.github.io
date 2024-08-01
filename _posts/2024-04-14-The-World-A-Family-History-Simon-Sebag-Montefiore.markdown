@@ -7,9 +7,7 @@ categories: books history
 
 ![Cover image for book](/images/the_world-cover.jpeg)
 
-# The World - A Family History, by Simon Sebag-Montefiore
-
-A good pairing with *The Dawn of Everything*, David Graeber and David Wengrow’s “Orange Bible”, and counterpoint to Yuval Noah Harari in his gloomier moments. On the one hand, we have been at this civilisation game for much longer than is sometimes acknowledged, and on the other, its failure modes are also not novel (greedy autocrats with corrupt families and sudden climate shocks, mainly). It took me months to make my way through this very dense tome (it’s not exactly portable, after all) but this extended time gave me the opportunity to identify themes and let them percolate. 
+A good pairing with *[The Dawn of Everything](https://us.macmillan.com/books/9780374157357/thedawnofeverything)*, David Graeber and David Wengrow’s “Orange Bible”, and counterpoint to Yuval Noah Harari in his gloomier moments. On the one hand, we have been at this civilisation game for much longer than is sometimes acknowledged, and on the other, its failure modes are also not novel (greedy autocrats with corrupt families and sudden climate shocks, mainly). It took me months to make my way through this very dense tome (it’s not exactly portable, after all) but this extended time gave me the opportunity to identify themes and let them percolate. 
 
 One aspect that I was aware of but had not quite internalised was the explosion in human population — and how recent it is. Right now, here in old Europe, many people are very exercised about our well-below-replacement birth rate — but in a global context, it seems spectacularly irresponsible to encourage procreation right now. I approve of humans and wish them well, but there are rather a lot of them out there, especially on a historical basis. Local imbalances are sure to be corrected sooner or later. Will hyperlocal cultural histories like our dialect poetry and theatre die out? Maybe — and maybe that’s just how it goes. Many equally valuable traditions are gone without trace already. 
 
