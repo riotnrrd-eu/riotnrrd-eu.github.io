@@ -34,7 +34,7 @@ What if Swatch is going back to its roots, and making something simple and undem
 
 ![](/images/unknown_filename.321.jpeg)
 
-Now *that* would be a Swatch move. In fact, it's such a Swatch move that they've [done it before](https://www.theguardian.com/travel/2001/oct/28/travelkit.observerescapesection "Swatch Access 'Snow Pass' | Travel | The Guardian"), with their Snow Pass line:
+Now *that* would be a Swatch move. In fact, it's such a Swatch move that they've [done it before](https://www.theguardian.com/travel/2001/oct/28/travelkit.observerescapesection "Swatch Access 'Snow Pass'"), with their Snow Pass line:
 
 > Its ski watch stores ski pass information and has an antenna that communicates with a scanner at the fast-track ski lift entrance. One swipe of the wrist and you're through.
 
