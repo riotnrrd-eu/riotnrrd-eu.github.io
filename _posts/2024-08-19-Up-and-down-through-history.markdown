@@ -35,5 +35,5 @@ Just some farm on the trail of Saint Colombanus.
 
 Regardless, a good day out exploring some new roads and letting my legs know I haven’t forgotten about them.
 
-[^1]:: The old PoW camp is now a summer camp run by the Church[^2] which I visited as a child and which my own children are now cycling through In their turn.
+[^1]: The old PoW camp is now a summer camp run by the Church[^2] which I visited as a child and which my own children are now cycling through In their turn.
 [^2]: Re-reading this, I realised that I should specify: in Italy, unless a qualification is added, the Church is always the Catholic Church. Oriana Fallaci, famously a lifelong atheist, switched to calling herself a “Christian atheist” in deference to the weight of the Church in Italian cultural life.
