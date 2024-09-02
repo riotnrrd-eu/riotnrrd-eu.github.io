@@ -35,10 +35,10 @@ I had had this one on my wishlist for a while — years, probably — but I stay
 
 # [Empireland](https://www.sathnam.com/empire/), Sathnam Sangera 
 
-Another one I had had on my wishlist since it came out, and it finally made it to the top, probably spurred by reading[*Babel*]({% post_url 2024-06-08-Babel-R-F-Kuang %}). Ultimately it felt a little unsatisfying, like a magazine article that had been padded out into a book, but without adding any meaningful structure or conclusions. Perhaps it’s simply that I don’t know who the author is, whereas from context I gather he’s a fairly well-known journalist in the UK. 
+Another one I had had on my wishlist since it came out, and it finally made it to the top, probably spurred by reading [*Babel*]({% post_url 2024-06-08-Babel-R-F-Kuang %}). Ultimately it felt a little unsatisfying, like a magazine article that had been padded out into a book, but without adding any meaningful structure or conclusions. Perhaps it’s simply that I don’t know who the author is, whereas from context I gather he’s a fairly well-known journalist in the UK. 
 
 Ultimately I found this book interesting, but flawed — not least because the people who most need to engage with the idea of a wider definition of Britishness are precisely those who are least likely to pick up such a book. 
 
 ***
 
-🖼️  Book cover images from the respective publishers' websites
+🖼️  Book cover images from the respective publishers' or authors' websites
