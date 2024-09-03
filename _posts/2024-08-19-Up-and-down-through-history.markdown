@@ -2,7 +2,7 @@
 layout: post
 title: Up and down through history
 date: 2024-08-19
-categories: cycling
+categories: cycling history
 ---
 
 My summer holidays are very late this year, for a number of reasons. I worked all the way through to mid-August, had a traditional Italian *Ferragosto* involving lots of relatives and far too much food, and then headed up to the Alps in search of some respite from the heat and humidity of the Po valley. 
