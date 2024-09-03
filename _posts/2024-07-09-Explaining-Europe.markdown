@@ -5,11 +5,11 @@ date: 2024-07-09
 categories: AI adtech privacy Facebook Google
 ---
 
-I pay for Ben Thompson's [Stratechery](https://stratechery.com) newsletter, and normally enjoy it, but like most commentators, he does have his biases.
+I pay for Ben Thompson's [*Stratechery*](https://stratechery.com) newsletter, and normally enjoy it, but like most commentators, he does have his biases.
 
-In his latest [free update](https://stratechery.com/2024/the-e-u-goes-too-far/) he takes issue with the EU's latest forays into regulating tech firms, and specifically the objection to the "pay or consent" system, where users are given the choice between accepting Meta's tracking, or paying €12.99. Ben writes:
+In his latest [free update](https://stratechery.com/2024/the-e-u-goes-too-far/) he takes issue with the EU's latest forays into regulating tech firms, and specifically the objection to the "pay or consent" system, where users are given the choice between accepting Facebook/Meta's tracking, or paying €12.99 a month. Ben writes:
 
-> there is no universe where a non-personalized version of Meta’s products are “equivalent” to a personalized version from a business perspective. Personalized ads are both far more valuable to advertisers, who only want to advertise to potential customers, not the entire Meta user base, and also a better experience for users, who get more relevant ads instead of random nonsense that isn’t pertinent to them. Indeed, personalized ads are so valuable that Eric Seufert has estimated that charging a subscription in lieu of personalized ads would cost Meta 60% of its E.U. revenue; being forced to offer completely un-personalized ads would be far more injurious.
+> there is no universe where a non-personalized version of Meta’s products are \[sic\] “equivalent” to a personalized version from a business perspective. Personalized ads are both far more valuable to advertisers, who only want to advertise to potential customers, not the entire Meta user base, and also a better experience for users, who get more relevant ads instead of random nonsense that isn’t pertinent to them. Indeed, personalized ads are so valuable that Eric Seufert has estimated that charging a subscription in lieu of personalized ads would cost Meta 60% of its E.U. revenue; being forced to offer completely un-personalized ads would be far more injurious.
 
 This whole paragraph is one giant unfounded assertion. It is far from clear that targeted ads give a better experience to users; speaking for myself, I only ever see either super-generic ads that do not take advantage of any of the tracking data, or creepily over-targeted ones like those T-shirts that are obviously just cross-referencing a couple of the user's own revealed interests. It's never "someone finally figured out a USB-C cable that's good actually"; I have to find that on my own.
 
@@ -19,11 +19,11 @@ Basically, surveillance adtech is good for *platforms* like Meta, who extract al
 
 > the more “moderate” punishment could be ten percent of Nvidia’s worldwide revenue, despite the fact that France — and almost certainly the E.U. as a whole — provide nowhere close to ten percent of Nvidia’s revenue.
 
-![](/images/this_is_america.jpeg)
+![Screenshot from Childish Gambino's video for his song "This Is America"](/images/this_is_america.jpeg)
 
 Like many other US commentators, Ben devolves into a pretty narrowly mercantilist argument:
 
->  the European Union is threatening to fine these U.S. tech giants more money than they make in the E.U. market in a year!
+> the European Union is threatening to fine these U.S. tech giants more money than they make in the E.U. market in a year!
 > 
 > The first thing to note is that the very existence of these threats should be considered outrageous by the U.S. government: another international entity is threatening to not just regulate U.S. companies within their borders (reasonable!), but to actually take revenue earned elsewhere in the world.
 
@@ -37,7 +37,7 @@ A previous instance of this transatlantic conflict is the German publishers' [se
 
 The one thing "AI" appears to be pretty good at is summarisation, but there is a fundamental difference between "*summarise the Meta T&C document to tell me what they actually propose to do with my data and what options I have*" and "*summarise this news article / opinion piece / blog that someone wrote and is hoping to be compensated for*". In the same way, it is one thing for Google to list the description of an article that a publisher has provided in the article header, but it is quite another to excerpt big chunks of it, or to digest it to be used as part of an uncredited "AI"-generated summary.
 
-![](/images/imadethis.png)
+![Three panel comic. One character hands something to another, saying "I made this." The recipient reflects for a panel, and in the third panel says "I made this" while holding the original object.](/images/imadethis.png)
 
 The original sin of publishers was to buy in to the promise of the adtech middlemen, who promised easy revenue for their online operations. The problem is that in a world of micro-targeting, big-brand destination sites inevitably get fleeced. The name of the game is identifying someone who reads the NYT, and then (this is the key) *advertising to them somewhere far cheaper*. There is literally no way for the NYT to win in that scenario — which is why the NYT actually built its own in-house ad unit using its own data. 
 
