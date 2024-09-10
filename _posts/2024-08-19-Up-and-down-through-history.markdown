@@ -17,7 +17,7 @@ Unfortunately I didn’t get as much walking done as I might have wanted; my kid
 
 Looking down the Caldarola pass with the Pietra Parcellara in the background.
 
-This was partisan country eighty years ago, with volunteer forces, remnants of the Italian armed forces who had not gone over to the Germans or Mussolini’s rump state at Salò, and even captured Allied servicemen. One of the most famous stories is that of “Capitano Mack”, [Archibald Donald Mackenzie](https://en.wikipedia.org/wiki/Archibald_Donald_Mackenzie). It’s a [fascinating story](https://www.winchestercollegeatwar.com/RollofHonour.aspx?RecID=284&TableName=ta_wwiifactfile&fromSearchPage=true): he was captured in North Africa and was sent to a PoW camp in Veano, in the foothills of the Apennines near Piacenza.[^1] When the Italian government surrendered in 1943, he was unable to flee with the other inmates due to illness, and ended up staying and fighting with the local partisans.
+This was partisan country eighty years ago, with volunteer forces, remnants of the Italian armed forces who had not gone over to the Germans or Mussolini’s rump state at Salò, and even captured Allied servicemen. One of the most famous stories is that of “Capitano Mack”, [Archibald Donald Mackenzie](https://en.wikipedia.org/wiki/Archibald_Donald_Mackenzie). It’s a [fascinating story](https://www.winchestercollegeatwar.com/RollofHonour.aspx?RecID=284&TableName=ta_wwiifactfile&fromSearchPage=true): he was captured in North Africa and was sent to a PoW camp in Veano, in the foothills of the Apennines near here.[^1] When the Italian government surrendered in 1943, he was unable to flee with the other inmates due to illness, and ended up staying and fighting with the local partisans.
 
 ![](/images/IMG_8889.jpeg)
 
@@ -35,5 +35,5 @@ Just some farm on the trail of Saint Colombanus.
 
 Regardless, a good day out exploring some new roads and letting my legs know I haven’t forgotten about them.
 
-[^1]: The old PoW camp is now a summer camp run by the Church[^2] which I visited as a child and which my own children are now cycling through In their turn.
+[^1]: The old PoW camp is now a summer camp run by the Church[^2] which I visited as a child and which my own children are now cycling through in their turn.
 [^2]: Re-reading this, I realised that I should specify: in Italy, unless a qualification is added, the Church is always the Catholic Church. Oriana Fallaci, famously a lifelong atheist, switched to calling herself a “Christian atheist” in deference to the weight of the Church in Italian cultural life.

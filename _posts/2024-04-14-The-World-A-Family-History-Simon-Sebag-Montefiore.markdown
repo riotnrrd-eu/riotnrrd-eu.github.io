@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review — The World - A Family History, by Simon Sebag-Montefiore
+title: Book review — The World - A Family History of Humanity, by Simon Sebag-Montefiore
 date: 2024-04-14
 categories: books history
 ---

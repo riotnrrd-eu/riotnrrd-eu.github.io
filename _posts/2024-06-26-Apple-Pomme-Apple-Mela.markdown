@@ -5,7 +5,7 @@ date: 2024-06-26
 categories: Apple tech EU
 ---
 
-The European Commission is not happy with Apple's efforts to comply with the # Digital Markets Act (DMA). They have been leaking as much for a while now, mainly to the *Financial Times*[^1], but now they have come out and said so explicitly in a [press release](https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3433) (as opposed to a press leak). Here is the core of the EC's position:
+The European Commission is not happy with Apple's efforts to comply with the Digital Markets Act (DMA). They have been leaking as much for a while now, mainly to the *Financial Times*[^1], but now they have come out and said so explicitly in a [press release](https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3433) (as opposed to a press leak). Here is the core of the EC's position:
 
 > Under the DMA, developers distributing their apps via Apple's App Store should be able, free of charge, to inform their customers of alternative cheaper purchasing possibilities, steer them to those offers and allow them to make purchases.
 
@@ -13,7 +13,7 @@ Describing the situation this way underlines the fundamental misunderstanding of
 
 Too much of the commentary frames this situation as a tug-of-war between Apple on one side and developers on the other — but it is actually a three-way-conversation, with users in the mix as well. Sometimes users' needs will align with Apple's priorities, and sometimes with developers', and sometimes they will have their own. But I hardly ever see the users' perspective discussed, so that is what I want to do here.
 
-![](/images/lucas-van-oort-1cONnsS3ih0-unsplash.jpg)
+![A badly scratched iPhone on the ground](/images/lucas-van-oort-1cONnsS3ih0-unsplash.jpg)
 
 ## Squeezing users
 
@@ -69,7 +69,7 @@ All of these EC proposals are, in the words of Ben Thompson on the Dithering pod
 
 In fact, the [recently-announced delay to some headline iOS 18 features](https://www.ft.com/content/360751cb-7a22-48e0-9b00-6a30ff41dcfe), which has been interpreted by some as spiteful, can just as easily be parsed as Apple's fear of interoperability questions. Will the EC require that Apple support SharePlay from iPhone to Windows that is as seamless as it is to a Mac? What about Android to Windows? SharePlay is a competitive benefit that is only available on Apple's products, but that is because it arguably can only exist in that integrated ecosystem.
 
-![](/images/why-not-both.png)
+![Why not both?](/images/why-not-both.png)
 
 ## Where are we going
 
@@ -82,7 +82,6 @@ In the other direction, public standards also embrace ideas from Apple's proprie
 If the EC gets its way with the DMA, some developers might be able to release apps that would not have been approved by Apple, or using different payment processors. Most of those developers will be massive US companies like Meta or Epic, not struggling indie developers crushed under Apple's boot-heel. Situations like Delta and UTM are the exception: those apps have tiny numbers of users in proportion. For users, this outcome would mean subscriptions spread across a dozen different systems, each with is own arcane cancellation and refund rules, and no unified view of what they (or their kids) are paying for.
 
 I struggle to see how that is a good outcome for European consumers.
-
 
 ***
 
