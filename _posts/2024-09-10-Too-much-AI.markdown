@@ -2,14 +2,14 @@
 layout: post
 title: Too much AI?
 date: 2024-09-10
-categories: Apple iPhone
+categories: Apple iPhone AI
 ---
 
 Quick thoughts on the iPhone 16 event:
 
 I will be buying an iPhone 16 Pro, because my 14 Pro is still worth something, and from experience iPhones start to degrade more rapidly in their third year. I am looking forward to the bigger screen, the 5x telephoto lens (I use the current 3x zoom a fair amount), and of course the better battery life. The new Camera Control button also looks nifty. Yes, my iPhone is my camera, how did you guess?
 
-![](/images/iphone16pro.png)
+![iPhone 16 Pro recap image with list of features](/images/iphone16pro.png)
 
 Before the video I was thinking I'd just get the natural titanium colour, but now I'm thinking the desert option might be better. I keep my phone in an Apple transparent case, but even that is enough to dull the (very limited) colour options that Apple allows for its Pro phones. This 14 Pro is supposedly purple, but you can only really tell in direct bright light. All that is to say, I am not concerned that it will be too boring, quite the opposite.
 
@@ -17,13 +17,13 @@ Annnnd… that's it.
 
 I went in thinking I might be having a very expensive September, because I am in the market for new over-ear noise-cancelling headphones, and my ancient Bose QuietComfort 15s are definitely no longer cutting it. Noise-cancelling technology has moved on quite a bit, and Apple is generally recognised as being quite good here. Certainly my AirPods Pro are basically magical with how good they are.
 
-![](/images/airpodsmax2.png)
+![Air Pods Max with USB-C cable](/images/airpodsmax2.png)
 
 However the AirPods Max received the tiniest update, basically limited to swapping the Lightning port for USB-C, as well as some new colour options. Now I love living the all-USB-C lifestyle, but no H2 chip? No lossless audio support? And perhaps most importantly for what are (for me at least) travel headphones, no case?
 
 No thanks. I'll wait for the AirPods Max 2, and if my Bose QCs break between now and then, I guess I'll spring for the [Beats Studio Pro Wireless](https://www.apple.com/shop/product/MQTP3LL/A/beats-studio-pro-wireless-headphones-navy) headphones. They already have most of what Apple needs to put in the AirPods Max, and I cannot fathom why they don't just do it.
 
-![](/images/applewatchultra2.png)
+![Apple Watch Ultra 2recap image with list of features](/images/applewatchultra2.png)
 
 The other disappointment / saving is the Apple Watch Ultra 2. Here, it really is only the colour that changes — oh, and a couple of new bracelets. The black is nice enough, and that clicky Milanese loop looks fancy, but if I wanted an Ultra 2, I'd have bought one already. I will soldier on with my Series 7 until either the Ultra 3 shows up, or I finally manage to get some diving planned.
 
@@ -31,7 +31,7 @@ I do like the number of features that work with existing products. Hearing aid m
 
 But I can't avoid a little niggling thought: *how much better could all of these products have been if a bunch of time had not been wasted on Apple Intelligence?*
 
-![](/images/appleintelligence.png)
+![Apple Intelligence rephrasing an informal Slack conversation to be "more professional"](/images/appleintelligence.png)
 
 None of these strike me as must-have features. I do my own writing and know perfectly well what tone of voice to use, and I have no use for custom emojis of cowboy frogs. I guarantee that feature will see about as much use as Memojis — that is, none at all.
 
@@ -45,10 +45,18 @@ Maybe this is sour grapes because I won't get these features here in the EU, or 
 
 Yeah, I think I can live without that.
 
-![](/images/appleintelligence2.png)
+![A man taking a picture of a poster with his iPhone. The iPhone offers to add the advertised event to his calendar.](/images/appleintelligence2.png)
 
 I also simply don't believe that taking photos of restaurants to get their menu or of flyers to add details to the calendar will ever work as well as it did in that demo. Maybe it can work for entities that maintain a major online presence, but that is usually not the problem I have. The issue is the businesses and events that have **no** online presence for Apple Intelligence to harvest, or think a Facebook page is enough. This is a classic AI feature: looks good in a demo, but will really struggle to scale, mostly for lack of data for it to work with.
 
+I see a lot of this in my [day job](https://www.snaplogic.com), and I'm not the only one. Bain found similar results in a [survey](https://www.bain.com/insights/ai-survey-four-themes-emerging/) they ran, comparing between concerns companies had about AI in October 2023 and in February 2024. 
+
+![Graph showing Bain survey results. Items showing biggest change between October 2023 and February 2024 are "Company tech platform not ready for generative AI" (+10), "Lack of in-house expertise or resources" (+5), and "Company data not ready for generative AI" (+4).](/images/Bain-AI-survey.png)
+
+The whole point of LLMs is that it's easy to make them say *something*. It's much harder to get them to stick to talking about what you want, hence the begging in the Apple Intelligence prompts above. Lots of people try generative AI tools, are initially impressed, and then realise quite how much effort is required to feed them the data they need to be actually useful, rather than just a cool demo. This is why so many products that are reliant on AI turn out to be [public betas]({% post_url Public-Betas %}).
+
+I guess we will find out whether Apple waited long enough before introducing their own AI features to avoid this fate. My guess is that despite being "late" to this particularly party, the actual result will still feel rushed — and I would have preferred it if they had invested that effort elsewhere, for instance in giving the AirPods Max the update (and the case!) that they are crying out for. Plus, I would actually pay money for that. Just a thought. 
+
 ***
 
-🖼️  Photos are all screenshots from the [event video](https://www.youtube.com/watch?v=uarNiSl_uh4)
+🖼️  Photos are all screenshots from the Apple [event video](https://www.youtube.com/watch?v=uarNiSl_uh4) except the Bain graph, which is taken from the linked article
