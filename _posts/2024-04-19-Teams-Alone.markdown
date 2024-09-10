@@ -2,7 +2,7 @@
 layout: post
 title: Teams, Alone
 date: 2024-04-19
-categories: Zoom Teams Microsoft Slack enterprise
+categories: Zoom Teams Microsoft Slack enterprise Safari Netscape
 ---
 
 There is a lot going on in tech lately, what with companies like Humane and Apple releasing products that are actually [public betas]({% post_url 2024-04-14-Public-Betas %}). Perhaps it's natural, then, that a relatively lower-profile item of news like [Microsoft unbundling Teams from Office](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/) flew under many people's radar. 
