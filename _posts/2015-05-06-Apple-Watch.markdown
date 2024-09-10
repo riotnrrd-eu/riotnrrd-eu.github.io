@@ -2,7 +2,7 @@
 layout: post
 title:  Apple Watch 
 date:   2015-05-06 
-categories:  tech Apple USB 
+categories:  tech Apple USB watch
 ---
 
 Since I’m in the US this week, I thought I’d go check out an Apple Watch. 
