@@ -11,7 +11,7 @@ I will be buying an iPhone 16 Pro, because my 14 Pro is still worth something, a
 
 ![iPhone 16 Pro recap image with list of features](/images/iphone16pro.png)
 
-Before the video I was thinking I'd just get the natural titanium colour, but now I'm thinking the desert option might be better. I keep my phone in an Apple transparent case, but even that is enough to dull the (very limited) colour options that Apple allows for its Pro phones. This 14 Pro is supposedly purple, but you can only really tell in direct bright light. All that is to say, I am not concerned that it will be too boring, quite the opposite.
+Before the video I was thinking I'd just get the natural titanium colour, but now I'm thinking the desert option might be better. I keep my phone in an Apple transparent case, but even that is enough to dull the (very limited) colour options that Apple allows for its Pro phones. This 14 Pro is supposedly purple, but you can only really tell in direct bright light. All that is to say, I am not concerned that it will be too out there, quite the opposite.
 
 Annnnd… that's it.
 
