@@ -5,9 +5,6 @@ date:   2015-07-30
 categories:  media geography bbc 
 ---
 
-# Signs of Hope
-
-
 I was heartened to read that the EU, no less, is [calling out Sky](http://www.nytimes.com/2015/07/24/business/international/eu-antitrust-movie-studios-sky-uk.html "E.U. Opens Antitrust Case Against Major U.S. Studios and Sky UK") over their silly geographical restrictions: 
 
 > The European Union’s top antitrust authority on Thursday charged six American studios and a pay television company in Britain with unfairly blocking access to films and other content.
@@ -36,7 +33,7 @@ I was always amazed that nobody saw a problem - or rather, an **opportunity** - 
 
 About time, too. *Top Gear* is going to restart soon[^2]. 
 
-*** 
+*** 
 
 Image by [elizabeth lies](https://www.flickr.com/photos/elizabethlies) via [Unsplash](https://unsplash.com)
 
