@@ -2,7 +2,7 @@
 layout: post
 title: Get your head out of the cloud
 date: 2024-09-17
-categories: #WfH #work #Amazon
+categories: #work #Amazon #WfH 
 ---
 
 Another day, another CEO decides there aren't enough people around any more, and therefore it's time for a "return to office" mandate, known to its few friends and many enemies as RtO.
@@ -23,7 +23,9 @@ The Amazon situation also includes this little nugget:
 
 What this proviso means is that the aforementioned reduction will be made up in significant part by departures of managers and senior employees who no longer have promotion prospects at Amazon. 
 
-Some will say that Amazon needs to get back to a flatter organizational structure, but those are not without their own downsides. Notably, if your manager now has 15% more direct reports, you have correspondingly less face-time and mind-share with them. Andy Jassy claims that the proliferation of layers of management has had bad effects:
+Some will say that Amazon needs to get back to a flatter organizational structure, but those are not without their own downsides. Notably, if your manager now has 15% more direct reports, you have correspondingly less face-time and mind-share with them. How many two-pizza teams can one manager reasonably oversee? 
+
+Andy Jassy claims that the proliferation of layers of management has already had bad effects:
 
 > pre-meetings for the pre-meetings for the decision meetings, a longer line of managers feeling like they need to review a topic before it moves forward, owners of initiatives feeling less like they should make recommendations because the decision will be made elsewhere, etc.
 
@@ -31,7 +33,7 @@ Now instead there will indeed be fewer layers of management — but the managers
 
 One of the big exports of Amazon's management culture is [the famous "six-pager"](https://www.cnbc.com/2018/04/23/what-jeff-bezos-learned-from-requiring-6-page-memos-at-amazon.html). This is the (roughly) six-page document that everyone is supposed to read before a decision meeting. The doc lays out what is being proposed, any relevant background, potential outcomes under different scenarios, and so on. Writing these documents properly takes time and effort; trust me, I've done it. Done right, the memos are also very information-dense, so reading them and absorbing their contents also takes time; they can't simply be skimmed. They also tend to provoke questions and discussion. 
 
-Maybe Amazon had too many layers of management around the place, gumming up the works — or maybe what will happen is that the managers will have less time to absorb the pre-meeting information. The result in that case will be *even more* need for "pre-meetings for the pre-meetings for the decision meetings".
+Maybe Amazon did have too many layers of management around the place, gumming up the works — or maybe what will happen is that the managers will have less time to absorb the pre-meeting information. The result in that case will be *even more* need for "pre-meetings for the pre-meetings for the decision meetings".
 
 ![A crowded desk](/images/robert-bye-BY34glOW7wA-unsplash.jpg)
 
@@ -54,6 +56,6 @@ Look, I'm not a work-from-home absolutist; check out the [WfH tag](https://findt
 Amazon is big enough that this is hardly going to sink the company, but it is going to have consequences at the margins. Look for lots more somewhat-senior ex-Amazon people to be starting new roles over the next six months — coincidentally, all remote.
 
 
-***
-
-🖼️  Andy Jassy image from About Amazon site, other photos by [Robert Bye](https://www.robjbye.com/) and [Norbert Braun](https://unsplash.com/@medion4you) on [Unsplash](https://www.unsplash.com)
+*** 
+ 
+🖼️  Andy Jassy image from the [About Amazon](https://www.aboutamazon.com) site; other photos by [Robert Bye](https://www.robjbye.com/) and [Norbert Braun](https://unsplash.com/@medion4you) on [Unsplash](https://www.unsplash.com)

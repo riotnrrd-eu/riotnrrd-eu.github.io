@@ -34,4 +34,3 @@ UPDATE: I was wrong! It is in fact possible to do the same thing on iOS; just ho
 ![](/images/unknown_filename.437.png)
 
 Not especially discoverable, perhaps, but very useful. In fact, since I found out about this, it turns out that the same thing works on desktop Safari.
-
