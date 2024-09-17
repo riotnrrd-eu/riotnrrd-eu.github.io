@@ -2,7 +2,7 @@
 layout: post
 title: Get your head out of the cloud
 date: 2024-09-17
-categories: #Amazon #WfH #work
+categories: #WfH #work #Amazon 
 ---
 
 ![Andy Jassy](/images/andyjassy.png)
