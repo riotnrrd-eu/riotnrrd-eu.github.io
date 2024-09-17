@@ -2,7 +2,7 @@
 layout: post
 title: Get your head out of the cloud
 date: 2024-09-17
-categories: #work #Amazon #WfH 
+categories: #work #Amazon #wfh 
 ---
 
 Another day, another CEO decides there aren't enough people around any more, and therefore it's time for a "return to office" mandate, known to its few friends and many enemies as RtO.
