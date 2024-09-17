@@ -2,12 +2,12 @@
 layout: post
 title: Get your head out of the cloud
 date: 2024-09-17
-categories: #WfH #work #Amazon 
+categories: #WfH #work #Amazon
 ---
 
-![Andy Jassy](/images/andyjassy.png)
-
 Another day, another CEO decides there aren't enough people around any more, and therefore it's time for a "return to office" mandate, known to its few friends and many enemies as RtO.
+
+![Andy Jassy](/images/andyjassy.png)
 
 Today, it's [Amazon CEO Andy Jassy's turn](https://www.aboutamazon.com/news/company-news/ceo-andy-jassy-latest-update-on-amazon-return-to-office-manager-team-ratio). After all, how can a cloud company possibly operate without everyone being on premises at all times? It's almost like that dynamic agile work-from-anywhere message is only for the marketing slides…
 
