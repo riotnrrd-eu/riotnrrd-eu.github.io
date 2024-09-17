@@ -37,13 +37,13 @@ Maybe Amazon had too many layers of management around the place, gumming up the 
 
 # The Mythical Person-Month
 
-This whole thing reeks of [*Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) thinking : if being in the office sometimes is great, being in the office always must be even better! Except in this instance, the justification for the RtO mandate is not the usual claim that being in the office will lead to more innovation or collaboration or productivity. Instead, Bezos simply claims that everyone being in the office will somehow strengthen the Amazon culture.
+This whole thing reeks of [*Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) thinking : if being in the office **sometimes** is great, being in the office **always** must be even better! Except in this instance, the justification for the RtO mandate is not the usual claim that being in the office will lead to more innovation or collaboration or productivity. Instead, Bezos simply claims that everyone being in the office will somehow strengthen the Amazon culture.
 
 But it gets better!
 
 > We are also going to bring back assigned desk arrangements in locations that were previously organized that way, including the U.S. headquarters locations (Puget Sound and Arlington). For locations that had agile desk arrangements before the pandemic, including much of Europe, we will continue to operate that way.
 
-So… how do I actually find my team-mates that I need to work with today? Oh yeah, we all get on Chime (not Zoom or Teams, oh no, this is Amazon after all) and meet there. What part of that could not have been accomplished from my home office? And let's not even talk about the disreputable scramble and inevitable office vendettas that will result as everyone tries to nab the good desks with some hope of natural light, livable temperatures, and minimum chance of interruption.
+So… how do I actually find my team-mates that I need to work with today, since we are all scattered around the office wherever we could find a perch? Oh yeah, we all get on Chime (not Zoom or Teams, oh no, this is Amazon after all) and meet there. What part of that could not have been accomplished from my home office? And let's not even talk about the disreputable scramble and inevitable office vendettas that will result as everyone tries to nab the good desks with some hope of natural light, livable temperatures, and minimum chance of interruption.
 
 # The Filling of the Sandwich
 
