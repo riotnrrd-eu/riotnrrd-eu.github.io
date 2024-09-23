@@ -2,7 +2,7 @@
 layout: post
 title: Sunny days
 date: 2024-09-23
-categories: solarpunk climate
+categories: solarpunk climate cycling MTB snowboarding
 --- 
 
 The thread I pulled on today is about carrying capacity of our planet. Via [Crooked Timber](https://crookedtimber.org/2024/09/20/occasional-paper-united-nations-world-population-prospects-2024/) come the latest [UN estimates of world population growth](https://population.un.org/wpp/).
@@ -17,7 +17,7 @@ Italy is one of the countries with the lowest birth rates, well below replacemen
 
 This all looks like one of those insoluble problems, and so I have always had this low-level dread about the future that I keep pushing to the back of my mind. I am extremely highly evolved and optimised for my precise ecological niche. It wouldn't even take a full civilisational collapse to boot me out into the cold, just a relatively contained disruption.
 
-The problem is, of course, that there is only so much abyss-gazing one can do. Once you're recycling your waste, eating local, cycling to anything within range, and minimising use of AC and heating, there are not that many other things to do while still participating in twenty-first-century life. A solarpunk future is not readily accessible to individual urban apartment-dwellers; it requires political solutions.
+The problem is, of course, that there is only so much abyss-gazing one can do. Once you're recycling your waste, eating local, cycling to anything within range, and minimising use of AC and heating, there are not that many other things to do while still participating in twenty-first-century life. A solarpunk future is not readily accessible to individual urban apartment-dwellers; it requires political solutions.[^1]
 
 ![Workers installing solar panels on a roof](/images/solar-panel-roof.jpg)
 
@@ -38,3 +38,5 @@ There will of course still need to be political commitment, not least to ensure 
 ***
 
 🖼️  Photos by [iStrfry, Marcus](https://istrfry.com/), [Justin Lim](https://unsplash.com/@justinlim), and [sasan rashtipour](https://unsplash.com/@srashtipour) on [Unsplash](https://www.unsplash.com)
+
+[^1]: One political solution might involve putting everyone associated with [this film](https://www.redbull.com/int-en/films/anytime) up against a convenient wall. Mountain biking has long been one of the most ecologically-unsustainable sports, contrary to cycling’s mostly-positive image, because far too many of those involved seem to be actively against the concept of “cycling”. The archetypal MTB bro drives to the trail with his e-bike hanging out of the tailgate of his massive pickup truck, preferably a trail that is served by a lift so that he never actually has to turn the pedals or do any climbing. But this “Anytime” film is on another level, with bikes and riders delivered to mountain peaks by helicopter so that they can ride into each other on the way down. That was when I turned off the TV. Winter sports have the same problem, of course, but there is a pushback lead by people like Jeremy Jones, who make a point of earning their powder turns by split-boarding into the back-country, sometimes for days on end, instead of swanning in by heli. Where is the Jeremy Jones of MTB?
