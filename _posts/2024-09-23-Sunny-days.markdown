@@ -2,14 +2,14 @@
 layout: post
 title: Sunny days
 date: 2024-09-23
-categories: solarpunk
----
-
-![Black and white photograph of a crowd](/images/crowd-bw.jpg)
+categories: solarpunk climate
+--- 
 
 The thread I pulled on today is about carrying capacity of our planet. Via [Crooked Timber](https://crookedtimber.org/2024/09/20/occasional-paper-united-nations-world-population-prospects-2024/) come the latest [UN estimates of world population growth](https://population.un.org/wpp/).
 
-> The UN’s current best guess is that world population will peak around 10.4 billion people, give or take, some time around 2080.  Current world population is around 8.2 billion people, so that’s almost exactly a 25% increase.
+![Black and white photograph of a crowd](/images/crowd-bw.jpg)
+
+> The UN’s current best guess is that world population will peak around 10.4 billion people, give or take, some time around 2080.  Current world population is around 8.2 billion people, so that’s almost exactly a 25% increase.
 
 This is down a little from previous estimates, but still, that's a *lot* of people (understatement, and also obvious). Are we at risk of overshooting our ecosystem's carrying capacity? But if so, who exactly is going to be told they can't have children, and who is going to be doing the telling?
 
@@ -37,4 +37,4 @@ There will of course still need to be political commitment, not least to ensure 
 
 ***
 
-🖼️  Photos by [iStrfry, Marcus](https://istrfry.com/), [Justin Lim](https://unsplash.com/@justinlim), and [sasan rashtipour](https://unsplash.com/@srashtipour) on [Unsplash](https://www.unsplash.com)
+🖼️  Photos by [iStrfry, Marcus](https://istrfry.com/), [Justin Lim](https://unsplash.com/@justinlim), and [sasan rashtipour](https://unsplash.com/@srashtipour) on [Unsplash](https://www.unsplash.com)
