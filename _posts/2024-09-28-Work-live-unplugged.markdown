@@ -22,7 +22,7 @@ Back to the office, the introduction of AI-enabled features in so much of the so
 
 That static language is of course perfectly to the capabilities of today's Large Language Models — but the question that needs to be asked, as about so many of the uses of LLMs, is ***why**** **are we doing this?** My attitude remains "if you couldn't be bothered to write it, I can't be bothered to read it" — and if you are using AI to generate a long email from three bullet points, and I am (lossily) recondensing it back down to three bullet points, what exactly has been achieved?
 
-![An empty office](andrea-de-santis-q8fe785r5nU-unsplash.jpg)
+![An empty office](/images/andrea-de-santis-q8fe785r5nU-unsplash.jpg)
 
 This same objection applies to much of the return-to-office hysteria. If I am travelling to an office, but my team is all sitting in *different* offices, and we are all on video calls with each other, what exactly has been achieved? No spontaneous hallway collaboration is happening; people in that situation can literally [die at their desks and not be found for days](https://www.reddit.com/r/WellsFargoUnited/comments/1fnp9fa/please_print_and_take_to_your_managersite_leader/?rdt=47163).
 
