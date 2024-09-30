@@ -2,11 +2,8 @@
 layout: post
 title:  Remote Events 
 date:   2020-07-08 
-categories:  event work wfh 
+categories:  event work WfH 
 ---
-
-# Remote Events
-
 
 In a normal year, this is high season for events and trade shows. Instead, because 2020, I’m at home with no immediate prospect of travel. While this lack of travel does have some [benefits]({% post_url 2020-06-24-An-Unexpected-Holiday %}), I do miss events, and I hope that things will get back to normal, because virtual events — or at least, the sorts of virtual events I have attended — simply do not work for me, and I’m [not the only one]().
 

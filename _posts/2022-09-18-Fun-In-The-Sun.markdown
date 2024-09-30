@@ -2,7 +2,7 @@
 layout: post
 title:  Fun In The Sun 
 date:   2022-09-18 
-categories:  Apple citi wfh RemoteWork GoldmanSachs 
+categories:  Apple citi WfH RemoteWork GoldmanSachs 
 ---
 
 # Fun In The Sun

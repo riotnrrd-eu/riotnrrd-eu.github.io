@@ -2,11 +2,8 @@
 layout: post
 title:  Things That Happen When You're Working From Home 
 date:   2020-03-24 
-categories:  work wfh 
+categories:  work WfH 
 ---
-
-# Things That Happen When You're Working From Home
-
 
 ![](/images/unknown_filename.440.png)
 

@@ -2,11 +2,8 @@
 layout: post
 title:  Work From Home 
 date:   2018-03-15 
-categories:  work wfh 
+categories:  work WfH 
 ---
-
-# Work From Home
-
 
 ![](/images/unknown_filename.494.png)
 

@@ -2,11 +2,8 @@
 layout: post
 title:  How to Survive the Home Office 
 date:   2020-03-10 
-categories:  work wfh covid19 coronavirus 
+categories:  work WfH covid19 coronavirus 
 ---
-
-# How to Survive the Home Office
-
 
 ## Some tips from someone who hasn’t worked in an office in fifteen years
 

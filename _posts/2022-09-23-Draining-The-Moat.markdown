@@ -2,7 +2,7 @@
 layout: post
 title:  Draining The Moat 
 date:   2022-09-23 
-categories:  microsoft wfh Zoom WebEx RemoteWork Teams 
+categories:  microsoft WfH Zoom WebEx RemoteWork Teams 
 ---
 
 # Draining The Moat

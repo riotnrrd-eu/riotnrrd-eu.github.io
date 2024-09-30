@@ -2,7 +2,7 @@
 layout: post
 title:  From Provincial Italy To London — And Back Again 
 date:   2022-05-08 
-categories:  wfh RemoteWork 
+categories:  WfH RemoteWork 
 ---
 
 # From Provincial Italy To London — And Back Again

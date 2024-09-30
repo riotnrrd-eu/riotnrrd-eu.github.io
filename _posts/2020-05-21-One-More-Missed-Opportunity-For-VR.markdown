@@ -2,11 +2,8 @@
 layout: post
 title:  One More Missed Opportunity For VR 
 date:   2020-05-21 
-categories:  conference work wfh AR VR 
+categories:  conference work WfH AR VR 
 ---
-
-# One More Missed Opportunity For VR
-
 
 SF authors have a lot to answer for. While they are popularly assumed to predict the future, most will be quick to disclaim any Nostradamus tendencies. Instead, they are trying to tell a story, and the setting is only a part of that effort. The problems arise when people read the story, fall in love with the setting — and decide to enact it in real life.
 

@@ -2,11 +2,8 @@
 layout: post
 title:  KonMari The Home Office 
 date:   2020-04-29 
-categories:  work wfh 
+categories:  work WfH 
 ---
-
-# KonMari The Home Office
-
 
 I was all ready to hate [this list of work-from-home tips from Marie Kondo](https://konmari.com/marie-kondo-work-from-home-tips/), but actually it’s… not bad?
 
