@@ -19,7 +19,7 @@ Young people these days, am I right?
 
 I don’t know how long is too long to be in sales, but I have now been doing it for long enough that I can look down at young whippersnappers and their naivety.
 
-Today’s example is actually a perfect storm of sorts, involving Silicon Valley VCs, a Bitcoin startup, and large enterprise processes. I was listening to [the a16z podcast](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin"), which as usual is about equally irritating and enlightening. The guest on this particular episode was one [Adam Ludwin](https://twitter.com/adamludwin), whose claim to fame is as the founder of a Bitcoin - sorry, ***blockchain*** startup, called [Chain](http://chain.com "Chain | Enterprise Blockchain Platform").
+Today’s example is actually a perfect storm of sorts, involving Silicon Valley VCs, a Bitcoin startup, and large enterprise processes. I was listening to [the a16z podcast](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin"), which as usual is about equally irritating and enlightening. The guest on this particular episode was one [Adam Ludwin](https://twitter.com/adamludwin), whose claim to fame is as the founder of a Bitcoin - sorry, ***blockchain*** startup, called [Chain](http://chain.com "Chain Enterprise Blockchain Platform").
 
 ![](/images/unknown_filename.10.jpeg)
 
