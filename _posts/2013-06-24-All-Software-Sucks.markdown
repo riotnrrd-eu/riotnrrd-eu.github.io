@@ -2,7 +2,7 @@
 layout: post
 title:  All Software Sucks 
 date:   2013-06-24 
-categories:  tech 
+categories:  tech cloud
 ---
 
 It is a truism in high-tech that *All Software Sucks*. (There is an equally valid corollary that *All Hardware Sucks*.) The usual reason for restating this universally accepted truth is to deflate someone who is lapsing into advocacy of one platform over another. There is a deeper truth here, though, and it's about who builds the software, who for, and why.
