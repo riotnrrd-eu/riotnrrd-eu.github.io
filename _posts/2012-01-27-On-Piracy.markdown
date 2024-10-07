@@ -5,9 +5,6 @@ date:   2012-01-27
 categories:  media piracy 
 ---
 
-# On Piracy
-
-
 This is a post that has been festering for a while, but no matter how long I let it simmer, it refused to boil down to 140 chars so I could tweet it. The whole reason for this blog is to post thoughts which are too long for Twitter and too not-job-related and/or controversial for my work blog, so here goes.
 
 I get the outrage about SOPA and ACTA and all their little friends. They are enormously big sticks to wave around, and the risk is that when all you have is a big stick, you use it every time, and end up squishing everything in the general vicinity of what you were aiming at.
@@ -43,4 +40,3 @@ The point remains: these works were created for pay, they were put on sale for m
 If we as a society are OK with this, we should not be surprised that the owners of that content get a bit hysterical and take a "shoot first, ask questions later" attitude, even when the questions are quite reasonable ones from people who would love to pay for content if only it were re-released. Or available in their region. Or available in a convenient format. Or not encumbered with restrictions on personal and other fair use.
 
 The time to argue about right-to-roam is not when the game-keeper catches you with a haunch of venison in one hand and a leg of swan in the other.
-

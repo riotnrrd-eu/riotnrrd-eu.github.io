@@ -5,9 +5,6 @@ date:   2013-06-24
 categories:  tech 
 ---
 
-# All Software Sucks
-
-
 It is a truism in high-tech that *All Software Sucks*. (There is an equally valid corollary that *All Hardware Sucks*.) The usual reason for restating this universally accepted truth is to deflate someone who is lapsing into advocacy of one platform over another. There is a deeper truth here, though, and it's about who builds the software, who for, and why.
 
 Many open-source projects have terrible interfaces, major usability issues, and appearances that only a mother could love. This is because the creators by and large did not get into the project for that part; they wanted a tool that would perform a specific, often quite technical, task for them, and assembled a band of like-minded enthusiasts to work on the project in their off-hours.
@@ -53,4 +50,3 @@ If you are in enterprise IT, the new cloud services that users are asking for or
 If you are *selling* to enterprise IT, help them along this road. Talk to the users, and share your findings back with the IT department. This way everybody wins. 
 
 Talk to the users, they'll tell you what the problem is. Have no doubt about that.
-
