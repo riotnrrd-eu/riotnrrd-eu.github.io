@@ -7,7 +7,7 @@ categories: Google
 
 The WSJ published an [article](https://www.wsj.com/tech/online-ad-market-google-tiktok-9599d7e8) in which a research outfit called eMarketer claimed that Google was projected to drop below 50% of search traffic by 2024.
 
-![Newspaper headline: Extra, Extra](/images/newspaper-extra-extra.png)
+![Newspaper headline: Extra, Extra](/images/Extra-icon.png)
 
 Perhaps because of the WSJ paywall, many people seem not to have read the article itself. I admit that I too did not read it as soon as it came out, assuming that the attention-grabbing headline was clickbait that would turn out to be dramatically qualified somehow.
 
@@ -40,4 +40,4 @@ All I can do in the meantime is cheer on *any* antitrust or anti-monopoly regula
 
 ***
 
-🖼️  Photos by [Christian Wiediger](https://instagram.com/ChristianChr1s) on [Unsplash](https://www.unsplash.com)
+🖼️  Google photo by [Christian Wiediger](https://instagram.com/ChristianChr1s) on [Unsplash](https://www.unsplash.com); the "Extra" icon at the top is an Easter egg for the old heads.
