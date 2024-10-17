@@ -2,7 +2,7 @@
 layout: post
 title:  Business Case In The Clouds 
 date:   2022-10-10 
-categories:  Facebook google meta 
+categories:  Facebook Google Meta 
 ---
 
 A perennial problem in tech is people building something that is undeniably *cool*, but is not a viable product. The most common definition of "viable" revolves around the size and accessibility of the target market, but there are other factors as well: sustainability, profitability, growth versus funding, and so on.
@@ -28,7 +28,7 @@ These are just some of the *obvious* questions, the ones that you should not mov
 
 # Possible, Just Not Viable
 
-One example of how this process can play out would be Google Stadia ([RIP](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023)). At the time of its launch, everyone was focused on technical feasibility:
+One example of how this process can play out would be Google Stadia ([RIP](https://www.theverge.com/2022/9/29/23378713/Google-stadia-shutting-down-game-streaming-january-2023)). At the time of its launch, everyone was focused on technical feasibility:
 
 > [...] streaming games from datacenters like they’re Netflix titles has been unproven tech, and previous attempts have failed. And in places like the US with fixed ISP data caps, how would those hold up to 4-20 GB per hour data usage?
 

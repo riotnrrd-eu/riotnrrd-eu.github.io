@@ -2,10 +2,10 @@
 layout: post
 title:  Law in the Time of Google 
 date:   2017-06-29 
-categories:  google EU 
+categories:  Google EU 
 ---
 
-It’s quite amazing how people misunderstand the intersection between the Internet and the law.[^1] A case in point is [this article from Reuters](http://www.reuters.com/article/us-eu-google-antitrust-outlook-idUSKBN19I2MO "Google faces years of EU oversight on top of record antitrust fine | Reuters"), describing the likely consequences of the €2.4B fine that the EU Commission has slapped Google with.
+It’s quite amazing how people misunderstand the intersection between the Internet and the law.[^1] A case in point is [this article from Reuters](http://www.reuters.com/article/us-eu-Google-antitrust-outlook-idUSKBN19I2MO "Google faces years of EU oversight on top of record antitrust fine | Reuters"), describing the likely consequences of the €2.4B fine that the EU Commission has slapped Google with.
 
 ![](/images/unknown_filename.209.jpeg)
 

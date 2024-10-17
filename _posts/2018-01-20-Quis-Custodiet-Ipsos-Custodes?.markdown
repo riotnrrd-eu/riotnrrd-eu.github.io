@@ -2,14 +2,14 @@
 layout: post
 title:  Quis Custodiet Ipsos Custodes? 
 date:   2018-01-20 
-categories:  google email 
+categories:  Google Facebook email 
 ---
 
 Google is back in the news - and once again, it’s not for anything good. They added a Promotions folder to Gmail some time ago, and the pitch was that all the emails from *brands* that wanted to *engage* with you would automagically end up in there.
 
 ![](/images/IMG_0014.PNG)
 
-The problem is that this mechanism works a little too well, as [Seth Godin describes](http://sethgodin.typepad.com/seths_blog/2018/01/an-open-note-to-google.html "Please don't kill the blogs"):
+The problem is that this mechanism works a little too well, as [Seth Godin describes](http://sethgodin.typepad.com/seths_blog/2018/01/an-open-note-to-Google.html "Please don't kill the blogs"):
 
 > You take the posts from this blog and dump them into my promo folder--and the promo folder of more than a hundred thousand people who never asked you to hide it.
 >
@@ -34,4 +34,5 @@ As convenient as Gmail is, a single middleman becoming this important is very da
 Will Gmail end up like Facebook – or like Reader?
 
 ***
+
 Photo by [Mathyas Kurmann](http://mathyaskurmann.tumblr.com) on [Unsplash](http://www.unsplash.com)

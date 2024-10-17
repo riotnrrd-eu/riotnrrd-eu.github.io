@@ -2,11 +2,8 @@
 layout: post
 title:  Don't Tell Me What I Can Or Can't Do 
 date:   2018-03-08 
-categories:  google annoyances youtube 
+categories:  Google annoyances YouTube
 ---
-
-# Don't Tell Me What I Can Or Can't Do
-
 
 So I was watching [that Spike Jonze-directed HomePod ad](https://youtu.be/305ryPvU6A8), and I noticed something odd:
 
@@ -31,4 +28,3 @@ Google are of course hell-bent on taking over absolutely everything about your b
 ![](/images/tweet-970621387860738048.png)
 
 Can’t we just go back to Google giving good search results and leaving it at that?
-

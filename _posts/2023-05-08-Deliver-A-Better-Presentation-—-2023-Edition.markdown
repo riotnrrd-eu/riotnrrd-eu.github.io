@@ -2,11 +2,8 @@
 layout: post
 title:  Deliver A Better Presentation — 2023 Edition 
 date:   2023-05-08 
-categories:  google presenting AppleTV Zoom WebEx Teams 
+categories:  Google presenting AppleTV Zoom WebEx Teams 
 ---
-
-# Deliver A Better Presentation — 2023 Edition
-
 
 During the ongoing process of getting back on the road and getting used to meeting people in three dimensions again, I noticed a few presenters struggling with displaying slides on a projector. These skills may have atrophied with remote work, so I thought it was time for a 2023 update to a five-year-old [blog post]({% post_url 2018-04-06-How-To-Run-A-Good-Presentation %}) of mine where I shared some tips and tricks for running a seamless presentation.
 
@@ -58,4 +55,3 @@ I hope some of these tips are helpful. I will try to remember to share another u
 
 [^1]: Yeah, I have no idea either.
 [^2]: This cleverness can backfire if your meeting overruns, though, and all those backed-up notifications all hit your screen at once. DING-DING-DING-DING-DING!
-

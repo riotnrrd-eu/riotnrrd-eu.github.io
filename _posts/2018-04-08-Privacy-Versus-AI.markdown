@@ -2,7 +2,7 @@
 layout: post
 title:  Privacy Versus AI 
 date:   2018-04-08 
-categories:  amazon privacy Gartner Apple google AI artificial-intelligence 
+categories:  Amazon privacy Gartner Apple Google AI
 ---
 
 There is a widespread assumption in tech circles that privacy and (useful) AI are mutually exclusive. Apple is assumed to be behind Amazon and Google in this race because of its choice to do most data processing locally on the phone, instead of uploading users’ private data in bulk to the cloud.

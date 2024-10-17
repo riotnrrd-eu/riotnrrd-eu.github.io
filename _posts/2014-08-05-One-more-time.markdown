@@ -2,12 +2,12 @@
 layout: post
 title:  One more time 
 date:   2014-08-05 
-categories:  privacy tech google microsoft 
+categories:  privacy tech Google Microsoft 
 ---
 
 I have worked all my career in enterprise IT, either as a sysadmin, or for vendors of enterprise IT tools. There are many annoyances in big-company IT, but one of the most frustrating is when people miss key aspects of what makes corporate IT tick.  
 
-One area is the difference between a brand-new startup whose entire IT estate consists of a handful of bestickered MacBooks, and a decades-old corporation with the legacy IT that history brings. Case in point: [Google is stealing away Microsoft’s future corporate customers](http://qz.com/243321/google-is-stealing-away-microsofts-future-corporate-customers/ "Google is stealing away Microsoft’s future corporate customers").  
+One area is the difference between a brand-new startup whose entire IT estate consists of a handful of bestickered MacBooks, and a decades-old corporation with the legacy IT that history brings. Case in point: [Google is stealing away Microsoft’s future corporate customers](http://qz.com/243321/Google-is-stealing-away-microsofts-future-corporate-customers/ "Google is stealing away Microsoft’s future corporate customers").  
 
 ![](/images/unknown_filename.266.png)  
 

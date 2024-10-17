@@ -2,11 +2,8 @@
 layout: post
 title:  Own Your Interfaces 
 date:   2017-02-14 
-categories:  Apple google watch enterprise 
+categories:  Apple Google watch enterprise 
 ---
-
-# Own Your Interfaces
-
 
 ![](/images/unknown_filename.270.jpeg)
 
@@ -75,7 +72,7 @@ A customer who buys an Android Wear smartwatch and has a bad experience will not
 Usually companies are very eager to copy Apple and Google's every move. This is one situation where instead there is an opportunity to learn from their mistakes. Interfaces with customers are not costs to be trimmed; instead, they can be a point of differentiation. Treat them as such.
 
 *** 
+
 Image by [Austin Neill](http://austinneill.com) via [Unsplash](https://unsplash.com)
 
 [^1]: Yes yes, except for the Air.
-

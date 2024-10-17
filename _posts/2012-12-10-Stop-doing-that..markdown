@@ -2,11 +2,8 @@
 layout: post
 title:  Stop doing that. 
 date:   2012-12-10 
-categories:  tech language google 
+categories:  tech language Google 
 ---
-
-# Stop doing that.
-
 
 Generally I prefer apps on my iDevices to web pages or "web apps". I like the offline access to historical data, I like the streamlined navigation, and I like the fact that interesting navigational concepts don't kill Safari with megabytes of JavaScript and CSS.
 
@@ -33,4 +30,3 @@ At least Google seem to have fixed another pet peeve of mine, where the menu wit
  
 Nowadays there's a nice "Google is also available in English" popup pretty much everywhere, so there's less call for appending `/ncr` to Google URLs. Progress, finally!
 The good news is that things are moving in the right direction, as we can see in the examples of Flipboard and Google, but if the Daring Fireball is issuing plaudits for apps that reinvent their own wheel^W browser, maybe continued progress is not a given.
-
