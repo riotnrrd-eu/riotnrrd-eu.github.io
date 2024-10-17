@@ -7,7 +7,7 @@ categories: books
 
 ![](/images/escape-cover.jpg)
 
-Today’s review is of *Escape*, by Marie Le Conte, who has [graced these pages before]({% post_url 2022-05-08-From-Provincial-Italy-To-London-And-Back-Again %}). This book has been on my to-read list since it first came out, but for one reason or another it had not yet made it to the top of the pile.
+Today’s review is of *Escape*, by Marie Le Conte, who has [graced these pages before]({% post_url 2022-05-08-From-Provincial-Italy-To-London-—-And-Back-Again %}). This book has been on my to-read list since it first came out, but for one reason or another it had not yet made it to the top of the pile.
 
 The subtitle is “How a generation shaped, destroyed and survived the internet”. I am just a few years older than Marie (honestly!), but those were pretty crucial years. Although I was online by the same age Marie was (mid-teens), the Internet I was on was very different from hers — partly in terms of platforms, and partly in terms of who was on them. This is a theme that Marie explores throughout the book: what did it mean to grow up, not just online, but in a particular moment when platforms like MySpace were there exclusively for people like you?
 
