@@ -2,7 +2,7 @@
 layout: post
 title:  How I Work From Home 
 date:   2021-12-23 
-categories:  wfh 
+categories:  WfH 
 ---
 
 # How I Work From Home
