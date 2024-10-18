@@ -26,4 +26,5 @@ Simply put, startups have different needs from big established corporations. The
 Corollary to this is that business IT is *not* consumer IT. Trying to mix the two is a recipe for disaster. Big B2B vendors end up looking very silly when they try to copy Apple, and journalists look just as silly when they fail to understand key facts about the differences between B2B and consumer IT, and between small-company IT and big-company IT.
 
 ***
+
 Image by [Philipp Henzler](http://www.philmotion.de) via [Unsplash](http://unsplash.com/)

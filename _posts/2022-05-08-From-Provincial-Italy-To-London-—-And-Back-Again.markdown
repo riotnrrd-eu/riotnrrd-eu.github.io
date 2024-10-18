@@ -5,16 +5,13 @@ date:   2022-05-08
 categories:  WfH RemoteWork 
 ---
 
-# From Provincial Italy To London — And Back Again
-
-
 # More reflections on remote work
 
 Well, I'm back to travelling, and in a pretty big way — as in, I'm already to the point of having to back out of one trip because I was getting overloaded! I've been on the road for the past couple of weeks, in London and New York, and in fact I will be back in New York in a month.
 
 It has honestly been great to see people, and so productive too. Even though I was mostly meeting the same people I speak to week in, week out via Zoom, it was different to all be in the same room together. This was also the first time I was able to get my whole team together since its inception: I hired everyone remotely, and while I have managed to meet up with each of them individually, none of the people on the team had actually met each other in person… We had an amazingly productive whiteboarding session, where we knocked out some planning in a couple of hours that might otherwise have taken weeks, and probably justified a chunk of the cost of the trip on its own.
 
-![](/images/113139.jpeg)
+![Drawing on a whiteboard](/images/113139.jpeg)
 
 This mechanism also showed up in an interesting study in *Nature*, entitled [*Virtual communication curbs creative idea generation*](https://www.nature.com/articles/s41586-022-04643-y). The study shows that remote meetings are better for some things and worse for others. Basically, if the meeting has a fixed agenda and clear outcomes, a remote meeting is a more efficient way of banging through those items. However, when it comes to ideation and creativity, in-person meetings are better than remote ones.
 
@@ -26,7 +23,7 @@ Something else that was interesting about my recent trips was meeting a whole lo
 
 The London connection also showed up in a pair of articles by Marie Le Conte, who recently [spent a couple of months in Venice](https://www.newstatesman.com/comment/2022/02/forget-the-pension-plan-im-blowing-my-savings-on-a-trip-to-venice) before [returning to London](https://www.newstatesman.com/society/2022/05/why-cant-the-uk-get-over-its-hatred-of-london). It has been long enough since I left London that I no longer worry about whether prices in my favourite haunts will be different, but whether any of them are still there or still recognisable — and sadly, most of them are not. But then again, this is London we are talking about, so I have new favourites, and find a new one almost every trip.
 
-![](/images/113455.jpeg)
+![London City skyline on a sunny day](/images/113455.jpeg)
 
 Leaving London was a wrench: it was the first place I lived after university, and I enjoyed it to the hilt. Of course I had to share a flat, and I drove ancient unreliable cars[^1]. But we were out and about all the time, in bars and theatres, eating out and meeting up and just enjoying the place.
 
@@ -40,7 +37,7 @@ Even before the pandemic, remote work allowed many of us to square that circle. 
 
 The pandemic has opened the eyes of many more people and companies to the possibilities of remote work. Airbnb notably [committed to a full remote-work approach](https://www.inc.com/justin-bariso/airbnb-ceo-brian-chesky-new-remote-work-policy-hybrid-work.html), which of course makes particular sense to Airbnb, expecially the bit about "flexibility to live and work in 170 countries for up to 90 days a year in each location". I admit they are an extreme case, but other companies have an opportunity to implement the parts of that model that make sense for them.
 
-![](/images/113604.jpeg)
+![A meeting in an office](/images/113604.jpeg)
 
 Certain functions benefit from being in the office all the time, so they require permanent space. This means both individual desks and meeting rooms. Meanwhile, remote workers will need to come in regularly, but when they do, they will have different needs. They will absolutely require meeting rooms, and large, well-equipped ones at that, and those are on top of whatever the baseline needs are for the in-office teams. On the other hand, the out-of-towners will spend most of their time in meetings (or, frankly, out socialising), and so they do not need huge numbers of hot desks — just a few for catching up with emails in gaps between meetings.
 
@@ -53,8 +50,8 @@ But in the mean time, remote work unlocks the ability for many more people to ma
 Once you start looking at it like that, provincial Italy is hard to beat. Quality of life is top-notch, with the sort of lifestyle that would require an extra zero on the salary in London or NYC. If you combine that with regular visits to the big cities, it's honestly pretty great.
 
 ***
+
 🖼️  Photos by [Kaleidico](https://kaleidico.com/) and [Jason Goodman](https://unsplash.com/es/@jasongoodman_youxventures) on [Unsplash](<https://www.unsplash.com>); London photograph author’s own (the view from my hotel room on my most recent London trip).
 
 [^1]: I only had a car in the first place because I commuted out of London, to a place not well-served by trains; I never drove into central London if I could avoid it, even before the congestion charge was introduced.
-[^2]: Just because WeWork is a terrible company doesn't mean that the fundamental idea is wrong. See also Uber: while Uber-the-company is obviously unsustainable and has a number of terrible side-effects, it has forced into existence a ride-hailing market that almost certainly would not exist absent Uber. Free Now gives me an Uber-like experience (summon a car from my phone in most cities, pay with a stored card), but using regular licensed taxis and without the horrible exploitative Uber model.
-
+[^2]: Just because WeWork is a terrible company doesn't mean that the fundamental idea is wrong. See also Uber: while Uber-the-company is obviously unsustainable and has a number of terrible side-effects, it has forced into existence a ride-hailing market that almost certainly would not exist absent Uber. FreeNow gives me an Uber-like experience (summon a car from my phone in most cities, pay with a stored card), but using regular licensed taxis and without the horrible exploitative Uber model.
