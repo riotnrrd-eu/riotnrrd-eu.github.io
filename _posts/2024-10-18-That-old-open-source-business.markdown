@@ -36,4 +36,4 @@ Should these hypothetical new licenses be defined as "open source"? I remain of 
 
 ***
 
-🖼️  Photos by [Marcel Eberle](https://unsplash.com/@marcel_eberle) on [Unsplash](https://www.unsplash.com)
+🖼️  Photo by [Marcel Eberle](https://unsplash.com/@marcel_eberle) on [Unsplash](https://www.unsplash.com)

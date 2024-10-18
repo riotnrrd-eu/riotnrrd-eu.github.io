@@ -5,9 +5,6 @@ date:   2020-04-08
 categories:  privacy security Facebook Zoom WebEx 
 ---
 
-# The Thing With Zoom
-
-
 Zoom was having an excellent quarantine — until it wasn’t.
 
 This morning’s news is from *Bloomberg*: [Zoom Sued for Fraud Over Privacy, Security Flaws](https://www.bloomberg.com/news/articles/2020-04-08/zoom-sued-for-securities-fraud-over-privacy-security-flaws). But how did we get here?
@@ -48,7 +45,7 @@ In a normal circumstance, Zoom could have apologised, explained that they had mo
 
 Less than a week later, another story broke, claiming that [Zoom is Leaking Peoples' Email Addresses and Photos to Strangers](https://www.vice.com/en_us/article/k7e95m/zoom-leaking-email-addresses-photos). Here is where the story gets really instructive.
 
-[twitter url="https://twitter.com/jasonpjason/status/1245013847255035906?s=21" ]
+![People are noticing how invasive Zoom is. The takeaway isn’t that Zoom is spyware, it’s that spyware tactics are a common feature of enterprise software. Surveillance techniques pioneered in call centers and fast food kitchens are spreading to all workers.](/images/Twitter-Zoom-Screenshot.png)
 
 This “leak” is due to the sort of strategy tax that was almost inevitable in hindsight. Basically, Zoom added a convenience feature for its enterprise customers, called Company Directory, which assumes that anyone sharing the same domain in their email address works for the same company. In line with their guiding principle of building a simple and friction-free user experience, this assumption makes it easier to schedule meetings with one’s colleagues.
 
