@@ -5,9 +5,6 @@ date:   2019-06-02
 categories:  privacy Facebook 
 ---
 
-# Once More On Privacy
-
-
 Facebook is in court yet again over the Cambridge Analytica scandal, and one of their lawyers made [a most revealing assertion](https://www.dailydot.com/debug/facebook-lawyer-no-expectation-of-privacy/ "Facebook lawyer says users 'have no expectation of privacy'" ) : 
 
 > There is no invasion of privacy at all, because there is no privacy
@@ -16,7 +13,7 @@ Now on one level, this is literally true. Facebook's lawyer went on to say that:
 
 > Facebook was nothing more than a “digital town square” where users voluntarily give up their private information
 
-![](/images/unknown_filename.263.png)
+![A man staring through binoculars that have the Facebook logo on the lenses](/images/unknown_filename.263.png)
 
 The issue is a mismatch in expectations. Users have the option to disclose information as fully public, or variously restricted: only to their friends, or to members of certain groups. The fact that something is said in the public street does not mean that the user would be comfortable having it published in a newspaper, especially if they were whispering into a friend’s ear at the time.
 
@@ -28,7 +25,7 @@ For an example of the reaction to the deployment of these technologies, the city
 
 To make the example concrete, let’s talk for a moment about numberplate recognition. Cars and other motor vehicles have number plates to make them recognisable, including for law enforcement purposes. As technology developed, automated reading of license plates became possible, and is now widely adopted for speed limit enforcement. Around here things have gone a step further, with average speeds measured over long distances.
 
-![](/images/unknown_filename.264.png)
+![An old-timey police car that looks very much like Doc Hudson from Cars](/images/unknown_filename.264.png)
 
 ## Who could object to enforcing the law?
 
@@ -53,7 +50,7 @@ And that’s without even considering where else these technologies might be app
 Expectations of privacy are being subverted by scale and automation, without a real conversation about what that means. Advertisers and the government stick to the letter of the law, but there is no recognition of the material difference between surveillance that is human-powered, and what happens when the same surveillance is automated.
 
 *** 
-Photo by [Glen Carrie](http://cocopine.co.za) and [Bryan Hanson](http://www.facebook.com/bryanhansonphotos)via [Unsplash](http://unsplash.com/)
+
+Photos by [Glen Carrie](http://cocopine.co.za) and [Bryan Hanson](http://www.facebook.com/bryanhansonphotos) via [Unsplash](http://unsplash.com/)
 
 [^1]: And remember, the algorithms may not even be analysing your own data, which you carefully secured and locked down. They may have access to data for one of your friends or acquaintances, and then the algorithm spots a correlation in patterns of communication, and associates you with them. Congratulations, you now have a [shadow profile](https://www.dailydot.com/news/facebook-shadow-profiles-privacy-faq/). And what if you are just really unlucky in your choice of local boozer, so now the government thinks you are affiliated with the IRA offshoot *du jour*, when all you were after was a decent pint of Guinness?
-
