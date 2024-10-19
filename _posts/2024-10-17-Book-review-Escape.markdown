@@ -2,7 +2,7 @@
 layout: post
 title: Book review — Escape, by Marie Le Conte
 date: 2024-10-17
-categories: books
+categories: books social-media Facebook
 ---
 
 ![](/images/escape-cover.jpg)
@@ -25,7 +25,9 @@ As Marie notes: “There is nothing quite like the feeling of being among your p
 
 The problem is that today’s Internet is not the Internet that either Marie or I grew up with. The rise of mega-platforms means that “This is the internet and nothing is ours; we base our conversations, identities and relationships around shared words and memes, but it can all get away from us at a moment's notice.” Our (singular, unified) identities are now built up to a huge extent on these platforms, which is why it was such a wrench for me to leave Twitter after 15 years — and why, I presume, Marie is still on there. 
 
-There is one other generational divide in the book. At one point, Marie describes losing emails from a past relationship to the vagaries of the cloud; I lost my own old love letters to obsolescence of physical media — DDS tapes and the drives to read them, to be specific. “It becomes clear that none of this ever truly belonged to us”, as she puts it. 
+There is are a couple of other generational divide in the book. At one point, Marie describes losing emails from a past relationship to the vagaries of the cloud; I lost my own old love letters to obsolescence of physical media — DDS tapes and the drives to read them, to be specific. “It becomes clear that none of this ever truly belonged to us”, as she puts it. 
+
+Finally, Zuckerberg rears his ugly head once more, as his I-can't-believe-it's-not-Twitter, Threads, [adds a green "online" status indicator](https://www.msn.com/en-us/news/technology/threads-can-now-show-you-when-people-in-your-feed-are-online/ar-AA1sjTTY). This is a further demonstration that, as far as Facebook is concerned, [being offline is an anomaly]({% post_url 2019-09-19-Be-Smart,-Use-Dumb-Devices %}). Back in Marie's and my formative years, the Internet was tethered to a wire, and when you walked away from it, you were AFK until you returned. In retrospect, maybe it was not such a bad idea to tie it down so it couldn't follow us everywhere.
 
 Perhaps in some sense the old ways are best? And in fact the quotes from Marie’s book that I have included above are copied from smartphone camera shots of an imperfectly-bound physical copy, which even had some page edges uncropped for extra old-school authenticity. The review is posted on an old-school blog, one that has survived several platform migrations thanks to the fact that I pay for my own domain name and do not rely on the continued goodwill of someone else’s platform for the continuity of my own. 
 
