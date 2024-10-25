@@ -2,7 +2,7 @@
 layout: post
 title:  What is Twitter for? 
 date:   2017-01-14 
-categories:  social social-media twitter
+categories:  social social-media Twitter
 ---
 
 In today's "wait, what year is this again?” moment, Twitter is once again [trying to figure out what it wants to be when it grows up](http://www.cio.com/article/3155138/social-networking/twitter-cmo-finally-explains-the-purpose-of-twitter.html "Twitter CMO finally explains the purpose of Twitter") - and because it’s Twitter, of course it did it in public:
@@ -15,7 +15,7 @@ And what ultimate definition did Twitter’s CMO come up with for her big speech
 
 Ugh - why not just say it's [a dessert topping *and* a floor wax](http://snltranscripts.jt.org/75/75ishimmer.phtml "SNL Transcripts: Elliot Gould: 01/10/76: Shimmer")?
 
-![](/images/unknown_filename.479.jpeg)
+![A crowded cafe scene](/images/unknown_filename.479.jpeg)
 
 It does get better, as Ms Berland at least recognises the category Twitter needs to be playing in:
 
@@ -31,8 +31,8 @@ On Twitter, that is not the case; I follow accounts that do not follow me, and I
 
 Didn’t we go through all of this [last time]({% post_url 2014-05-06-I-have-come-not-to-bury-Twitter,-but-to-praise-it %})?
 
-> Twitter is not a social network. Not primarily, anyway. It’s better described as a social media platform, with the emphasis on “media platform." And media platforms should not be judged by the same metrics as social networks.
-> Social networks connect people with one another. Those connections tend to be reciprocal. […]
+> Twitter is not a social network. Not primarily, anyway. It’s better described as a social media platform, with the emphasis on "media platform." And media platforms should not be judged by the same metrics as social networks.
+> Social networks connect people with one another. Those connections tend to be reciprocal. \[…\]
 > Media platforms, by contrast, connect publishers with their public. Those connections tend not to be reciprocal.
 
 ## Now what?
@@ -46,4 +46,5 @@ This is the strategy tax that Twitter is paying: the choices that it finds diffi
 I disagree. Twitter needs to be its own thing, not Google's latest attempt to buy more social visibility for itself. There is value in Twitter just being Twitter, if Twitter's management can figure out how to unlock that value.
 
 ***
-Image by [Daria Shevtsova](https://unsplash.com/@daria_shevtsova) via [Unsplash]([https://unsplash.com](https://unsplash.com/)
+
+Image by [Daria Shevtsova](https://unsplash.com/@daria_shevtsova) via [Unsplash](https://unsplash.com/)
