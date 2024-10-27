@@ -27,7 +27,7 @@ I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a  [“wo
 
 Meanwhile, in other I-can’t-believe-it’s-not-Twitter news, today is my second anniversary on Mastodon. This is “the social-media platform for Linux users”, and it definitely has that geeky early-Internet vibe. This is my tribe, and sure enough, I enjoy hanging out on Mastodon and find a lot of cool people on there.
 
-I do still miss early Twitter, and specifically, the fact that [it was *the* place](({% post_url 2023-04-14-Twitter-of-Babel %}):
+I do still miss early Twitter, and specifically, the fact that [it was *the* place]({% post_url 2023-04-14-Twitter-of-Babel %}):
 
 > The clarity of being `@brand` — and not having to specify anything else! — was very valuable, and it was something that Facebook or Google, for all their ubiquity, could never deliver.
 > 
