@@ -11,7 +11,7 @@ It was the fading years of the last century and indeed millenium. Shoes were big
 
 Being the product of a Classical education, I felt personally challenged by this stated aim — and being surrounded at the time by people who had been comprehensively failed by British attempts at a modern and comprehensive educational establishment, there was nobody able to offer (what I felt to be) a sufficient defence of ATR’s position.  
 
-Since then I have done a bit more reading and thinking, but I still maintain that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the [very specific sorts of scars]({% post_url 2024-04-14-The-World-A-Family-History-Simon-Sebag-Montefiore %}) that develop when someone tries — and fails — to destroy the facts on the ground. 
+Since then I have done a bit more reading and thinking, but I still maintain that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the very specific sorts of scars that develop when someone tries — and fails — to destroy the facts on the ground. 
 
 # From the sublime to the ridiculous
 
