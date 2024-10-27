@@ -11,7 +11,7 @@ It was the fading years of the last century and indeed millenium. Shoes were big
 
 Being the product of a Classical education, I felt personally challenged by this stated aim — and being surrounded at the time by people who had been comprehensively failed by British attempts at a modern and comprehensive educational establishment, there was nobody able to offer (what I felt to be) a sufficient defence of ATR’s position.  
 
-Since then I have done a bit more reading and thinking, but I still maintain that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the very specific sorts of scars that develop when someone tries — and fails — to destroy the facts on the ground. 
+Since then I have done a bit more reading and thinking, but I still maintain that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the [very specific sorts of scars]({% post_url 2024-04-14-The-World-A-Family-History-Simon-Sebag-Montefiore %}) that develop when someone tries — and fails — to destroy the facts on the ground. 
 
 # From the sublime to the ridiculous
 
@@ -27,11 +27,11 @@ I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a ["won't
 
 Meanwhile, in other I-can’t-believe-it’s-not-Twitter news, today is my second anniversary on Mastodon. This is “the social-media platform for Linux users”, and it definitely has that geeky early-Internet vibe. This is my tribe, and sure enough, I enjoy hanging out on Mastodon and always find a lot of cool people on there.
 
-That said, I do still miss early Twitter, and specifically, the fact that it was *the* place:
+That said, I do still miss early Twitter, and specifically, the fact that [it was *the* place]({% post_url 2023-04-14-Twitter-of-Babel %}):
 
 > The clarity of being `@brand` — and not having to specify anything else! — was very valuable, and it was something that Facebook or Google, for all their ubiquity, could never deliver.
 > 
-> There is value in a single digital town square, and in being able to be part of a single global conversation. Twitter was a big part of how I kept up with goings-on in tech from my perch in provincial Italy. Timezones aside, Twitter meant that not being in Silicon Valley was not a major handicap, because I could catch up with everything that was begin discussed in my own time (in a way that would not have been possible if more real-time paradigms like [Clubhouse](({% post_url 2021-02-13-Clubhouse-But-Why %}) had taken off).
+> There is value in a single digital town square, and in being able to be part of a single global conversation. Twitter was a big part of how I kept up with goings-on in tech from my perch in provincial Italy. Timezones aside, Twitter meant that not being in Silicon Valley was not a major handicap, because I could catch up with everything that was begin discussed in my own time (in a way that would not have been possible if more real-time paradigms like [Clubhouse]({% post_url 2021-02-13-Clubhouse-—-But-Why? %}) had taken off).
 
 Now some guy who spends his time “skipping like a dipshit” for the favour of a would-be dictator has destroyed — well, not two thousand years, although I was on Twitter for fifteen years, and that is an *eon* in Internet time, and also I’m not sure about “culture”. I have not yet felt the need to go on Threads, but I do like what is going on over on Bluesky, and would rather not have to give up on it because some *other* grifters managed to ruin that too. I am going to continue to put my main efforts into Mastodon, though — and not just because Bluesky doesn’t have an iPad app. Grump.
 
