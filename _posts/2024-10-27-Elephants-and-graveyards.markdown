@@ -37,4 +37,4 @@ Now some guy who spends his time “skipping like a dipshit” for the favour of
 
 ***
 
-🖼️  *Destroy 2000 Years of Culture* EP cover from image search (I own the album, but not the EP); elephant photo by [Hu Chen](https://huchen.dev/) on [Unsplash](https://www.unsplash.com)
+🖼️ *Destroy 2000 Years of Culture* EP cover from image search (I own the album, but not the EP); elephant photo by [Hu Chen](https://huchen.dev/) on [Unsplash](https://www.unsplash.com)
