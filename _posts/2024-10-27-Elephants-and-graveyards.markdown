@@ -5,13 +5,13 @@ date: 2024-10-27
 categories: history music social social-media Twitter Mastodon Bluesky
 ---
 
-It was the fading years of the last century and indeed millenium. Shoes were big, trousers were bigger, and to keep wallets attached to huge trouser pockets, clanking shiny chains were necessary. Nihilistic ear-destroying bands were *de rigeur* in my circle until, amid the Motörhead, the Slayer, and the Anthrax, I happened to object to one track by Atari Teenage Riot, not on musical grounds, but because they wanted to [*Destroy 2000 Years of Culture*](https://en.wikipedia.org/wiki/Destroy_2000_Years_of_Culture). 
+It was the fading years of the last century and indeed millenium. Shoes were big, trousers were bigger, and to keep wallets attached to huge trouser pockets, clanking shiny chains were necessary. Nihilistic ear-destroying bands were *de rigeur* in my circle until, amid the Motörhead, the Slayer, and the Anthrax, I happened to object to one track by Atari Teenage Riot: not on musical grounds, but because they wanted to [*Destroy 2000 Years of Culture*](https://en.wikipedia.org/wiki/Destroy_2000_Years_of_Culture). 
 
 ![Destroy 2000 Years of Culture EP cover](/images/Destroy-2000-years.png)
 
 Being the product of a Classical education, I felt personally challenged by this stated aim — and being surrounded at the time by people who had been comprehensively failed by British attempts at a modern and comprehensive educational establishment, there was nobody able to offer (what I felt to be) a sufficient defence of ATR’s position.  
 
-Since then I have done a bit more reading and thinking, but I still think that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the [very specific sorts of scars]({% post_url 2024-04-14-The-World-A-Family-History-Simon-Sebag-Montefiore %}) that develop when someone tries — and fails — to destroy the facts on the ground. 
+Since then I have done a bit more reading and thinking, but I still maintain that this sort of Year Zero take is not likely to lead anywhere good. You may well have principled objections to the way the last couple of millennia went down, but you’re not going to fix the outcomes by ignoring what went before. In fact, those twenty centuries show the very specific sorts of scars that develop when someone tries — and fails — to destroy the facts on the ground. 
 
 # From the sublime to the ridiculous
 
@@ -19,15 +19,15 @@ All of this scene-setting is because Bluesky [announced it had secured $13M of f
 
 > This does not change the fact that the Bluesky app and the AT Protocol do not use blockchains or cryptocurrency, and we will not hyperfinancialize the social experience (through tokens, crypto trading, NFTs, etc.).
 
-Less reassuringly, the *very next sentence* announces the appointment of [Kinjal Shah](https://www.linkedin.com/in/kinjalshah15) to Bluesky’s board. Kinjal Shah is not just a general partner at Blockchain capital, but has been a booster of cryptocurrencies and NFTs. It was just the other day I was idly wondering what happened to all of the cryptocurrency and NFT guys; surely they hadn’t *all* managed a seamless pivot to become AI guys? But no, here is a proper old-school unreconstructed [crypto/NFT gal](https://www.forbes.com/profile/kinjal-shah/)!
+Less reassuringly, the *very next sentence* announces the appointment of [Kinjal Shah](https://www.linkedin.com/in/kinjalshah15) to Bluesky’s board. Ms Shah is not just a general partner at Blockchain capital, but has been a booster of cryptocurrencies and NFTs. It was just the other day I was idly wondering what happened to all of the cryptocurrency and NFT guys; surely they hadn’t *all* managed a seamless pivot to become AI guys? But no, here is a proper old-school unreconstructed [crypto/NFT gal](https://www.forbes.com/profile/kinjal-shah/)!
 
-I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a  ["won't touch anything Jack Dorsey has touched"](https://www.jwz.org/blog/2023/04/blue-skies-over-mastodon/) policy. It’s too fun for me not to join in, but I am keeping my suspicions up, and this latest move is certainly not helping.
+I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a ["won't touch anything Jack Dorsey has touched"](https://www.jwz.org/blog/2023/04/blue-skies-over-mastodon/) policy. It’s too fun for me not to join in, but I am keeping my suspicions up, and this latest move is certainly not helping.
 
 ![Elephant mother and calf](/images/hu-chen-3yd8oXGoLqM-unsplash.jpg)
 
-Meanwhile, in other I-can’t-believe-it’s-not-Twitter news, today is my second anniversary on Mastodon. This is “the social-media platform for Linux users”, and it definitely has that geeky early-Internet vibe. This is my tribe, and sure enough, I enjoy hanging out on Mastodon and find a lot of cool people on there.
+Meanwhile, in other I-can’t-believe-it’s-not-Twitter news, today is my second anniversary on Mastodon. This is “the social-media platform for Linux users”, and it definitely has that geeky early-Internet vibe. This is my tribe, and sure enough, I enjoy hanging out on Mastodon and always find a lot of cool people on there.
 
-I do still miss early Twitter, and specifically, the fact that [it was *the* place]({% post_url 2023-04-14-Twitter-of-Babel %}):
+That said, I do still miss early Twitter, and specifically, the fact that [it was *the* place]({% post_url 2023-04-14-Twitter-of-Babel %}):
 
 > The clarity of being `@brand` — and not having to specify anything else! — was very valuable, and it was something that Facebook or Google, for all their ubiquity, could never deliver.
 > 
