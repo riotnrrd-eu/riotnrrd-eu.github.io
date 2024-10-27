@@ -15,13 +15,13 @@ Since then I have done a bit more reading and thinking, but I still think that t
 
 # From the sublime to the ridiculous
 
-All of this scene-setting is because Bluesky [announced it had secured $13M of funding](https://bsky.social/about/blog/10-24-2024-series-a) in a round lead by (I swear I am not making this up) an outfit called “Blockchain Capital”. This fact caused some predictable concern; so predictable, in fact, that Bluesky felt the need to include this note in the announcement:
+All of this scene-setting is because Bluesky [announced it had secured $13M of funding](https://bsky.social/about/blog/10-24-2024-series-a) in a round lead by (I swear I am not making this up) an outfit called “Blockchain Capital”. This name caused some predictable concern; so predictable, in fact, that Bluesky felt the need to include this note in the announcement:
 
 > This does not change the fact that the Bluesky app and the AT Protocol do not use blockchains or cryptocurrency, and we will not hyperfinancialize the social experience (through tokens, crypto trading, NFTs, etc.).
 
 Less reassuringly, the *very next sentence* announces the appointment of [Kinjal Shah](https://www.linkedin.com/in/kinjalshah15) to Bluesky’s board. Kinjal Shah is not just a general partner at Blockchain capital, but has been a booster of cryptocurrencies and NFTs. It was just the other day I was idly wondering what happened to all of the cryptocurrency and NFT guys; surely they hadn’t *all* managed a seamless pivot to become AI guys? But no, here is a proper old-school unreconstructed [crypto/NFT gal](https://www.forbes.com/profile/kinjal-shah/)!
 
-I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a  [“won't touch anything Jack Dorsey has touched”](https://www.jwz.org/blog/2023/04/blue-skies-over-mastodon/) policy. It’s too fun for me not to join in, but I am keeping my suspicions up, and this latest move is certainly not helping.
+I’m not quite as down on Bluesky as Jamie Zawinski, who famously has a  ["won't touch anything Jack Dorsey has touched"](https://www.jwz.org/blog/2023/04/blue-skies-over-mastodon/) policy. It’s too fun for me not to join in, but I am keeping my suspicions up, and this latest move is certainly not helping.
 
 ![Elephant mother and calf](/images/hu-chen-3yd8oXGoLqM-unsplash.jpg)
 
