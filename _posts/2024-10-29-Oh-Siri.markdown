@@ -7,11 +7,13 @@ categories: Apple Siri AI
 
 The relentless spate of advertising for Apple Intelligence is writing cheques that Siri can't cash.
 
-Of course we don't have the whole feature set of Apple Intelligence yet (or at all here in the EU), because it's being rolled out as a [public beta]({% post_url 2024-04-14-Public-Betas %}). This move looks like an own goal for Apple, because it leads people to try to use the new features. Instead of being surprised and delighted, they end up encountering Siri in its current [borderline unusable state](https://pxlnv.com/blog/sorry-siri/).
+Of course we don't have the whole feature set of Apple Intelligence yet (or at all here in the EU), because it's being rolled out as a [public beta]({% post_url 2024-04-14-Public-Betas %}). This move looks like an own goal for Apple, because it leads people to try to use the new features long before they are ready for prime time. Instead of being surprised and delighted, they end up encountering Siri in its current [borderline unusable state](https://pxlnv.com/blog/sorry-siri/).
 
-There is something fundamentally broken in how it gets something into whatever passes for its head, and then just will not be persuaded to re-evaluate. Here is, as well as I can remember, a conversation between the Son&Heir, Siri, and me, as I was driving him to some activity or other. He was excited about [the new album from Tyler, the Creator]( https://www.rollingstone.com/music/music-news/tyler-the-creator-chromakopia-listening-party-intuit-dome-1235144559/), so we thought we would listen to a couple of tracks during our drive. I hit the little voice control button on my car's steering wheel, and so began our descent into madness.
+There is something fundamentally broken in how it gets something into whatever passes for its head, and then just will not be persuaded to re-evaluate. Here is, as well as I can remember, a conversation between the Son&Heir, Siri, and me, as I was driving him to some activity or other. He was excited about [the new album from Tyler, the Creator]( https://www.rollingstone.com/music/music-news/tyler-the-creator-chromakopia-listening-party-intuit-dome-1235144559/), so we thought we would listen to a couple of tracks during our drive. 
 
 ![Chromakopia cover](/images/Chromakopia.jpg)
+
+I hit the little voice control button on my car's steering wheel, and so began our descent into madness.
 
 > Play Chromakopia by Tyler, the Creator
 
@@ -25,7 +27,7 @@ Okay, weird, that doesn't sound much like what I asked for, but at least it got 
 
 The Son&Heir is now getting frustrated, and contributes this suggestion for a specific *track* from the album:
 
-> Play song *Darling, I* by Tyler, the Creator 
+> Play song "Darling, I" by Tyler, the Creator 
 
 *relentlessly plays "I Follow Rivers (Tyler, the Creator remix)" by Lykke Li*
 
