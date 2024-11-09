@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review — Seeing Like a State
+title: Book review — Seeing Like a State, by James C. Scott
 date: 2024-11-09
 categories: books enterprise
 ---
