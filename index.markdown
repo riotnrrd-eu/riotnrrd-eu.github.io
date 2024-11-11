@@ -4,4 +4,6 @@
 
 layout: home
 ---
-Find me on <a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a>
+The personal blog of Dominic Wellington. There is a thread joining all of this together, but I can't find it quite now.
+
+More about me [here](https://findthethread.blog/about/), or come find me on <a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a>
