@@ -6,14 +6,12 @@ categories: social social-media work LinkedIn enshittification
 ---
 LinkedIn just baffles me lately, it really does.
 
-![](/images/linkedin-news-article.png)
+![Congratulations! LinkedIn News featured your post in a news story Amazon Music leans into audiobooks](/images/linkedin-news-article.png)
 
 It sent me this interesting notification that my post had been featured in a [news story](https://www.linkedin.com/news/story/amazon-music-leans-into-audiobooks-6245620/). So far so good, but the title didn't really seem to match up with my post?
 
-Congratulations! LinkedIn News featured your post in a news story Amazon Music leans into audiobooks
-
-# Amazon Music leans into audiobooks
-
+> # Amazon Music leans into audiobooks
+> 
 > Amazon Music Unlimited subscribers in the UK, US and Canada can now listen to one free audiobook every month – part of a push to turn the platform into the "premier, No. 1 audio entertainment destination." Customers won't be able to keep the books, which they can if they subscribe to Amazon's Audible service. But Amazon hopes the offering will help it compete with Spotify, which started giving its customers audiobook access last year. Amazon's option will undercut Spotify's in price, at £10.99 a month versus £11.99. In other Amazon news, the next version of the Alexa voice assistant is reportedly running into problems.
 
 Yeah, this has literally nothing to do with [my post](https://www.linkedin.com/posts/dwellington_exclusive-leaked-amazon-memos-identify-critical-activity-7264530663289012224-4Shx): 
