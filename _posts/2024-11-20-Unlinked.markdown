@@ -14,6 +14,8 @@ It sent me this interesting notification that my post had been featured in a [ne
 > 
 > Amazon Music Unlimited subscribers in the UK, US and Canada can now listen to one free audiobook every month – part of a push to turn the platform into the "premier, No. 1 audio entertainment destination." Customers won't be able to keep the books, which they can if they subscribe to Amazon's Audible service. But Amazon hopes the offering will help it compete with Spotify, which started giving its customers audiobook access last year. Amazon's option will undercut Spotify's in price, at £10.99 a month versus £11.99. In other Amazon news, the next version of the Alexa voice assistant is reportedly running into problems.
 
+![Huh?](/images/old-lady-computer.jpg)
+
 Yeah, this has literally nothing to do with [my post](https://www.linkedin.com/posts/dwellington_exclusive-leaked-amazon-memos-identify-critical-activity-7264530663289012224-4Shx): 
 
 > The latency issues that reportedly plague Alexa are just the latest reason to look beyond interactive chatbots when it comes to GenAI applications. A network of AI agents can work away behind the scenes without the pressure of having to return a result immediately, and provide their output once they have it ready to deliver.  
