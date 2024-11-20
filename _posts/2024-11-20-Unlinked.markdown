@@ -8,7 +8,7 @@ LinkedIn just baffles me lately, it really does.
 
 ![Congratulations! LinkedIn News featured your post in a news story Amazon Music leans into audiobooks](/images/linkedin-news-article.png)
 
-It sent me this interesting notification that my post had been featured in a [news story](https://www.linkedin.com/news/story/amazon-music-leans-into-audiobooks-6245620/). So far so good, but the title didn't really seem to match up with my post?
+It sent me this interesting notification that my post had been featured in a [news story](https://www.linkedin.com/news/story/amazon-music-leans-into-audiobooks-6245620/). So far, so good, love the exposure — but the title didn't really seem to match up with my post?
 
 > # Amazon Music leans into audiobooks
 > 
@@ -40,13 +40,17 @@ This post in turn was a comment on [a post by Jason Del Rey](https://www.linkedi
 > 
 > I hope you’ll take a read.
 
+# I heard you like Amazon
+
 Basically the only common factor between my post and the ostensible topic of this LinkedIn "news story" is that both mention Amazon. The whole intro and all of the other comments that are included are talking about audiobooks, except for a tiny aside right at the end of the intro:
 
 > In other Amazon news, the next version of the Alexa voice assistant is reportedly running into problems.
 
+Ironically, this is about as clever as Amazon's own recommendation algorithm, which is even now wearing out its compute recommending ever weirder scissors to me, just because I recently bought some scissors, and therefore all I must want in the world is MOAR SCISSORS!!1!
+
 A reader wanting to get different perspectives on the market for audiobooks, who came to the series of posts that LinkedIn has put together into a "news story" format, would be confused by the inclusion of my post. They might even assume that I had somehow gamed the algorithm to get myself some exposure. 
 
-It's also worth noting that, while the top few comments in the news story, having the significant benefit of actually being on-topic, have garnered 100+ reactions each and several comments at time of writing. Meanwhile my post has a whole five reactions, which honestly is fairly typical for a post of mine when I haven't put effort into promoting it in any way. In other words, even if I *were* trying to game the system to get my posts to the top of people's feeds, it wouldn't be worth my while.
+On that note, it's worth noting that, while the top few comments in the news story, having the significant benefit of actually being on-topic, have garnered 100+ reactions each and several comments at time of writing. Meanwhile my post has a whole five reactions, which honestly is fairly typical for a post of mine when I haven't put effort into promoting it in any way. In other words, even if I *were* trying to game the system to get my posts to the top of people's feeds, it wouldn't be worth my while.
 
 This sort of thing is why people like [Bluesky](https://bsky.app/profile/theriotnrrd.bsky.social) and [Mastodon](https://mastodon.social/@riotnrrd): no algorithm messing with your feed, and incompetently to boot.
 
