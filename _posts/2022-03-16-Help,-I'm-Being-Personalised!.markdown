@@ -5,14 +5,11 @@ date:   2022-03-16
 categories:  amazon privacy social social-media Twitter adtech netflix algorithms 
 ---
 
-# Help, I'm Being Personalised!
-
-
 As the token European among the [Roll For Enterprise](http://rollforenterprise.com) hosts, I'm the one who is always raising the topic of privacy. My interest in privacy is partly scarring from an early career as a sysadmin, when I saw just how much information is easily available to the people who run the networks and systems we rely on, without them even being particularly nosy.
 
 Because of that history, I am always instantly suspicious of talk of "personalising the customer experience", even if we make the charitable assumption that the reality of this profiling is more than just [raising prices until enough people balk](https://www.wsj.com/articles/SB10001424052702304458604577488822667325882 "On Orbitz, Mac Users Steered to Pricier Hotels"). I know that the data is unquestionably out there; my doubts are about the motivations of the people analysing it, and about their competence to do so correctly.
 
-![](/images/image.52.png)
+![Recommending form a menu](/images/image.52.png)
 
 Let's take a step back to explain what I mean. I used to be a big fan of Amazon's various recommendations, for products often bought with the product you are looking at, or by the people who looked at the same product. Back in the antediluvian days when Amazon was still all about (physical) books, I discovered many a new book or author through these mechanisms.
 
@@ -35,17 +32,15 @@ Here's what it boils down to: to build one of these "personalisation" systems, y
 
 The first is simply not true. It *is* true that it is important to deliver a high-quality default that works well for most users, and I am not opposed in principle to that default being algorithmically-generated. Back when, Twitter used to have "While you were away" section which would show you the most relevant tweets since you last checked the app. I found it a very valuable feature — except for the fact that I could not access it at will. It would appear at random in my timeline, or then again, perhaps not. There was no way to trigger it manually, or any place where it would appear reliably and predictably. You just had to hope — and then, instead of making it easier to access on demand, Twitter killed the entire feature in an update. The algorithmic default was promising, but it needed just a bit more control to make it actually good.
 
-[twitter url="<https://twitter.com/dwellington/status/1409779654022606850>" ]
-
 This leads us directly to the second problem: why *not* show the "While you were away" section on demand? Why would Netflix not give me an easy way to resume watching what I was watching before? They don't say, but the assumption is that the operators of these services have metrics showing higher engagement with their apps when they deny users control. Presumably what they fear is that, if users can just go straight to the tweets they missed or the show they were watching, they will not spend as much time exploring the app, discovering other tweets or videos that they might enjoy.
 
-![](/images/image.53.png)
+![A vast library of "content"](/images/image.53.png)
 
 What is forgotten is that "engagement" just happens to be one metric that is easy to measure — but the ease of measurement does not necessarily make it the most important dimension, especially in isolation. If that engagement is me scrolling irritably around Twitter or Netflix, getting increasingly frustrated because I can't find what I want, my opinion of those platforms is actually becoming more corroded with every additional second of “engagement”.
 
 There is a common unstated assumption behind both of the factors above, which is that whatever system is driving the personalisation is *perfect*, both unbreakable in its functioning and without corner cases that may deliver sub-optimal results even when the algorithm is working as designed. One of the problems with black-box systems is that when (not if!) they break, users have no way to understand why they broke, nor to prevent them breaking again in the future. If the Twitter algorithm keeps recommending something to me, I can (for now) still go into my settings, find the list of interests that Twitter has somehow assembled for me, and delete entries until I get back to more sensible recommendations. With Netflix, there is no way for me to tell it to stop recommending something — presumably because they have determined that a sufficient proportion of their users will be worn down over time, and, I don't know, whatever the end goal is — watch Netflix original content instead of something they have to pay to license from outside.
 
-All of this comes back to my oft-repeated point about privacy: what is it that I am giving up my personal data in exchange for, in the end? The promise is that all these systems will deliver content (and ads)(really it's the ads) that are relevant to my interests. Defenders of surveillance capitalism will point out that profiling as a concept is hardly new. The reason you find different ads in Top Gear Magazine, in Home & Garden, and in Monocle, is that the profile for the readership is different for each publication. But the results speak for themselves: when I read Monocle, I find the ads relevant, and (given only the budget) I would like to buy the products featured. The sort of ads that follow me around online, despite a wealth of profile information generated at every click, correlated across the entire internet, and going back \*mumble\* years or more, are utterly, risibly, incomprehensibly irrelevant. Why? Some combination of that "we know better" attitude, algorithmic profiling systems delivering less than perfect results, and of course, good old [fraud in the adtech ecosystem](http://adcontrarian.blogspot.com/2021/01/the-inescapable-logic-of-ad-fraud.html).
+All of this comes back to my oft-repeated point about privacy: what is it that I am giving up my personal data in exchange for, in the end? The promise is that all these systems will deliver content (and ads)(really it's the ads) that are relevant to my interests. Defenders of surveillance capitalism will point out that profiling as a concept is hardly new. The reason you find different ads in *Top Gear Magazine*, in *Home & Garden*, and in *Monocle*, is that the profile for the readership is different for each publication. But the results speak for themselves: when I read *Monocle*, I find the ads relevant, and (given only the budget) I would like to buy the products featured. The sort of ads that follow me around online, despite a wealth of profile information generated at every click, correlated across the entire internet, and going back \*mumble\* years or more, are utterly, risibly, incomprehensibly irrelevant. Why? Some combination of that "we know better" attitude, algorithmic profiling systems delivering less than perfect results, and of course, good old [fraud in the adtech ecosystem](http://adcontrarian.blogspot.com/2021/01/the-inescapable-logic-of-ad-fraud.html).
 
 # So why are we doing this, exactly?
 
