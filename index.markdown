@@ -4,8 +4,8 @@
 
 layout: home
 ---
-The personal blog of Dominic Wellington. There is a thread joining all of this together, but I can't find it quite now.
+The personal blog of Dominic Wellington since 2012. There is a thread joining all of this together, but I can't find it right now.
 
-More about me [here](https://findthethread.blog/about/), or come find me on <a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a>.
+More about me [here](https://findthethread.blog/about/), or come find me on <a rel="me" href="https://mastodon.social/@riotnrrd">Mastodon</a> or <a href="https://bsky.app/profile/theriotnrrd.bsky.social">Bluesky</a>.
 
 *** 
