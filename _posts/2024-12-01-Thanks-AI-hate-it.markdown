@@ -9,7 +9,7 @@ categories: LinkedIn social social-media work enshittification AI
 
 The problem with algorithmic social-media feeds is that they presume to [know better than the user]({% post_url 2023-09-13-Algorithmic-Networks-and-Their-Malcontents %}) what they will want to see. The problem with generative AI tools embedded in social-media is that they presume to know better than the user *what others will want to see*. 
 
-I have been [complaining about LinkedIn]]({% post_url 2024-11-20-Unlinked) quite a bit, and I am about to do so again.
+I have been [complaining about LinkedIn]]({% post_url 2024-11-20-Unlinked %}) quite a bit, and I am about to do so again.
 
 > Lately, LinkedIn’s algorithm seems even worse than usual at surfacing anything interesting. It’s literally showing me weeks-old posts, and worse, ones that I already interacted with!
 > This is why people are sceptical of algorithmic feeds: if you’re making decisions on behalf of your users, the results had better be good. 
