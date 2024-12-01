@@ -5,11 +5,11 @@ date: 2024-12-01
 categories: LinkedIn social social-media work enshittification AI
 ---
 
-![LinkedIn prompt: try writing with AI](/images/try-writing-with-ai.png)
-
 The problem with algorithmic social-media feeds is that they presume to [know better than the user]({% post_url 2023-09-13-Algorithmic-Networks-and-Their-Malcontents %}) what they will want to see. The problem with generative AI tools embedded in social-media is that they presume to know better than the user *what others will want to see*. 
 
-I have been [complaining about LinkedIn]]({% post_url 2024-11-20-Unlinked %}) quite a bit, and I am about to do so again.
+![LinkedIn prompt: try writing with AI](/images/try-writing-with-ai.png)
+
+I have been [complaining about LinkedIn]({% post_url 2024-11-20-Unlinked %}) quite a bit, and I am about to do so again.
 
 > Lately, LinkedIn’s algorithm seems even worse than usual at surfacing anything interesting. It’s literally showing me weeks-old posts, and worse, ones that I already interacted with!
 > This is why people are sceptical of algorithmic feeds: if you’re making decisions on behalf of your users, the results had better be good. 
@@ -48,7 +48,7 @@ And what about “quality”? A lot of LinkedIn was slop before GenAI; all the L
 
 I hated those posts (and posters) before. Now, they have overrun my feed, and my hate is as the fire of ten thousand suns.
 
-The LinkedIn prompt is (still) “What do you want to talk about?” Of course you have to write with an audience in mind, but that audience wants to hear *from you*. If you sound exactly as boring and predictable as the rest of the feed, you won’t stand out in any way, and won’t get the engagement you were presumably after by posting in the first place.
+The LinkedIn app prompt is (still) “What do you want to talk about?” Of course you have to write with an audience in mind, but that audience wants to hear *from you*. If you sound exactly as boring and predictable as the rest of the feed, you won’t stand out in any way, and won’t get the engagement you were presumably after by posting in the first place.
 
 If only a few people had access to GenAI, it would be a superpower for them. In our current environment, where it takes effort to *avoid* the “helpful” GenAI features, all it does is to swamp the few voices still trying to express an actual opinion.
 
