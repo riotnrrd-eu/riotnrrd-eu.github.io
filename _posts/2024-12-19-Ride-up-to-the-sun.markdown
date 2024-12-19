@@ -27,8 +27,12 @@ I like these out-and-back rides. This one was just shy of 70km, over two and a h
 
 [Me on Mastodon](https://mastodon.social/@riotnrrd/113500107481184723)
 
+*** 
+
 > This is the advantage of being a big dude: I can boss the bike around a bit beyond the point that skill and proper placement would get me to alone. Of course if I do get it wrong when operating in that zone, the results are spectacularly catastrophic!
 
 [Me on Mastodon](https://mastodon.social/@riotnrrd/113500118640755437)
+
+*** 
 
 I did get a spectacularly muddy MTB ride in last weekend, resulting in splatters right to the top of my helmet — and also the first time my Apple Watch suggested a rating of "All Out" for a workout! But this might be it for the year, as we are hosting Christmas Eve this year, so I doubt I'll be able to sneak out before that, and then after that I am focused on skiing and snowboarding. But that's where all that leg work pays off: let's see if I can carve harder than last year!
