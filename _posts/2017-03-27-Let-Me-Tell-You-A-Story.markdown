@@ -9,9 +9,9 @@ Any good presentation is a story, and a good presenter is adept at telling their
 
 Luckily for the rest of us, there are techniques that can help us become better storytellers, and avoid boring our audiences to tears.
 
-![](/images/unknown_filename.211.png)
+![Books on a shelf](/images/unknown_filename.211.png)
 
-One of the most effective approaches I have learned is called [SCIPAB](https://www.mandel.com/top-ten-reasons/tools-methodology/scipab "Mandel | SCIPAB"), a technique developed by Steve Mandel and now spread by the company he founded, Mandel Communications. I was lucky enough to be trained in SCIPAB by Mandel Communications as part of a more general "presentation skills" training. I don’t want to steal their thunder (or their business!), but I do want to share some of the insights that I carry with me and use regularly.
+One of the most effective approaches I have learned is called [SCIPAB](https://www.mandel.com/top-ten-reasons/tools-methodology/scipab "Mandel SCIPAB"), a technique developed by Steve Mandel and now spread by the company he founded, Mandel Communications. I was lucky enough to be trained in SCIPAB by Mandel Communications as part of a more general "presentation skills" training. I don’t want to steal their thunder (or their business!), but I do want to share some of the insights that I carry with me and use regularly.
 
 *SCIPAB* is an acronym, which stands for the phases of a story:
 
@@ -36,7 +36,7 @@ These phases have a specific technical meaning within the Mandel technique, but 
 
 Let us map SCIPAB onto the Hero’s Journey, so that we can take our audiences on a journey with us and lead them to a shared conclusion.
 
-![](/images/unknown_filename.210.jpeg)
+![Gandalf and Bilbo in the Shire](/images/unknown_filename.210.jpeg)
 
 ## Situation
 
@@ -69,5 +69,7 @@ Finally, close on the B, *Benefits*. This is the high point of that emotional ro
 By structuring your communications in this way, you will be able to have much more explicit and productive conversations with prospective customers - and at the very least, you won’t be boring them or inducing Death By Powerpoint.
 
 Plus, this way is much more fun for the presenter. Try it, and let me know how it goes!
+
+*** 
 
 [^1]: This is also known as "Position", but "Proposal" is what I learned, plus I think it fits better within the flow.
