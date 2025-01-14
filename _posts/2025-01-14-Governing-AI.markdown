@@ -75,6 +75,8 @@ It has been suggested that Amazon will avoid high charges for a future GenAI-ena
 
 Where does this leave the UK government's AI ambitions? Nowhere good, is the answer. Both Amazon's AI-Alexa and Keir Starmer's AI Opportunities Action Plan smack of FOMO and tech solutioneering, starting with the means in mind instead of working backwards from a concrete benefit, whether to customers or citizens.
 
+# AI Maths
+
 Amazon is not sharing its business plans for Alexa, but the government's own maths do not hold up. First we are told that "The IMF estimates that – if AI is fully embraced – \[…\] these gains could be worth up to an average £47 billion \[…\] over a decade." But later in the same release, we hear of investments of £14B, £25B, £12B, and $2.5B. Yes, the last one is denominated in dollars, for no immediately obvious reason — but still, that already adds up to quite a bit more than £47B. One wonders, of course, how many of those projected billions of pounds of nebulous benefits spring from the same sort of woolly thinking as the Alexa business plan of "sell them at a loss and make it up in volume".
 
 It's a pity because many of the concrete proposals embedded in the government's AI plan actually sound pretty sensible. [Nobody knows that the National Data Library is](https://takes.jamesomalley.co.uk/p/wtf-is-the-national-data-library), but planning the power grid around the demands that new data centres are likely to place on it seems sensible.
