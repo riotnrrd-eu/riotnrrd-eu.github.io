@@ -40,6 +40,7 @@ This is what is referred to as an *omnishambles*, a situation that is comprehens
 Their salary would be very well earned.
 
 *** 
+
 Photo by [Vladimir Kudinov](https://unsplash.com/@madbyte) on [Unsplash](https://unsplash.com/search/photos/office?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 [^1]: Originally developed by Adobe, it now seems to be staggering through an unloved half-life as an [open-source project under the umbrella of the Apache foundation](http://flex.apache.org). *Just kill it already! Kill it with fire!*
