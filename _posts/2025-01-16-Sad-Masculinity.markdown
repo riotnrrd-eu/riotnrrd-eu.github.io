@@ -11,7 +11,7 @@ Let me lay my cards on the table here: I invented Facebook in 2000.
 
 No, really! I was doing an internship as a junior sysadmin (a [PFY](https://en.wiktionary.org/wiki/PFY), really)[^1] at HP’s European headquarters outside Stuttgart, in south-western Germany. It was a wonderful and formative year of my life, which I spent with a lot of other international interns, known as Praktikants in German. Very few of us knew each other before, so in order to get to know each other and arrange activities, I grabbed a spare HP-UX box, stuck a web server on it, and so the PrakSite was born.
 
-Everyone had a profile, with pictures, interests, a brief bio, and so on. Ambitious users customised their profile pages, and we also put together event pages for visits to Stuttgart’s beer festival, the Wasen.[^2], the Rocky Horror Show original cast performance in Frankfurt (in costume!), or snowboarding trips to the Tyrol. Of course the whole thing is lost to bitrot now — probably for the best, really.
+Everyone had a profile, with pictures, interests, a brief bio, and so on. Ambitious users customised their profile pages, and we also put together event pages for visits to Stuttgart’s beer festival, the Wasen[^2], the Rocky Horror Show original cast performance in Frankfurt (in costume!), or snowboarding trips to the Tyrol. Of course the whole thing is lost to bitrot now — probably for the best, really.
 
 # If You're So Smart, Why Ain't You Rich?
 
