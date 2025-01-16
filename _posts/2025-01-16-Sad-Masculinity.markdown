@@ -23,14 +23,7 @@ Also, the tech stack that was available in 2000 was very rudimentary: there was 
 
 Finally, it never occurred to me to let users rate other users on whether they were hot or not, which is how [Facebook got its start](https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash). I can only give partial credit to my own personal ethics for this choice; we were all [standard nerds](https://www.youtube.com/watch?v=JwU7SF0i0Ws), and the only honest answer to whether any of us was hot or not would have to have been negative.
 
-![Zuck: Yeah so if you ever need info about anyone at Harvard
-Zuck: Just ask.
-Zuck: I have over 4,000 emails, pictures, addresses, SNS
-Friend: What? How'd you manage that one?
-Zuck: People just submitted it.
-Zuck: I don't know why.
-Zuck: They "trust me"
-Zuck: Dumb fucks.](/images/Dumb-fucks.jpeg)
+![Zuckerberg calling people 'dumb fucks' in chat screenshots](/images/Dumb-fucks.jpeg)
 
 This is the original sin of Facebook that Mark Zuckerberg is labouring under the weight of. No matter how hard he tries, he will always be that creep whose breakout success was a web site that violated consent by its very nature. This is where his recent nonsense about “[masculine energy](https://www.theindex.media/what-does-masculine-energy-even-mean-mark/)“ is coming from: straight-up insecurity. And it’s bloody embarrassing to the rest of us men.
 
@@ -46,7 +39,7 @@ This new look Zuck is sporting comes off as [Artie Ziff](https://simpsons.fandom
 
 ![Artie Zuck and Disco Zuck](/images/Artie-Ziff-as-Disco-Stu.png)
 
-I’m a man, cis-het or whatever, and have never in my life felt the urge to discuss masculinity. I like a wet shave, a rare steak, and a cold beer or three — and also use a number of skincare products. I like loud shouty music, including when it’s performed by women, and also quiet meditative music. I take care of my kids, cook for them and clean them, tell them I love them, and melt inside when they cuddle up to me or want to hold my hand. I enjoy rugged outdoorsy sports like mountain biking and snowboarding, but I don’t think they make up any more than a small ingredient of a personality. I read books about history, and get sniffly when I watch Pixar movies. I like an occasional cigar, know how to tie several tie knots, but I don’t like boxing, let alone MMA. 
+I’m a man, cis-het or whatever, and have never in my life felt the urge to discuss "masculinity". I like a wet shave, a rare steak, and a cold beer or three — and also use a number of skincare products. I like loud shouty music, including when it’s performed by women, and also quiet meditative music. I take care of my kids, cook for them and clean them, tell them I love them, and melt inside when they cuddle up to me or want to hold my hand. I enjoy rugged outdoorsy sports like mountain biking and snowboarding, but I don’t think they make up any more than a small ingredient of a personality. I read books about history, and get sniffly when I watch Pixar movies. I like an occasional cigar, know how to tie several tie knots, but I don’t like boxing, let alone MMA. 
 
 I would be very hard put to it to define how any of that might translate into my professional life, unless I were being asked what I do in my off hours. And I find anyone that does go on too much about masculinity to be embarrassing, if not outright suspicious.
 
@@ -54,7 +47,7 @@ This is the desperate scrabbling of someone who built something once that has gr
 
 ***
 
-🖼️  Zuckerberg chat screenshot from this [*New Yorker* article](https://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook?currentPage=all), Zuckerberg photo screenshot from Instagram video, Simpsons characters from the [Simpsons Wiki](https://simpsons.fandom.com/wiki/Simpsons_Wiki)
+🖼️  Zuckerberg chat screenshot from this [*New Yorker* article](https://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook?currentPage=all), Zuckerberg photo screenshot from Instagram video, Simpsons characters from the [Simpsons Wiki](https://simpsons.fandom.com/wiki/Simpsons_Wiki).
 
 [^1]:  Here is a [story]({% post_url 2015-07-31-PFY-story %}) from those times.
 [^2]: The [Cannstatter Volksfest](https://en.wikipedia.org/wiki/Cannstatter_Volksfest), known colloquially as “Wasen” because of its location on the Cannstatter Wasen, is nearly as big as Munich’s more famous Oktoberfest, and has a similar vibe of beer, fried foods, oompah bands, and the inexplicable addition of funfair rides — but with hardly any tourists.
