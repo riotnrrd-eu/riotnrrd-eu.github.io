@@ -23,7 +23,7 @@ Also, the tech stack that was available in 2000 was very rudimentary: there was 
 
 Finally, it never occurred to me to let users rate other users on whether they were hot or not, which is how [Facebook got its start](https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash). I can only give partial credit to my own personal ethics for this choice; we were all [standard nerds](https://www.youtube.com/watch?v=JwU7SF0i0Ws), and the only honest answer to whether any of us was hot or not would have to have been negative.
 
-![Zuckerberg calling people 'dumb fucks' in chat screenshots](/images/Dumb-fucks.jpeg)
+![Zuckerberg calling people 'dumb fucks' in chat screenshots](/images/dumb-fucks.jpeg)
 
 This is the original sin of Facebook that Mark Zuckerberg is labouring under the weight of. No matter how hard he tries, he will always be that creep whose breakout success was a web site that violated consent by its very nature. This is where his recent nonsense about “[masculine energy](https://www.theindex.media/what-does-masculine-energy-even-mean-mark/)“ is coming from: straight-up insecurity. And it’s bloody embarrassing to the rest of us men.
 
