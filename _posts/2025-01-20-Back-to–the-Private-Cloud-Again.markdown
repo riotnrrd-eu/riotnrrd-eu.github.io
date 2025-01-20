@@ -5,8 +5,6 @@ date: 2025-01-20
 categories: cloud AWS
 ---
 
-[text]({% post_url  %})
-
 An article titled “[Is private cloud having a moment?](https://www.ciodive.com/news/private-cloud-generative-ai-hybrid-enterprise-it-strategy/737448/)” confounds expectations somewhat by *not* complying with [Betteridge’s Law](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines). 
 
 Then again, given that the first person mentioned is Broadcom’s CEO, quoting from his speech at VMware Explore, perhaps that is not so surprising. However, the article is more than just a puff-piece for VMware, and there are some useful nuggets to be found inside, such as these two quotes:
