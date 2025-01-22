@@ -45,5 +45,7 @@ If you're on Substack? That might be a lot harder. People subscribe to you throu
 
 I *loved* old Twitter, but I am not ever getting locked in like that again. This is my online home, and while I may hang out on the various platforms, this is where I can always be found.
 
+*** 
+
 [^1]: And that's without even getting into questions of content moderation, which I suspect are about to get *very interesting indeed*.
 [^2]: I reserve the right to judge anyone *signing up* there very harshly, though.
