@@ -59,7 +59,7 @@ This is a well-known mechanism, called Jevon's Paradox[^2], and was first [invok
 
 It is also worth noting that one of the big advances here is DeepSeek's Mixture of Experts design, meaning that only a small number of the "experts" (sub-models) activate for any task, which is where the efficiency comes from. However for queries that actually benefit from the full model's power, that advantage goes away.
 
-The hosted models also follow Chinese law in that they will refuse to answer questions about topics that the Chinese Communist Party considers sensitive (see those license restrictions, again), such as what exactly happened in Tiananmen Square on the 4th of June, 1989. 
+The hosted models[^3] also follow Chinese law in that they will refuse to answer questions about topics that the Chinese Communist Party considers sensitive (see those license restrictions, again), such as what exactly happened in Tiananmen Square on the 4th of June, 1989. 
 
 ![Asking DeepSeek about Tiananmen Square](/images/asking-online-deepseek-about-tienanmen-square-768x177-2284682253.jpg)
 
@@ -97,4 +97,5 @@ A big part of this story has been the mismatch between public consumer conceptio
 🖼️  Photos by [Nicholas Cappello](https://nicholas-cappello.com/), [Alexander Grey](http://www.pexels.com/@mccutcheon) and [Tim Gouw](https://unsplash.com/@punttim) on [Unsplash](https://www.unsplash.com)
 
 [^1]: Although it too was later hit by [export restrictions](https://www.tomshardware.com/news/us-prohibits-exports-of-nvidias-a800-and-h800-to-china-blacklists-chinese-gpu-developers).
-[^2]: I was a little surprised to find that I had not mentioned this concept on the blog before, since it's a classic of cloud computing that I must have been using in presentations for at least fifteen years at this point, but apparently not.
+[^2]: I was a little surprised to find that I had not mentioned this concept on the blog before, since it's a hoary chestnut of a cloud-computing analogy that I must have been using in presentations for at least fifteen years at this point, but apparently not.
+[^3]: The censorship applies only to the models as hosted by DeepSeek. If you download it and run it locally, you can ask it all kinds of crazy questions! Again, this fact is interesting on a purely technical level, politics aside, because of how it illuminates the difference between the "same" model hosted locally or accessed via an API. It's not just a pricing difference; the results can also differ quite substantially. So much for "open source", in other words.
