@@ -17,7 +17,7 @@ Then again, given that the first person mentioned is Broadcom’s CEO, quoting f
 
 I do have to recognise the author here for at least not quoting [DHH](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580) yet again!
 
-More seriously, I have seen exactly the same process gap prevent people from taking full advantage of the cloud model. In fact, I have even written about it right here, going back to 2014 in a post titled "[Hunting the Elusive Private Cloud]{% post_url 2014-03-24-Hunting-the-Elusive-Private-Cloud %})":
+More seriously, I have seen exactly the same process gap prevent people from taking full advantage of the cloud model. In fact, I have even written about it right here, going back to 2014 in a post titled "[Hunting the Elusive Private Cloud]({% post_url 2014-03-24-Hunting-the-Elusive-Private-Cloud %})":
 
 > there’s a good chance that a substantial proportion of that legacy infrastructure is under- or even entirely un-used. Some studies I’ve seen even show average utilisation below 10%! **This is where they get their elasticity**: between the _measured service_ and the _resource pooling_, they get a much better handle on what that infrastructure is currently used for.
 

@@ -13,7 +13,7 @@ On the 26th of January, I started picking up lots of posts on social media about
 
 # So what's new?
 
-The first thing that is weird about the sudden panic is that *none of it was news*. Ben Thompson devoted his [*Stratechery* update](https://stratechery.com/2025/stratechery-updates-deepseek-r1-deepseek-implications/)(paywall) on the 21st of January to DeepSeek. Ben links to a *Bloomberg* piece from the 9th of January titled "[China’s DeepSeek Shows Why Trump’s Trade War Will Be Hard to Win](https://www.bloomberg.com/opinion/articles/2025-01-09/chinese-ai-deepseek-shows-why-trump-s-trade-war-will-be-hard-to-win)".
+The first thing that is weird about the sudden panic is that *none of it was news*. Ben Thompson devoted his [*Stratechery* update](https://stratechery.com/2025/stratechery-updates-deepseek-r1-deepseek-implications/) (paywall) on the 21st of January to DeepSeek. Ben in turn links to a *Bloomberg* piece from the 9th of January titled "[China’s DeepSeek Shows Why Trump’s Trade War Will Be Hard to Win](https://www.bloomberg.com/opinion/articles/2025-01-09/chinese-ai-deepseek-shows-why-trump-s-trade-war-will-be-hard-to-win)".
 
 Further back, Simon Willison mentioned DeepSeek no fewer than 11 times in his round-up of [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/). The first mention was not even because DeepSeek was newsworthy in itself; instead, DeepSeek was included as just one example of the use of synthetic data created by one model for training new models:
 
@@ -74,11 +74,15 @@ Finally, reinforcement learning without human feedback is innovative, but unprov
 # What Does It All Mean?
 ‪Shout out to [Chris Jones‬](‪@chrisjones1.bsky.social) for [this banger](https://bsky.app/profile/chrisjones1.bsky.social/post/3lgqmskoy7c2z):‬
 
+*** 
+
 > > I think the excitement is that that is absolutely nothing specifically Chinese about this - it's all known components, nearly all invented in the USA, put together in standard ways. if they can do it we can; no reason why France couldn't have ChercheProfond in a few months
 > 
 > User: "ChercheProfond, what do you make of this 400-page pdf?"
 > 
 > ChercheProfond: "\<shrugs\> bof"
+
+*** 
 
 The biggest loser from DeepSeek is Nvidia, not so much because of lower GPU sales (see point about training above) but because of the loss of its competitive moat from the CUDA toolchain. Until now, Nvidia benefited from a one-two lock on the market: it made the fastest GPUs, and CUDA was required to unlock their full capabilities. Even if another chip vendor managed to close the performance gap, developers would expect it to support CUDA. DeepSeek not using CUDA is a shot across Nvidia's bows that is far more serious than the fact that they used fewer GPUs.
 
