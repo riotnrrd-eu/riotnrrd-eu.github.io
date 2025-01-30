@@ -25,7 +25,7 @@ Simon also linked to the announcement of the availability of DeepSeek R1 to the 
 
 Finally, Simon also offers some pretty decent analysis of the significance of DeepSeek, especially bearing in mind that this post was published nearly a month before the current panic, on the 31st of December 2024:
 
-> #### Was the best currently available LLM trained in China for less than $6m? [#](https://simonwillison.net/2024/Dec/31/llms-in-2024/#was-the-best-currently-available-llm-trained-in-china-for-less-than-6m-)
+> ## Was the best currently available LLM trained in China for less than $6m?
 > 
 > Not quite, but almost! It does make for a great attention-grabbing headline.
 > 
@@ -58,6 +58,12 @@ The reason DeepSeek caught people's notice, even with some delay, is how much mo
 This is a well-known mechanism, called Jevon's Paradox[^2], and was first [invoked by Satya Nadella](https://www.geekwire.com/2025/microsoft-ceo-says-ai-use-will-skyrocket-with-more-efficiency-amid-craze-over-deepseek/) as the likely outcome here. More efficient training does not necessarily mean *less training*, let alone *less usage* of the resulting models. Efficiency applies equally to large models as to small ones, enabling new capabilities to be developed and deployed.
 
 It is also worth noting that one of the big advances here is DeepSeek's Mixture of Experts design, meaning that only a small number of the "experts" (sub-models) activate for any task, which is where the efficiency comes from. However for queries that actually benefit from the full model's power, that advantage goes away.
+
+The hosted models also follow Chinese law in that they will refuse to answer questions about topics that the Chinese Communist Party considers sensitive (see those license restrictions, again), such as what exactly happened in Tiananmen Square on the 4th of June, 1989. 
+
+![Asking DeepSeek about Tiananmen Square](/images/asking-online-deepseek-about-tienanmen-square-768x177-2284682253.jpg)
+
+The collision of these features is interesting because the "reasoning" nature of the model means that you can [watch it censor itself in real time](https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report). It will initially start to respond as the first "experts" report back, but at the end a "censor" appears to cut in with the message "Sorry, I’m not sure how to approach this type of question yet. Let’s chat about math, coding and logic problems instead!"
 
 Also DeepSeek doesn't support tools, meaning that DeepSeek R1 can’t call external functions, APIs, or perform external tasks (the "agentic" model). It can only generate text based on its internal knowledge, which is limited to what it was trained on. Tools are the things that make it possible for LLMs to interact with the world outside chat.
 
