@@ -21,7 +21,7 @@ This fits with studies that show AI as having reduced benefits for power users, 
 
 The same mechanism is at play with the generative side of AI, with [a new study from Microsoft and Carnegie Mellon University](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/) worrying that these "technologies can and do result in the deterioration of cognitive faculties that ought to be preserved".
 
-The problem is that people are not great at [taking over from automated systems]({% post_url 2018-11-12-The-Problem-With-Self-Driving-Cars-—-And-Self-Flying-Planes %}), whether at identifying that the system is straying from the intended outcome, or at correcting the error in a timely manner.
+The problem is that people are not great at [taking over from automated systems]({% post_url 2018-11-12-The-Problem-With-Self-Driving-Cars-–-And-Self-Flying-Planes %}), whether at identifying that the system is straying from the intended outcome, or at correcting the error in a timely manner.
 
 Apple was forced to [halt Apple Intelligence summaries of news articles](https://www.bbc.com/news/articles/cq5ggew08eyo) after factual errors were included in those summaries. This was embarrassing for Apple, but is it a problem in the real world? Potentially: what if an automated summary caused people to take action, such as [evacuating (or not) in the face of a wildfire](https://fullfact.org/blog/2025/feb/fact-checking-the-la-wildfires/) or other disaster? Or what if a summary moved the stock market, much as we used to worry about a [tweet](https://www.barrons.com/articles/donald-trump-twitter-stock-market-51567803655) doing?
 
