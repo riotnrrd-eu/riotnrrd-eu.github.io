@@ -9,13 +9,13 @@ Because of ChatGPT, many people consider that AI must necessarily look like a ch
 
 One of the ways in which people might already use AI without interacting with a chatbot is through the summarisation capabilities that Google is adding to search or Apple is adding to iOS. The promise is that the AI will synthesise information, whether from an email thread or from across the web or whatever data sources apply, and give a concise view to the user. However, as [Mike Caulfield puts it](https://mikecaulfield.substack.com/p/google-searchs-ai-is-or-should-be):
 
-> when I don’t synthesize myself, I miss important things I learn while synthesizing”. There is a value in reading widely that is lost when we just let the machine do it. 
+> "when I don’t synthesize myself, I miss important things I learn while synthesizing”. There is a value in reading widely that is lost when we just let the machine do it. 
 
 The reason is that we humans tend to accept at least the framing that is put in front of us fairly uncritically. This is bad enough in the case of an incomplete summary of an email thread, although a miss there is fairly easy to verify and correct.
 
 ![Screenshot of Apple Intelligence summary of text message thread: "No longer in a relationship; wants belongings from the apartment"](/images/nick_screenshot.jpg)
 
-The problem is, as [Ben Thompson](https://stratechery.com/2025/deep-research-and-knowledge-value/)(paywall) flags, with the Rumsfeldian "unknown unknowns". If I know to ask a question, and have an idea of the shape of the answer, AI can help me fill in the blanks. It's a lot less helpful if I don't even know to ask the question — if I don't know what I don't know. And because it answers so confidently, users tend to accept the output fairly uncritically.
+The problem is, as [Ben Thompson](https://stratechery.com/2025/deep-research-and-knowledge-value/) (paywall) flags, with the Rumsfeldian "unknown unknowns". If I know to ask a question, and have an idea of the shape of the answer, AI can help me fill in the blanks. It's a lot less helpful if I don't even know to ask the question — if I don't know what I don't know. And because it answers so confidently, users tend to accept the output fairly uncritically.
 
 This fits with studies that show AI as having reduced benefits for power users, who are performing that synthesis for themselves — and deriving the benefits of doing so. 
 
