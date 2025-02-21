@@ -2,11 +2,8 @@
 layout: post
 title:  As one chapter ends, another begins 
 date:   2015-06-12 
-categories:  bladelogic hp BMC Opsware 
+categories:  bladelogic HP BMC Opsware 
 ---
-
-# As one chapter ends, another begins
-
 
 I haven’t blogged in ages - which is a *good* thing, I hasten to add! It’s just that I have been drinking from the firehose at my new gig. It’s now more than a month since I started at Moogsoft, and I think I can begin to talk about what it all means. 
 

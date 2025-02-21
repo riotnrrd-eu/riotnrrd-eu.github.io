@@ -2,11 +2,8 @@
 layout: post
 title:  Printing Money 
 date:   2023-02-03 
-categories:  tech printers 
+categories: HP tech printers 
 ---
-
-# Printing Money
-
 
 I spent more time than I should have yesterday installing my mother-in-law’s new HP printer, and while I dodged the [more obvious scams](https://www.theatlantic.com/technology/archive/2023/02/home-printer-digital-rights-management-hp-instant-ink-subscription/672913/?ref=galaxy-brain), I was actually shocked at how bad the experience was. There is absolutely no way that a normal person without significant IT experience could do it. And the worst part is that HP are in my experience the *best* — okay, least bad — printer manufacturer out there.
 
