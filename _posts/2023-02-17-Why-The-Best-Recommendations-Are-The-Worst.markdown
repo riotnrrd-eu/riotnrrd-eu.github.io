@@ -2,7 +2,7 @@
 layout: post
 title:  Why The Best Recommendations Are The Worst 
 date:   2023-02-17 
-categories:  hp printers 
+categories:  HP printers 
 ---
 
 # Why The Best Recommendations Are The Worst

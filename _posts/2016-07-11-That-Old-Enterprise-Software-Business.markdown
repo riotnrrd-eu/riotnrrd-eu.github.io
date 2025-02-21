@@ -2,11 +2,8 @@
 layout: post
 title:  That Old Enterprise Software Business 
 date:   2016-07-11 
-categories:  hp mercury enterprise 
+categories:  HP Mercury enterprise 
 ---
-
-# That Old Enterprise Software Business
-
 
 This is an interesting time in the enterprise software market. The shift to the cloud is causing massive disruption, with storied old names struggling to reinvent themselves, and scrappy startups taking over the world.
 
@@ -61,4 +58,3 @@ We do know roughly what the conditions are under which acquisitions succeed or f
 There is an alternative view: that while isolation and even benign neglect may allow for survival of the startup within the acquiring company, they will not build true success. That requires a deeper integration of the startup's mentality into the acquiring company’s culture. Very few company cultures have the strength to be able to integrate a challenging outside vision without triggering an immune reaction of sorts.
 
 The only way to integrate acquired companies - their technology and their culture - successfully, is to have strong executive guidance over a period of years. This has been a long-time failing at HP, to the despair of its longer-serving employees. In the absence of that guidance, benign neglect is maybe all that can be hoped for.
-
