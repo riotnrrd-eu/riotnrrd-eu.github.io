@@ -1,0 +1,23 @@
+---
+layout: post
+title:  More of Me 
+date:   2017-11-13 
+categories:  tech enterprise AIOps 
+---
+
+![](/images/unknown_filename.235.jpeg)
+
+I have not been posting here nearly as much as I mean to, and I need to figure out a way to fix that. 
+
+In my defence, the reason is that I have been writing a *lot* lately, just not here. I have monthly columns at [DevOps.com](https://devops.com/?s=dominic+wellington) and [IT Chronicles](https://www.itchronicles.com/author/dominicwellington/), as well as what I publish over at [the Moogsoft blog](https://www.moogsoft.com/blog/). I aim for weekly blog posts, but that’s already three weekly slots out of four in each month taken up right there - plus I do a ton of other writing (white papers, web site copy, other collateral) that doesn’t get associated so directly with me.
+
+As it happens, though, I am quite proud of my latest three pieces, so I’m going to link them here in case you’re interested. None of these are product pitches, not even the one on the company blog, more reflections on the IT industry and where it is going.
+
+[**Do We Still Need the Datacenter?**](https://www.moogsoft.com/blog/aiops/modern-datacenter/ "Do We Still Need the Datacenter? | Moogsoft") - a deliberately provocative title, I grant you, but it was itself provoked by a moment of cognitive dissonance when I was planning for the Gartner Data Center show while talking to IT practitioners who are busily getting rid of their data centers. Gartner themselves have recognised this shift, renaming the event to "IT Infrastructure, Operations Management & Data Center Summit" - a bit of a mouthful, but more descriptive.
+
+[**Measure What’s Important: DevFinOps**](https://devops.com/measure-whats-important-devfinops/ "Measure What’s Important: DevFinOps - DevOps.com") - a utopian piece, suggesting that we should embed financial data (cost and value) directly in IT infrastructure, to simplify impact calculation and rationalise decision making. I doubt this will ever come to pass, at least not like this, but it’s interesting to think about.
+
+[**Is Premature Automation Holding IT Operations Back?**](https://www.itchronicles.com/automation/premature-automation-holding-it-operations-back/ "Is Premature Automation Holding IT Operations Back?") - IT at some level is all about automation. The trick is knowing when to automate a task. At what point is premature automation considered not just wasteful, but actively harmful?
+
+***
+Photos by [Patrick Perkins](<http://cargocollective.com/pperkins>) on [Unsplash](<https://unsplash.com>)

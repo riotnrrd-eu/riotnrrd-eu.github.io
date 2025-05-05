@@ -1,0 +1,61 @@
+---
+layout: post
+title:  Water Wet 
+date:   2017-12-20 
+categories:  Uber EU 
+---
+
+# Water Wet
+
+
+Well, the EU has come out and said [what we all knew already]({% post_url 2017-07-04-New-Economy,-Meet-Old-Continent %}): [Uber is a taxi firm](http://www.bbc.com/news/business-42423627 "Uber is officially a cab firm, says European court" ), not a tech firm.
+
+![](/images/unknown_filename.470.png)
+
+This is of a place with the decision by Transport for London to revoke Uber’s license to operate, which is [currently under appeal](https://www.reuters.com/article/uber-britain/london-regulator-says-one-or-two-issues-about-accuracy-of-ubers-licence-details-idUSL8N1OJ2A4). There are a few important things to say about the EU result in particular.
+
+## Love Uber, Hate Uber
+
+First of all, there is a distinction to be made between *Uber the service* and *Uber the company*. The service is incredibly convenient, and has in many ways completely superseded traditional taxi services, especially when travelling. Instead of a myriad of taxi firm numbers for each city that I visit regularly, and the requirement upon arrival to make sure I have enough local currency to get wherever I need to go, I can just whip out my phone as soon as I’ve cleared customs, and usually arrive at the meeting spot around the same time as the car.
+
+When I reach the destination, I simply get out of the car and walk away, and my receipt is emailed to me automatically. This is pretty much the Platonic ideal of a taxi service.
+
+Uber the company - well, that is a different story. From untold counts of [sexual harassment](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) (which are now to be [made into a movie](https://www.theverge.com/2017/10/23/16526400/uber-sexual-harassment-movie-susan-fowler-blog-post)), to [active evasion of regulators in the Greyball programme](https://www.theguardian.com/technology/2017/mar/03/uber-secret-program-greyball-resignation-ed-baker), to the actual matter of this case - claiming that their drivers are "independent contractors", rather than employees - this is not a company that anyone should support.
+
+## Let’s Get Some Perspective
+
+Sure, capitalism is always pretty red in tooth and claw, and the various regulators that Uber has been doing battle with have hardly covered themselves in glory over the years. The taxi drivers trying to present themselves as innocents who have been hard done by could have implemented something similar to Uber years ago, but preferred to continue operating vehicles that were hazards to safety and hygiene, claim that the credit card machine was perennially out of order, refuse to provide tax receipts, and offer to fill in vastly inflated amounts on an expense slip as compensation.
+
+There is also an argument that Uber [increased provision of transportation services in previously under-served areas](http://www.schallerconsult.com/rideservices/unsustainable.pdf), and even [provide a cheaper way to get to hospital than an ambulance](https://www.cnbc.com/2017/12/15/when-uber-comes-to-town-fewer-people-take-ambulance-rides.html)[^1]. 
+
+All of this is true, but we cannot overlook how these results were achieved.
+
+Remember, too, that what we have seen until now is Nice Uber. This is Uber still operating in a mode where they are willing to burn their investors’ capital to capture market share, funding up to 40% of the cost of a ride. Assuming that they are successful in capturing a monopoly, that subsidy would presumably end shortly afterwards, and in order to keep fees to riders down, the payment to drivers would surely take a hit. Nasty Uber looking to monetise its monopoly and cut its stupendous losses ([$2.8B last year alone](http://money.cnn.com/2017/04/14/technology/uber-financials/index.html)) would surely start cutting corners elsewhere, too.
+
+## The Code Of Law Is Not A Code To Be Broken
+
+![](/images/unknown_filename.471.png)
+
+This ruling brings to light once more a common tech fallacy. The tech world runs on *codes*. Success can be had by operating precisely within the codes, or by finding ingenious loopholes that let you do something unexpected. Confusion sometimes occurs because the law is also a code. Some techies misinterpret the code of law as being similar to the codes and specifications that they are used to, and think that they have identified a cunning loophole that nobody else has thought about and which allows them to route around some provision of law that they do not like. For instance, they might decide to start a taxi firm, except - aha! - the drivers are not employees, but "independent contractors" who operate their own vehicles (which are in turn leased from the *totally-not-their-employer* taxi firm). And the best part is, it all follows the letter of the law!
+
+The thing is, computer code is not at all the same as a code of law. It is true that regulation moves slowly and can become outdated, and there is significant abuse because of that. In Italy, for instance, the German low-cost bus booking app Flixbus [is in trouble with the law](http://www.corriere.it/economia/17_luglio_18/flixbus-emendamenti-senato-contro-stop-autobus-low-cost-436ae4a4-6b88-11e7-9094-d21d151198e9.shtml) (link in Italian) because incumbents have managed to get laws proposed that would ban bus companies from operating unless they own their vehicles. That requirement is obviously a problem for Flixbus, a booking platform that aggregates across multiple bus operating companies, but does not actually run any buses itself.
+
+This is precisely the sort of situation that the "app economy" is *supposed* to disrupt: instead of a Balkanised patchwork of bus companies, have a single multinational app platform through which passengers can book trips in more comfort - although perhaps at the expense of a comfortable status quo for incumbent local bus operators.
+
+This is how Uber would like to present itself too - as plucky David taking on established Goliath, or as an underdog going up against The Man, who is also hand in hand with City Hall. However, there is a fine line between *opposing* laws and regulations, and working actively to *evade* them. In the latter situation, once the law does catch up, it will shut down whatever loopholes were being used, and then the consequences are far more grave than if a technical loophole were closed through a software update. Not only does the cunning hack to the law code no longer work, but the would-be law hacker may now find themselves subject to penalties far more draconian than for violating the GPL.
+
+## Welcome To Europe
+
+Lately American firms have been unpleasantly surprised to find that the EU’s bark does in fact have a bite behind it. They had generally ignored the EU as being toothless and slow-moving, but activists and politicians have goaded the behemoth into motion, and the [$2.4 billion fine against Google](https://www.theguardian.com/business/2017/jun/27/Google-braces-for-record-breaking-1bn-fine-from-eu) was only the start. Margrethe Vestrager, the current European Commissioner for Competition, is outspoken and determined to enforce a particularly European vision of competition. Given that [Neelie Kroes](https://en.wikipedia.org/wiki/Neelie_Kroes) is now on [Uber’s Public Policy Advisory Board](https://medium.com/uber-under-the-hood/announcing-ubers-public-policy-advisory-board-f7e6758ba9bd), perhaps this is a sign that Uber’s leadership recognise this fact, and will move with more tact from now on.
+
+![](/images/tweet-943194663095324672.png)
+
+## I Come Not To Bury Uber
+
+It is true that getting a taxi used to be a hassle and now it’s mostly not, and that fact is largely thanks to Uber - but we cannot simply accept Uber's culture of "ask for forgiveness rather than permission - in fact, forget forgiveness, we’ve done it and that’s that". I hope the service can continue while the company is reformed under [new leadership](https://www.recode.net/2017/11/7/16617340/read-uber-dara-khosrowshahi-new-rule-values-meeting), but that will have to be done without this figleaf that Uber is a technology firm or part of the [sharing economy]({% post_url 2017-07-04-New-Economy,-Meet-Old-Continent %}) or whatever. It’s a taxi firm, it owns vehicles and employs drivers, and it had better apply its substantial and undoubted ingenuity to working out what that means.
+
+***
+Photos by [Peter Kasprzyk](http://unsplash.com/@petekasprzyk) and [Samuel Zeller](http://samuelzeller.ch) on  [Unsplash](http://www.unsplash.com).
+
+[^1]: As a European, this story has any amount of WTF to it. Sorry, America, but your healthcare industry is utterly bananas, and you need to fix it. Single-payer systems have their flaws too, but they absolutely beat the alternative.
+

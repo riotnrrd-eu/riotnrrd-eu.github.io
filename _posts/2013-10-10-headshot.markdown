@@ -1,0 +1,12 @@
+---
+layout: post
+title:  headshot 
+date:   2013-10-10 
+categories:  avatar 
+---
+
+# headshot
+
+
+![](/images/skitch.png)
+

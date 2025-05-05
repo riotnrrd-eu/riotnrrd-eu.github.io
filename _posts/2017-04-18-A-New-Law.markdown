@@ -1,0 +1,19 @@
+---
+layout: post
+title:  A New Law 
+date:   2017-04-18 
+categories:  social social-media LinkedIn 
+---
+
+I was hanging out on [LinkedIn](https://www.linkedin.com/in/dwellington/), and I happened to notice a new pop-up, offering to help me boost my professional image with new photo filters.
+
+![](/images/IMG_0564.PNG)
+
+My professional image may well need all sorts of help, but I do wonder whether this feature was the most productive use of LinkedIn’s R&D time.
+
+Maybe this is the twenty-first century version of [Zawinski's Law](http://www.catb.org/jargon/html/Z/Zawinskis-Law.html):
+
+> Every social networking app attempts to expand until it has photo filters. Those apps which cannot so expand are replaced by ones which can.
+
+(I did not use the filters.)
+

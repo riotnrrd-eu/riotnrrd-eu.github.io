@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Analogy 
+date:   2014-05-07 
+categories:  automation tech orchestration 
+---
+
+# Analogy
+
+
+### Automation of single tasks with point solutions is equivalent to premature local optimisation of code.  
+
+The worst part is, in both cases you may end up trapping yourself on a local optimum. It's hard to abandon these maxima and cross the valley to the higher peaks, no matter how attractive they look.  
+
+It doesn't get easier over time, though. Start thinking holistically now. Talk to your peers in different teams. Better yet, talk to your users. They'll tell you what they need.
+
