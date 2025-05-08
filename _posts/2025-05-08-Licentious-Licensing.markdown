@@ -17,7 +17,7 @@ That lack of acceptance has always been the Achille's heel of the SSPL, as I wro
 
 With Redis now returning to the AGPL over the SSPL, the consensus take is that this is a win for the open-source camp. See for instance [Stephen O'Grady of Redmonk](https://redmonk.com/sogrady/2025/05/06/oss-forward-back/):
 
-> \[…\] the decision to return to an open source license was a consequential one and further evidence of a changing trajectory for the \[AGPL\] license and for open source.
+> \[Redis'\] the decision to return to an open source license was a consequential one and further evidence of a changing trajectory for the \[AGPL\] license and for open source.
 > 
 > Nor is it just SSPL projects moving to the AGPL. Grafana and MinIO previously moved from Apache licenses to the AGPL in April and May of 2021, respectively. The Zitadel project, meanwhile, did the same in March.
 
@@ -27,11 +27,11 @@ However, right before that snippet comes this one, referring to the Redis relice
 
 I agree that Valkey must have figured quite prominently in Redis' decision process, in the way that a herd of horses disappearing over the horizon figures in the decision on whether to bother closing the barn door again. Despite Stephen's contention that the timing of the launch of Amazon DocumentDB implies that MongoDB's move to the SSPL was unnecessary, I take the exact opposite conclusion:
 
-> MongoDB could not have moved much earlier, because there was no alternative to offer those customers — but could not afford to wait much longer, for fear of seeing its user base erode under it. MongoDB also continued to develop new features at breakneck speed, making it infeasible to fork the Community codebase as it stood.
+> MongoDB could not have moved \[to the SSPL\] much earlier, because there was no alternative to offer those customers — but could not afford to wait much longer, for fear of seeing its user base erode under it. 
 
-I have always failed to see the benefits to users of DocumentDB (or the MongoDB interface in Microsoft Azure CosmosDB, or for that matter the new MongoDB interface in Google Firestore). The existence of these offerings only has value because they are right there in the cloud service provider's dashboard. This is the sort of thing that open-source providers rightly decry when the topic is the Apple App Store: the walled garden gives incumbents the ability to shut out technically better solutions.
+I have always failed to see the benefits to users of DocumentDB (or the MongoDB interface in Microsoft Azure CosmosDB, or for that matter the new MongoDB interface in Google Firestore). The existence of these offerings only has value because they are right there in the cloud service provider (CSP) dashboard. This is the sort of thing that open-source proponents rightly decry when the topic is the Apple App Store: the walled garden gives incumbents the ability to shut out technically better solutions. In the case of big CSPs, open-source licenses which do not fully account for the economics of SaaS delivery models are reinforcing that walled garden, not opening it up.
 
-Even if we assume Stephen is right and the decision to build DocumentDB was driven purely by the strictures of the AGPL, before the SSPL was published, how does DocumentDB help someone self-managing MongoDB Community on Amazon EC2? We have seen open-source communities ripped apart by this sort of choice between only partly compatible distributions. I remain of the opinion that the SSPL is far truer to the spirit of open-source and to actual users than having doctrinal disputes while both cathedral and bazaar are being looted.
+Even if we assume Stephen O'Grady is right and the decision to build DocumentDB was driven purely by the strictures of the AGPL, before the SSPL was published, how does DocumentDB help someone self-managing MongoDB Community on Amazon EC2? We have seen open-source communities ripped apart by this sort of choice between only partly compatible distributions. I remain of the opinion that the SSPL is far truer to the spirit of open-source and to actual users than having doctrinal disputes while both cathedral and bazaar are being looted.
 
 Time will tell whether this is indeed the victory of the open-source AGPL versus the source-available SSPL. The answer of what level of protection is sufficient depends very much on what the question is: should a license protect the viability of an open-source project, or the growth rate of a commercial software vendor? Looking at it that way, it's not surprising that we have such radically different responses.
 
