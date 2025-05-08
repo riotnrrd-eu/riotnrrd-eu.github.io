@@ -17,7 +17,7 @@ That lack of acceptance has always been the Achille's heel of the SSPL, as I wro
 
 With Redis now returning to the AGPL over the SSPL, the consensus take is that this is a win for the open-source camp. See for instance [Stephen O'Grady of Redmonk](https://redmonk.com/sogrady/2025/05/06/oss-forward-back/):
 
-> \[Redis'\] the decision to return to an open source license was a consequential one and further evidence of a changing trajectory for the \[AGPL\] license and for open source.
+> \[Redis'\] decision to return to an open source license was a consequential one and further evidence of a changing trajectory for the \[AGPL\] license and for open source.
 > 
 > Nor is it just SSPL projects moving to the AGPL. Grafana and MinIO previously moved from Apache licenses to the AGPL in April and May of 2021, respectively. The Zitadel project, meanwhile, did the same in March.
 
