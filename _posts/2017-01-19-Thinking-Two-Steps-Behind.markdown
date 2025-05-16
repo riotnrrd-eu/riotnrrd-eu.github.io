@@ -5,7 +5,7 @@ date:   2017-01-19
 categories:  cars sales disruption enterprise 
 ---
 
-![](/images/unknown_filename.443.png)
+![City traffic](/images/unknown_filename.443.png)
 
 In [my day job](http://www.moogsoft.com), I spend a lot of my time building business cases to help understand whether our technology is a good fit for a customer. When you are building a startup business, this is the the expected trajectory: in the very early days, you have to make the technology work, translating the original interesting idea into an actual product that people can use in the real world. Once you have a working product, though, it’s all about *who* can use it, and *what* they can do with it.
 
@@ -35,7 +35,7 @@ This is all starting to sound very familiar. We already *have* a network optimis
 
 I am of course talking about railways.
 
-![](/images/unknown_filename.444.png)
+![Model train](/images/unknown_filename.444.png)
 
 ### Get on the train
 
@@ -63,7 +63,7 @@ In Silicon Valley, people are often moving too fast and too busy breaking things
 
 When the Internet first opened to the public late last century, the way most people connected was through a dial-up modem over an analogue telephone line. We all become expert in arcane incantations in the [Hayes AT command language](http://home.intekom.com/option/hayesat.htm), and we learned to recognise the weird squeals and hisses emitted by our modems and use them to debug the handshake with our ISP's modem at the far end. Modem speeds did accelerate pretty rapidly, going from the initial 9.6 kbits per second to 14.4, to 28.8, to weird 33.6, to a *screamingly fast* 56k (if the sun was shining and the wind was in the right quarter) in a matter of years.
 
-![|800x0](/images/unknown_filename.445.png)
+![](/images/unknown_filename.445.png)
 
 However, this was still nowhere near fast enough. These days, if our mobile phones drop to EDGE - roughly equivalent to a 56k modem on a good day - we consider the network as being basically unusable. Therefore, there was a lot of angst about how to achieve higher speeds. Getting faster network speeds in general was not a problem - 10 Mbps Ethernet was widely available at the time. The issue was the *last mile* from the trunk line to subscribers' homes. Various schemes were mooted to get fast internet to the curb - or *kerb*, for Americans. Motivated individuals could sign up for ISDN lines, or more exotic connectivity depending on their location, but very few did. When we finally got widespread consumer broadband, it was in the form of ADSL over the existing copper telephone lines.
 

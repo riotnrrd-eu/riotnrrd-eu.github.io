@@ -5,9 +5,6 @@ date:   2017-01-16
 categories:  iPhone mobile disruption 
 ---
 
-# Talkin' Bout a Revolution
-
-
 Once again, the seemingly unkillable idea of modular phones rears its misshapen head.
 
 The first offender is VentureBeat, with a breathless piece entitled [The dream of Ara: Inside the rise and fall of the world’s most revolutionary phone](http://venturebeat.com/2017/01/10/inside-project-ara-Googles-revolutionary-modular-phone/ "The dream of Ara: Inside the rise and fall of the world's most revolutionary phone"). 

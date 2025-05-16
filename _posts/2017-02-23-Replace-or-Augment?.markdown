@@ -5,9 +5,6 @@ date:   2017-02-23
 categories:  automation work enterprise 
 ---
 
-# Replace or Augment?
-
-
 One of the topics that currently exercise the more forward-looking among us is the potential negative impact of automation on the jobs market and the future of work in general. Comparisons are frequently made with the Industrial Age and its consequent widespread social disruption - including violent reactions, most famously the [Luddite](https://en.m.wikipedia.org/wiki/Luddite) and [*saboteur*](https://en.wikipedia.org/wiki/Sabotage#Etymology) movements.
 
 ![](/images/unknown_filename.291.png)
@@ -69,5 +66,3 @@ Images by [Annie Spratt](http://mammasaurus.co.uk), [Janko Ferlic](https://unspl
 
 [^1]: Well, in theory. Sometimes you lose a deal because the other vendor's CEO took your prospect's entire management team for a golfing weekend in the corporate jet. But we don't talk about that.
 [^2]: An FTE is a Full-Time Equivalent: the amount of work expected of one employee, typically over a year, allowing for holidays and so on. Typically that means somewhere between 200 and 220 working days of 8 hours each, so 1600 to 1760 hours in a year. The "FTE cost" of an activity is calculated by taking the time required to perform an activity once, multiplying that by the number of times that activity needs to be performed, and dividing by the FTE rate.
-
-           

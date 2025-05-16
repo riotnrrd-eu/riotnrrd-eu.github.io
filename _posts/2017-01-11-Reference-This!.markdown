@@ -5,10 +5,7 @@ date:   2017-01-11
 categories:  sales enterprise subtweet 
 ---
 
-# Reference This!
-
-
-![](/images/unknown_filename.288.png)
+![A woman holding her head in her hands](/images/unknown_filename.288.png)
 
 One of the downsides of working for [a little startup](http://www.moogsoft.com) that is *going* to change the world, but doesn’t quite have the name recognition yet - is that you get asked for customer references all. the. time.
 

@@ -5,9 +5,9 @@ date:   2017-06-29
 categories:  Google EU 
 ---
 
-It’s quite amazing how people misunderstand the intersection between the Internet and the law.[^1] A case in point is [this article from Reuters](http://www.reuters.com/article/us-eu-Google-antitrust-outlook-idUSKBN19I2MO "Google faces years of EU oversight on top of record antitrust fine | Reuters"), describing the likely consequences of the €2.4B fine that the EU Commission has slapped Google with.
+It’s quite amazing how people misunderstand the intersection between the Internet and the law.[^1] A case in point is [this article from Reuters](http://www.reuters.com/article/us-eu-Google-antitrust-outlook-idUSKBN19I2MO "Google faces years of EU oversight on top of record antitrust fine"), describing the likely consequences of the €2.4B fine that the EU Commission has slapped Google with.
 
-![](/images/unknown_filename.209.jpeg)
+![Google logo with a gavel](/images/unknown_filename.209.jpeg)
 
 It starts off well enough, discussing how being under the spotlight in this way will probably limit Google’s freedom of movement and decision in the future. Arguably, one of the reasons why Microsoft missed the boat on mobile was the hangover from the EU’s sanctions against them for bundling Internet Explorer with Windows.
 
@@ -15,7 +15,7 @@ However, there is one quote in the article which is quite remarkably misguided:
 
 > Putting the onus on the company underlines regulators' limited knowledge of modern technologies and their complexity, said Fordham Law School Professor Mark Patterson.
 > 
-> "The decision shows the difficulty of regulating algorithm-based internet firms," he said. "Antitrust remedies usually direct firms that have violated antitrust laws to stop certain behaviour or, less often, to implement particular fixes.
+> "The decision shows the difficulty of regulating algorithm-based internet firms," he said. "Antitrust remedies usually direct firms that have violated antitrust laws to stop certain behaviour or, less often, to implement particular fixes."
 
 In the past, Google has shown itself to be adept at rules-lawyering and hunting down the smallest loophole. They are of course hardly alone in this practice, with Uber being the poster-child - or the WANTED poster? - for this sort of arrogant Silicon Valley, “ask for forgiveness, not for permission”, attitude.
 

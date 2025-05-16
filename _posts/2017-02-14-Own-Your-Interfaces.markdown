@@ -5,7 +5,7 @@ date:   2017-02-14
 categories:  Apple Google watch enterprise 
 ---
 
-![](/images/unknown_filename.270.jpeg)
+![A helicopter flying over Chicago](/images/unknown_filename.270.jpeg)
 
 The greatest benefit of the Internet is the democratisation of technology. Development of customised high-tech solutions is no longer required for success, as ubiquitous commodity technology makes it easy to bring new product offerings to market. 
 
@@ -21,7 +21,7 @@ Results have been [less than entirely positive](http://www.androidpolice.com/201
 
 > If Android Wear is to be taken as seriously as the Apple Watch, we actually need an Android version of the Apple Watch. And these LG watches simply aren't up to the task.
 
-![](/images/unknown_filename.272.jpeg)
+![An Android Wear smart watch](/images/unknown_filename.272.jpeg)
 
 Lacking the sort of singular focus and vertical integration between hardware and software that Apple brings to bear, these watches fail to persuade, and not by a little:
 
@@ -37,7 +37,7 @@ In that case, let us look at an example outside the smartwatch market - and one 
 
 Ever since Retina displays became standard first on MacBooks[^1] and then on iMacs, Mac users have clamoured for a large external display from Apple, to replace the non-Retina Apple Thundebolt Display that still graces many desks. Bandwidth constraints meant that this was not easy to do until a new generation of hardware came to market, but Apple fans were disappointed when, instead of their long-awaited Apple Retina 5K Display, they were recommended to buy a pretty generic-looking offering from LG.
 
-![](/images/unknown_filename.269.jpeg)
+![An LG display](/images/unknown_filename.269.jpeg)
 
 Insult was added to injury when it became known that the monitor was extremely sensitive to interference, and in fact [became unusable if placed anywhere near a wifi router](https://9to5mac.com/2017/01/30/lg-ultrafine-5k-display-router-disconnecting/ "LG UltraFine 5K Display, Apple’s external monitor solution, can become unusable when near a router" ):
 
@@ -59,7 +59,7 @@ The performance of the outsourcer was *so* bad that my employer paid a terminati
 
 We went back to answering the RTFM queries ourselves, customer sat went back up into the green, and everyone was happy - well, except for the outsourcer, presumably. The company had taken back control of an important interface with its customers. 
 
-![](/images/unknown_filename.271.jpeg)
+![A games arcade](/images/unknown_filename.271.jpeg)
 
 ## Interface to Differentiate
 

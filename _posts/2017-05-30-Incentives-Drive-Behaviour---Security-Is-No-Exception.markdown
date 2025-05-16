@@ -43,7 +43,7 @@ And of course we are still dealing with the fallout from the recent [WannaCry ra
 
 ## Get to the Point!
 
-![|484x0](/images/unknown_filename.186.jpeg)
+![](/images/unknown_filename.186.jpeg)
 
 It’s easy to mock people still using Windows XP, and to say that they got no more than they deserved - but look at that quote from the Pentagon again:
 

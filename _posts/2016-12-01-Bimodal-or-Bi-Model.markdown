@@ -5,16 +5,13 @@ date:   2016-12-01
 categories:  Gartner bimodal 
 ---
 
-# Bimodal or Bi-Model
-
-
 I just attended[^1] the Gartner Data Center, Infrastructure & Operations Management Summit in London. It was an interesting event, as ever; Gartner events are expensive for both exhibitors and attendees, but they are also the highest-value events around.
 
 With all the excitement there has been about Gartner’s "bimodal IT" concept, I was curious to see whether they would double down, or whether the original idea would be modified in any way.
 
 Given that this was the sixth slide of the opening keynote, I think it’s safe to say that they are not giving up on bimodal:
 
-![](/images/steward-enabler.png)
+![It is time to change — steward of legacy technologies vs enabler of the digital revolution](/images/steward-enabler.png)
 
 As is often the case with these high-level structures, hearing it explained by its practitioners helps with reaching a deeper understanding of what bimodal IT actually means. The concern that many people have with the soundbite version of bimodal IT is that it will devolve into "two-speed" IT, with one well-funded group forging ahead with new technologies while the other scrounges around for scrap to keep old creaking systems alive. Of course nobody with any sense would want to be in the latter group, and therefore there will be substantial brain drain between the two.
 
@@ -24,11 +21,11 @@ After spending two days listening to Gartner analysts, whether during formal pr
 
 Just a few slides further into the keynote, we have this one:
 
-![](/images/technology-transaction.png)
+![Focus on what really moves the business — it's not technology, it's the transaction](/images/technology-transaction.png)
 
 It is clear that Gartner are trying to move the conversation beyond the details of which technology fits into which category. Once you move the focus to the business outcome, talking about Mode 1 and Mode 2 technologies is a short-hand for some of their characteristics.
 
-![](/images/bimodal.png)
+![Deliver business value faster — Mode 1 focuses on predictability and has a goal of stability, Mode 2 is exploratory and disruptive, focuses on flexibility and speed](/images/bimodal.png)
 
 Throughout the conference, Gartner people used the terms in this way, talking about the varying levels of agility of the different approaches, but always in terms of the business goals that are being enabled.
 
@@ -44,13 +41,13 @@ Where I do encounter visibly un-appreciated IT teams, without resources or stand
 
 The Gartner people do call out this attitude - see this slide, from that same keynote:
 
-![](/images/custodian-legacy.png)
+![Don't be a custodian of legacy technologies](/images/custodian-legacy.png)
 
 I encounter this type of push-back all the time, pushing [a new solution that is disruptive to the existing process](http://www.moogsoft.com). IT people need to be persuaded of the value of changing something that is known to work. The mantra is "if it ain’t broke, don’t mess with it" - and for very good reason! There is a point, though, when that precautionary attitude crosses over and becomes full-blown reactionary.
 
 A good sanity check is to go through [this deck](https://speakerdeck.com/caseywest/said-no-ceo-ever-things-that-dont-matter-in-the-cloud) from a presentation by Casey West, and see if you recognise yourself or your routine activities.
 
-![](/images/unknown_filename.55.jpeg)
+!["Good job picking a Linux distro!" — No CEO ever](/images/unknown_filename.55.jpeg)
 
 I get it, it’s highly technical work, it takes time, you’ll notice it if it goes wrong - but ultimately, the main metric - the *only* metric that matters - is whether IT delivered the outcome that the business required.
 
