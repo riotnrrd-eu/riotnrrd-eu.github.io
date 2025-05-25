@@ -21,9 +21,9 @@ Modern cars have finally got the idea of more frequent software updates, even in
 
 All of which brings us to [Apple's announcement of CarPlay Ultra](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/), described as bringing "the best of iPhone and the best of the car together for a deeply integrated experience".
 
-If you prefer moving pictures, there is an [extensive video from *Top Gear*](https://www.youtube.com/watch?v=EQlLjVraA9g) which goes through the whole system in some depth. 
+If you prefer moving pictures, there is an [extensive video from *Top Gear*](https://www.youtube.com/watch?v=EQlLjVraA9g) which goes through the whole system in some depth. Either way, the description pretty much covers it: CarPlay Ultra lets Apple take over rendering a whole lot more of the dashboard than before, including key elements like the gauges or the HVAC controls.
 
-Interestingly, that video also addresses what is surely the elephant in the room, namely the reluctance car makers might have to relinquish control of their primary interface to their customers. It's one thing to have a CarPlay screen in the middle of the dashboard, but taking over the primary interface, down to the speedometer and climate control? That might be a bridge too far. I have written here before about the importance of [owning your own interfaces]({% post_url 2017-02-14-Own-Your-Interfaces %}).
+Interestingly, that video also addresses what is surely the elephant in the room, namely the reluctance car makers might have to relinquish control of their primary interface to their customers. It's one thing to have a CarPlay screen in the middle of the dashboard, but taking over the primary interface, down to the speedometer and climate control? That might be a bridge too far. I have written here before about the importance of [owning your own interfaces]({% post_url 2017-02-14-Own-Your-Interfaces %}), after all.
 
 The *Top Gear* video cites Mercedes-Benz CEO Ola Källenius and his reluctance to use CarPlay instead of his own MBUX system. However, if you go to the [original interview he gave *The Verge*](https://www.theverge.com/24140551/mercedes-benz-ola-kallenius-ev-gwagen-carplay-apple), his objection is a bit more nuanced than just a dislike of giving up control of the user experience to CarPlay (or Android Auto):
 
