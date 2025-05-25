@@ -29,7 +29,7 @@ The *Top Gear* video cites Mercedes-Benz CEO Ola Källenius and his reluctance t
 
 > Everything that’s going on in this digital window into your car and to the world is not just infotainment. It’s not just the music that you listen to or the phone call that you make. Where there is another revolution going on is assisted and automated driving. Our so-called Mercedes-Benz operating system is really the central nervous system in the brain of the whole car, of which the infotainment is one of four domains.
 
-That's why it's interesting that we also get to hear from Marek Reichman, Chief Creative Officer of Aston Martin. When questions about any "reluctance on the part of Aston Martin" to commit to CarPlay Ultra, he instead talks about how constraints actually help creatives, as well as describing a process with a lot of interaction between the teams at Apple and Aston Martin.
+That's why it's interesting that we also get to hear from Marek Reichman, Chief Creative Officer of Aston Martin. When questioned about any "reluctance on the part of Aston Martin" to commit to CarPlay Ultra, he instead talks about how constraints actually help creatives, as well as describing a process with a lot of interaction between the teams at Apple and Aston Martin.
 
 That sounds like a process in which MBUX and Apple designers could find a way for CarPlay Ultra to exist on the Hyperscreen in a way that is native there — if Mercedes is willing to engage in that process. 
 
