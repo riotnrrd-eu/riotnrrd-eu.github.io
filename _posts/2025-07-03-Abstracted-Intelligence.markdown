@@ -5,7 +5,7 @@ date:   2025-07-03
 categories:  AI LLM
 ---
 
-As with any new technology, social norms around the use of GenAI are still evolving. One of the concerns is the misuse of this technology in domains such as academia, which place a premium on the publication of new original research.
+As with any new technology, social norms around the use of GenAI are still evolving. One of the concerns is the misuse of this technology in domains such as academia, which place a premium on the publication of new original research. As is so often the case, a metric has become a target, and that target is being gamed by people trying to generate more publications for themselves in order to accelerate their own careers.
 
 It's worth noting that the issue is *not* of someone using a hypothetical model to explore novel molecular structures or whatever — although there are [issues with the actual results behind the headlines](https://www.theregister.com/2024/01/31/ai_chemistry_research_disputed/). The problem is when the [papers are written largely or entirely by LLMs](https://www.nytimes.com/2025/07/02/health/ai-chatgpt-research-papers.html?unlocked_article_code=1.Tk8.t9m6.Uw9wC-2lSPI0&smid=url-share).
 
