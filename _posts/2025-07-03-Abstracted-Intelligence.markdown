@@ -19,9 +19,13 @@ Regardless, it appears that there really is a problem of articles being publishe
 > 
 > For the situation analyzed in the new paper — writing an abstract — just 23 percent of the Nature respondents said it was OK to use A.I. without acknowledging the assistance. Some 45 percent said it was acceptable only if the researcher reported using A.I., and 33 percent said it was never acceptable.
 
-Here is what boggles me: even if you are using GenAI in writing the article — perhaps because you are writing in a language you don't speak well — the abstract is the last place you should be relying on AI. The whole point of the abstract, or its cousin in the corporate world, the "executive summary", is to get across the key points of your argument to people who might never read the rest of your document. 
+Here is what boggles me: even if you are using GenAI in writing the article — perhaps because you are writing in a language you don't speak well — **the abstract is the last place you should be relying on GenAI**. 
 
-Sure, GenAI is good at summarising information, but readers can do that for themselves. Authors should be much more intimately familiar with their own data and should be able to distill what is actually important. 
+The whole point of the abstract, or its cousin in the corporate world, the "executive summary", is to get across the key points of your argument to people who might never read the rest of your document. 
+
+GenAI on the other hand will probably flatten the paper out into a paragraph or two, but there is no guarantee that the content will be actually what is most important — or of course that hallucinated/confabulated material has been inserted from elsewhere!
+
+Sure, GenAI is mostly pretty good at summarising information, but readers can do that for themselves. Authors should be much more intimately familiar with their own data and should be able to distill what is actually important. 
 
 > \[…\] since everyone has chatbots these days, why publish anything written by them? Anyone who wants to see such an analysis can generate one for themselves.
 
