@@ -5,16 +5,13 @@ date:   2022-08-04
 categories:  Uber scooters 
 ---
 
-# Good Outcomes Grow From Failure
-
-
-# Failure Is Good, Actually
+# Failure Is Good, Actually
 
 No, this is not going to be some hustleporn screed about failing fast and learning from it. I am talking about *actual* failure, crashing and burning and flaming out and really really bad outcomes. Here's my point: when these bad things happen to the right people, they can be really good for the rest of us — and not just because we can enjoy the schadenfreude of terrible people messing up in public.
 
 Here's how it works: a terrible person, let's call him [Travis](https://en.wikipedia.org/wiki/Travis_Kalanick) (for that is his name) spots an actual gap in the market: hailing taxis sucks, and when you can get one, they all mysteriously have broken credit card terminals. Travis therefore founds a company called, just for the sake of realism, Uber, and goes after that opportunity *[in the worst way imaginable](https://www.gq.com/story/uber-cab-confessions)*.
 
-![](/images/image.44.png)
+![A phone with the Uber logo on screen](/images/image.44.png)
 
 Here's the thing: Travis and Uber weren't *wrong* about the opportunity, which is why Uber took off the way it did. Uber even had a [very explicit strategy of weaponising the love users had for the service to put pressure on local governments to allow the service to launch in different locales](https://www.theguardian.com/news/2022/jul/15/the-uber-files-how-the-leak-prompted-outrage-across-the-world). This strategy succeeded in both the short and the long term, but in very different ways.
 
@@ -36,7 +33,7 @@ Now, the same mechanisms are playing out in the [dockless scooter](https://news.
 >
 > Still, last-mile transportation remains a tricky niche to fill in urban networks, and scooters do have a place in the mix. We’re not done with them yet. Just don’t expect the days—or valuations—of the peak scooter era to return any time soon.
 
-![](/images/image.45.png)
+![Bird dockless scooters parked on the street](/images/image.45.png)
 
 I have [used]({% post_url 2019-02-15-Micromobility-At-Macro-Scale %}) these services, and broadly speaking, I'm a fan. They are not worth bazillions of CURRENCY_UNITS because they are obviously terrible markets for the purpose: low barriers to entry, and operating costs that scale linearly with network size.
 
@@ -46,6 +43,7 @@ I just hope that we can reach the same result as Uber — all of the good aspect
 
 Moses did not get to see the Promised Land. Uber and Lime are still with us, but with rather diminished ambitions. But as long as we get to that promised land of a fully-integrated and ubiquitous transport network, the creative destruction was worth it, and we travellers will be happy.
 
-***
+*** 
+
 🖼️  Photos by [Austin Distel](https://unsplash.com/@austindistel) and [Hello I'm Nik](https://unsplash.com/@helloimnik) on [Unsplash](<https://www.unsplash.com>)
 
