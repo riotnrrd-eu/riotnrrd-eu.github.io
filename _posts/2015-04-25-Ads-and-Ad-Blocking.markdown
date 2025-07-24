@@ -2,7 +2,7 @@
 layout: post
 title:  Ads and Ad Blocking 
 date:   2015-04-25 
-categories:  advertising 
+categories:  advertising adtech
 ---
 
 In case you are new to this Internet thing, there has been a long-running debate about advertising on the web. Basically, what it boils down to is that nobody has really found a way to pay for doing things on the internet *at scale* that does not involve displaying advertising to users. 
@@ -11,13 +11,13 @@ While it is true that display advertising involves less friction than a paywall,
 
 The other problem is a variation: just because the ad has been retrieved by a web browser that has an actual human customer - or at least a prospective customer - sitting in front of it, does not mean that the ad gets *displayed* to that customer. 
 
- ![](/images/unknown_filename.5.jpeg) 
+ ![A man sitting on a wall, looking out at a valley vista, and not generating any tracking data.](/images/unknown_filename.5.jpeg) 
 
 These days, most advertising is fairly benign, but in the early days it was a bit of a Wild West out there, with pop-overs, pop-unders, interstitials, and so on. In those dark times normal ad blockers were insufficient, so I used a Firefox add-on called [Greasemonkey](http://en.wikipedia.org/wiki/Greasemonkey) to actually rewrite web pages on the fly and remove the worst excesses. Nowadays, apart from a few sites (*ahem* Forbes *ahem*) that stick by the interstitial, most of those early techniques have mercifully died out. 
 
 However, old habits die hard, plus some people seem to be actively offended by ads - in the content they are getting for free, let's not forget - and so very many people routinely use ad blockers in their web browsers. 
 
-There has been some [debate](http://venturebeat.com/2015/04/04/is-ad-blocking-theft "Is ad blocking theft? | Venturebeat") about whether this actually constitutes theft, although a German court has recently [ruled](http://www.theregister.co.uk/2015/04/21/german_court_rules_adblocking_ist_gut/ "Ad-blocking is LEGAL: German court says Ja to browser filters" ) that it does not meet the legal definition of theft. 
+There has been some [debate](http://venturebeat.com/2015/04/04/is-ad-blocking-theft "Is ad blocking theft?") about whether this actually constitutes theft, although a German court has recently [ruled](http://www.theregister.co.uk/2015/04/21/german_court_rules_adblocking_ist_gut/ "Ad-blocking is LEGAL: German court says Ja to browser filters") that it does not meet the legal definition of theft. 
 
 Regardless, I feel that it meets my *moral* definition of theft. Companies put out content with the expectation of being paid for it, so it seems churlish at best for me to enjoy the content but refuse them the chance to make a fraction of a penny from their advertisers off my enjoyment. There is a line, but nowadays I am more likely simply not to visit offending sites than to try to bypass the ads. 
 
@@ -33,5 +33,6 @@ In this situation, the best users can do is to try to tread the middle ground, w
 
 The good news is that I am beginning to see new services that appear to be making subscription models work. I don't know whether this is a function of the particular niches they are in and that catch my interest, my age (I'm a leading-edge "digital native", surfing just ahead of obsolescence), or my disposable income and consequent willingness to pay for good content - but the bottom line is that I don't even see banner ads any more, so it's an easy moral decision to make.
 
-***
-Image by [Joshua Earle](http://www.joshuaearlephotography.com/ "JOSHUA EARLE PHOTOGRAPHY") via [Unsplash](https://unsplash.com)
+*** 
+
+🖼️  Image by [Joshua Earle](http://www.joshuaearlephotography.com/ "JOSHUA EARLE PHOTOGRAPHY") via [Unsplash](https://unsplash.com)

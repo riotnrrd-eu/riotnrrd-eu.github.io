@@ -5,10 +5,7 @@ date:   2019-01-18
 categories:  marketing privacy advertising adtech 
 ---
 
-# Advertise With The End In Mind
-
-
-![](/images/unknown_filename.9.png)
+![A blank billboard](/images/unknown_filename.9.png)
 
 Even though I no longer work directly in marketing, I’m still adjacent, and so I try to keep up to date with what is going on in the industry. One of the most common-sensical and readable voices is Bob Hoffman, perhaps better known as the Ad Contrarian. His latest post is entitled [The Simple-Minded Guide To Marketing Communication](http://adcontrarian.blogspot.com/2019/01/the-simple-minded-guide-to-marketing.html), and it helpfully dissects [the difference between brand advertising and direct-response advertising]({% post_url 2015-10-21-Enterprise-Brand-Advertising %}):
 
@@ -29,5 +26,6 @@ This is of course because knowing someone is reading the NYT, and perhaps which 
 The NYT sells its own ads, which is not really scalable for most outlets, but I hope other people are paying attention. Maybe there is room in the market for an advertising offering that does not force users to deal with cookies and surveillance and interstitial screens and [page clutter]({% post_url 2019-01-08-The-User-Unfriendly-Web %}) and general creepiness and annoyance, while still delivering the goods for its clients?
 
 ***
+
 🖼️ Photo by [Kate Trysh](http://trysh.photo) on [Unsplash](http://www.unsplash.com)
 
