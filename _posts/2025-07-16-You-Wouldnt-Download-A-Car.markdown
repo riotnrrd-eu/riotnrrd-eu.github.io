@@ -30,7 +30,7 @@ In this scenario, Uber has won out, because [the race to self-driving tech is ex
 
 > Here is where we come to the second reason behind the urgency in the development of self-driving tech: Uber’s business model depends on it. Right now they are haemorrhaging money – over a billion-with-a-B _per quarter_ in 2017 – in a race to achieve market dominance before they run out of cash (or investors willing to give them more). **Much of that cost goes to their human drivers; if those could be replaced with automated systems, the cost would go away at a stroke, and they would also achieve much higher utilisation rates on their fleet of vehicles.**
 
-However, Uber has won by giving up on developing the technology in-house, and instead partnering with a provider, Baidu, who already has a (somewhat) proven solution.
+However, Uber has won by giving up on developing the technology in-house, and instead partnering with a provider, Baidu, which already has a (somewhat) proven solution.
 
 Of course I would never put it past Elon Musk to keep the hype going just a little while longer, but this mismatch between the tech and the business model[^1] was always an obvious weakness that was looming in Tesla's future. With this Uber-Baidu tie-up, that future just got a whole lot closer.
 

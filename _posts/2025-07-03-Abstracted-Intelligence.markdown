@@ -11,7 +11,7 @@ It's worth noting that the issue is *not* of someone using a hypothetical model 
 
 ![Old-school typewriter](/images/denise-jans-dDm-GcvPnqg-unsplash.jpg)
 
-Of course the first step is detecting when an AI has been used to write part or all of a paper. I am instinctively suspicious of claims that specific word choices or sentence structures might be a telltale sign of the use of GenAI, not least because I am an inveterate user of the humble em-dash, despite the [recent accusations that only LLMs use it](https://www.rollingstone.com/culture/culture-features/chatgpt-hypen-em-dash-ai-writing-1235314945/). After all, LLMs are trained on a corpus of grammatically correct and well-structured text, so it is not that surprising that their outputs might come across as perhaps more erudite and better-structured than the baseline of text on the Web.
+Of course the first step is detecting when an AI has in fact been used to produce a piece of text. I am instinctively suspicious of claims that specific word choices or sentence structures might be a telltale sign of the use of GenAI, not least because I am an inveterate user of the humble em-dash, despite the [recent accusations that only LLMs use it](https://www.rollingstone.com/culture/culture-features/chatgpt-hypen-em-dash-ai-writing-1235314945/). After all, LLMs are trained on a corpus of grammatically correct and well-structured text, so it is not that surprising that their outputs might come across as perhaps more erudite and better-structured than the baseline of text on the Web.
 
 Regardless, it appears that there really is a problem of articles being published in (formerly?) reputable scientific journals that have not only been written in this way, but so poorly edited that they still contain *actual* tell-tales — such as the phrase “I’m very sorry but I don’t have access to real time-information or patient-specific data as I am an AI language model.”
 
@@ -23,7 +23,7 @@ Here is what boggles me: even if you are using GenAI in writing the article — 
 
 The whole point of the abstract, or its cousin in the corporate world, the "executive summary", is to get across the key points of your argument to people who might never read the rest of your document. 
 
-GenAI on the other hand will probably flatten the paper out into a paragraph or two, but there is no guarantee that the content will be actually what is most important — or of course that hallucinated/confabulated material has been inserted from elsewhere!
+GenAI on the other hand will probably flatten the paper out into a paragraph or two, but there is no guarantee that the result will actually contain what is most important — or of course that hallucinated/confabulated material has not been inserted from elsewhere!
 
 Sure, GenAI is mostly pretty good at summarising information, but readers can do that for themselves. Authors should be much more intimately familiar with their own data and should be able to distill what is actually important. 
 
