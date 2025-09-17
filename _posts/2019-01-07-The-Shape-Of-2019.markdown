@@ -7,12 +7,14 @@ categories:  cars privacy social social-media Uber
 
 > They said they need real-world examples, but I don’t want to be their real-world mistake
 
-![](/images/unknown_filename.430.png)
+![A broken bowl](/images/unknown_filename.430.png)
 
-That quote comes from a [NYT story about people attacking self-driving vehicles](https://www.nytimes.com/2018/12/31/us/waymo-self-driving-cars-arizona-attacks.html). I wrote [about these sentiments before](), after the incident which spurred these attacks:
+That quote comes from a [NYT story about people attacking self-driving vehicles](https://www.nytimes.com/2018/12/31/us/waymo-self-driving-cars-arizona-attacks.html). I wrote [about these sentiments before]({% post_url 2018-03-30-When-Robots-Kill %}), after the incident which spurred these attacks:
 
 > It’s said that you shouldn’t buy any 1.0 product unless you are willing to tolerate significant imperfections. Would you ride in a car operated by software with significant imperfections?
+> 
 > Would you cross the street in front of one?
+> 
 > And shouldn’t you have the choice to make that call?
 
 Cars are just the biggest manifestation of this experimentation that is visible in the real world. How often do we have to read about [Facebook manipulating the content of users’ feeds]({% post_url 2014-06-18-Privacy?-on-the-Internet? %}) – just to see what happens? 
@@ -21,6 +23,6 @@ Meanwhile, my details were included in last year’s big [Marriott hack](https:/
 
 I don’t want to be any company’s real world mistake in 2019.
 
-***
-🖼️ Photo by [chuttersnap](http://chuttersnap.com) on [Unsplash](http://www.unsplash.com)
+*** 
 
+🖼️ Photo by [chuttersnap](http://chuttersnap.com) on [Unsplash](http://www.unsplash.com)

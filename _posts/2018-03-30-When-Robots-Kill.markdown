@@ -5,11 +5,11 @@ date:   2018-03-30
 categories: cars Uber 
 ---
 
-This is not a breaking-news blog. Instead, what I try to do here is bring together different strands of thinking about an issue – hence the name: *Find The Thread**.
+This is not a breaking-news blog. Instead, what I try to do here is bring together different strands of thinking about an issue – hence the name: *Find The Thread*.
 
 This is why I’m going to comment on the tragic [story of the woman struck and killed by a “self-driving” Uber car in Arizona](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html), even though the collision occurred more than a week ago.
 
-![](/images/101121.jpg)
+![An SUV with sensors on the roof, stopped in the road. A policeman is also visible.](/images/101121.jpg)
 
 # A Question Of Levels
 
@@ -17,7 +17,7 @@ We generally talk about levels of autonomy in driverless cars. Level 0 is the so
 
 In all of these cases, the driver is required to still be present and alert, ready to take over the driving at a moment’s notice. The goal is to get to Level 4 and 5, which is where the driver can actually let go of the wheel entirely. Once Level 5 is commonplace, we will start seeing cars built without manual controls, as they will no longer be required.
 
-![](/images/IMG_0274.JPG)
+![Chart of levels of self-driving technology, as described above.](/images/IMG_0274.JPG)
 
 The problem, as [Benedict Evans points out](https://www.ben-evans.com/benedictevans/2018/3/26/steps-to-autonomy), is that this will not be a universal roll-out. As I have written myself, autonomous driving technology is likely to be rolled out gradually, with [easy use cases such as highway driving coming first]({% post_url 2017-01-19-Thinking-Two-Steps-Behind %}).
 
@@ -56,7 +56,7 @@ This is a typical technology-first fix: if you can’t solve the problem one way
 
 Here is where we come to the second reason behind the urgency in the development of self-driving tech: Uber’s business model depends on it. Right now they are haemorrhaging money – over a billion-with-a-B *per quarter* in 2017 – in a race to achieve market dominance before they run out of cash (or investors willing to give them more). Much of that cost goes to their human drivers; if those could be replaced with automated systems, the cost would go away at a stroke, and they would also achieve much higher utilisation rates on their fleet of vehicles.
 
-![](/images/iu.jpg)
+![Google's experimental driverless car/pod/thing](/images/iu.jpg)
 
 In this view, self-driving cars are both an offensive move against Uber’s competitors, and a defensive one in case the likes of Google get there first and undercut Uber with their little pod-cars.
 
@@ -72,4 +72,6 @@ It’s said that you shouldn’t buy any 1.0 product unless you are willing to t
 
 Would you cross the street in front of one?
 
-And shouldn’t you have the choice to make that call? This is why, despite claims that [the EU’s strategy on AI is a failure](https://www.politico.eu/article/opinion-europes-ai-delusion/), I like their go-slow approach. Sure, roll out 1.0 animoji or cat-ear filters, but before we rely on computer vision not to run people over, or [fine them for jaywalking](http://www.newsweek.com/jaywalking-china-facial-recognition-surveillance-will-soon-fine-citizens-text-861401) or whatever, we should maybe stop and think about that for a moment.
+And shouldn’t you have the choice to make that call? 
+
+This is why, despite claims that [the EU’s strategy on AI is a failure](https://www.politico.eu/article/opinion-europes-ai-delusion/), I like their go-slow approach. Sure, roll out 1.0 animoji or cat-ear filters, but before we rely on computer vision not to run people over, or [fine them for jaywalking](http://www.newsweek.com/jaywalking-china-facial-recognition-surveillance-will-soon-fine-citizens-text-861401) or whatever, we should maybe stop and think about that for a moment.
