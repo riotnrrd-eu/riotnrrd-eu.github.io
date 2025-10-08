@@ -65,11 +65,11 @@ Let's take that ubiquitous example of travel booking. I do actually need to go t
 
 Already we hit a snag: even counting only direct flights between Milan and London, there are half a dozen carriers, ranging from flag carriers to discount airlines, offering flights at different times of day, and probably tens of thousands of hotels in London. How are we narrowing that down?
 
-Assume the bot has a profile of me, with my loyalty cards, travel preferences, and budget — and since this is a work trip, applicable expense policy[^2]. 
+- Assume the bot has a profile of me, with my loyalty cards, travel preferences, and budget — and since this is a work trip, applicable expense policy[^2]. 
 
-Assume further that the bot knows my schedule for the trip, so it can filter by time of arrival, hotels within a reasonable distance, and so on.
+- Assume further that the bot knows my schedule for the trip, so it can filter by time of arrival, hotels within a reasonable distance, and so on.
 
-And of course, assume that each airline, hotel chain, and travel-booking portal has some sort of interface that the bot can communicate with — and do so in a reasonable amount of time.
+- And of course, assume that each airline, hotel chain, and travel-booking portal has some sort of interface that the bot can communicate with — and do so in a reasonable amount of time.
 
 That's starting to look like a lot of assumptions, but okay, we now have a list of suitable flights and hotels. How do I decide which to book?
 
@@ -77,7 +77,7 @@ Maybe two airlines have a similar up-front price, but one will charge me for a c
 
 Maybe a conversation with the AI bot can help me make these determinations, but we are back to discrete tasks again. It's not a fire-and-forget request; it's a whole process, spanning many different disconnected systems. If the operators of those systems design their *human-facing* interfaces well, I can get through the whole process much faster using those specialised tools, rather than trying harder and harder to contort a general-purpose tool until it conforms to my will.
 
-That general-purpose tool is useful, mind you. I lived in London for years and still visit frequently, so in this case I wouldn't need a bot's assistant, but when visiting a city I'm not familiar with, something that would be useful would be a quick update on the state of the travel network, any planned strikes or weather events which might affect my trip, and any fun events I might want to catch in my (entirely hypothetical) downtime. But none of that requires the omniscient planning bot I described above for the sake of assumption. It's more of a set of questions: "what's the best way to get downtown during rush hour" or "I have two hours free on Wednesday morning, what current exhibitions are open then".
+That general-purpose AI tool can still be useful, mind you. I lived in London for years and still visit frequently, so in this case I wouldn't need a bot's assistant, but when visiting a city I'm not familiar with, something that would be useful would be a quick update on the state of the travel network, any planned strikes or weather events which might affect my trip, and any fun events I might want to catch in my (entirely hypothetical) downtime. But none of that requires the omniscient planning bot I described above for the sake of assumption. It's more of a set of open questions: "what's the best way to get downtown during rush hour" or "I have two hours free on Wednesday morning, what current exhibitions are open then".
 
 ![A busy office](/images/arlington-research-kN_kViDchA0-unsplash.jpg)
 
