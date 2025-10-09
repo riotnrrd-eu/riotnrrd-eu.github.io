@@ -2,11 +2,8 @@
 layout: post
 title:  App Stores & Missing Perspectives 
 date:   2022-02-14 
-categories:  Apple App-Store 
+categories:  Apple App-Store EU
 ---
-
-# App Stores & Missing Perspectives
-
 
 In Apple-watching circles, there has long been some significant frustration about Apple's App Store policies. Whether it's the opaque approvals process, the swingeing 30% cut that Apple takes out of any purchase, or the restrictions on what types of apps and pricing models are even allowed, developers are not happy.
 
@@ -18,7 +15,7 @@ With the addition of in-app purchase (IAP) the next year, and subscriptions a co
 
 # What's Not To Like?
 
-This all sounds very fine, but developers are up in arms over Apple's perceived high-handed or even downright rapacious behaviour when it comes to the App Store. Particular sticking points are requirements that apps in the App Store use only Apple's payment system, and that apple’s own in-app purchasing mechanism be used for any digital experience offered to groups of people. The first requirement touched off a lawsuit from Epic, who basically wanted to have their own private store for in-game purchases, and the second resulted in [some bad press](https://www.macrumors.com/2021/04/22/apple-extends-in-app-purchase-event-requirement/) early in the pandemic when Apple started doing things like chasing fitness instructors who were providing remote classes while they were unable to offer face-to-face sessions.
+This all sounds very fine, but developers are up in arms over Apple's perceived high-handed or even downright rapacious behaviour when it comes to the App Store. Particular sticking points are requirements that apps in the App Store use only Apple's payment system, and that Apple’s own in-app purchasing mechanism be used for any digital experience offered to groups of people. The first requirement touched off a lawsuit from Epic, who basically wanted to have their own private store for in-game purchases, and the second resulted in [some bad press](https://www.macrumors.com/2021/04/22/apple-extends-in-app-purchase-event-requirement/) early in the pandemic when Apple started doing things like chasing fitness instructors who were providing remote classes while they were unable to offer face-to-face sessions.
 
 The bottom line is that many of these transactions simply do not have a 30% margin in the first place, let alone the ability to still make any profit after giving Apple a 30% (or even a 15%) cut. This might seem to be a problem for developers, but not really for anyone else — but what gave this issue resonance beyond the narrow market of iOS developers is that the world has moved on since 2008.
 
