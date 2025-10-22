@@ -5,10 +5,7 @@ date:   2014-08-06
 categories:  Australia 
 ---
 
-# Australia
-
-
-![](/images/unknown_filename.44.jpeg)
+![Me meeting a kangaroo](/images/unknown_filename.44.jpeg)
 
 So I finally got to go to Australia and use those weird slanty bits on my international power adaptors. I also met and ate kangaroo - not the same actual individual, but still. That photo above is taken within shouting distance of the Australian Parliament in Canberra, by the way.  
 
@@ -26,9 +23,6 @@ This is very much like what happens in established corporations. You can't just 
 
 If you have the advantage of building on an empty plain, it is **much** easier just to go build whatever it is[^1] without having to worry about the layers of things that people already built on top of other things that were already in that spot. Startup companies have the advantage that young cities have, of being able to go out with measuring tools and a clean sheet of paper and draw up an ideal system. Those of us with a bit more history have to make messy compromises with our past choices.  
 
-***
-
-Update: Here is the [trip report](http://www.bmc.com/blogs/intelligent-compliance-down-under-the-secops-gap/ "Intelligent Compliance Down Under – the SecOps Gap" ) on my work blog.
+*** 
 
 [^1]: Yes, I am papering over the issue of people who might have been roaming that plain before you arrived. The map is not the territory, and the analogy is imperfect.
-
