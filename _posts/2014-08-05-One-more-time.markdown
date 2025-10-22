@@ -9,7 +9,7 @@ I have worked all my career in enterprise IT, either as a sysadmin, or for vendo
 
 One area is the difference between a brand-new startup whose entire IT estate consists of a handful of bestickered MacBooks, and a decades-old corporation with the legacy IT that history brings. Case in point: [Google is stealing away Microsoft’s future corporate customers](http://qz.com/243321/Google-is-stealing-away-microsofts-future-corporate-customers/ "Google is stealing away Microsoft’s future corporate customers").  
 
-![](/images/unknown_filename.266.png)  
+![Where 150 companies host their email — The Fortune 50 are mostly Not Google, mid-size tech and media are evenly split, and Y-Combinator startups are mostly on Google](/images/unknown_filename.266.png)  
 
 Basically, it turns out that - to absolutely nobody's surprise - startups overwhelmingly use Google's email services. Guess what? Running your own email server for just a few users is not a highly differentiating activity, so it makes sense to hand it off to Google. Big companies on the other hand have a legacy that means it makes sense to stick with what they have and know, which generally means Microsoft Exchange.  
 
@@ -17,7 +17,7 @@ So far, so good. The key factor that is missing in this analysis is time. What h
 
 It is now clear that Google does deep inspection of email contents. So far, this appears to be done for good: [Paedophile snared as Google scans Gmail for images of child abuse](http://www.telegraph.co.uk/technology/news/11012008/Paedophile-snared-as-Google-scans-Gmail-for-images-of-child-abuse.html "Paedophile snared as Google scans Gmail for images of child abuse"). However, if I were in a business that competes with Google - and these days, that could be **any**thing - I would feel distinctly uncomfortable about that. 
 
-![](/images/unknown_filename.267.jpeg)  
+![New York City](/images/unknown_filename.267.jpeg)  
 
 There are also problems of corporate policy and compliance that apply to proper grown-up companies. At the simplest level, people often have their own personal Gmail accounts as well, and with Google's decision to use that login for all their services, there is enormous potential for bleed-over between the two domains. At a more complex level, certain types of data may be required to be stored in such a way that no third parties (such as Google) have access to them. Gmail would not work for that requirement either.  
 
