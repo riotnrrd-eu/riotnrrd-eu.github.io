@@ -21,15 +21,7 @@ Simplifying enormously, LLMs will try to give a statistically probably response 
 
 LLMs do not work like this. 
 
-An LLM will return something that looks like a statistically probable response to prompts similar to what was entered. Sometimes that will be a real legal precedent or whatever, and sometimes it will be something that *looks* like a legal precedent, but has no basis in our actual consensus 
-[text]({% post_url  %})
-
-![](/images/)
-
-
-***
-
-🖼️  Photos by [name](link) on [Unsplash](https://www.unsplash.com)reality. The key point is that this is not some sort of error that can be corrected, or a bug that can be ironed out in future versions. This is how LLMs work; it's why they are so good at generating convincing text, but it's also why they cannot be used like search engines.
+An LLM will return something that looks like a statistically probable response to prompts similar to what was entered. Sometimes that will be a real legal precedent or whatever, and sometimes it will be something that *looks* like a legal precedent, but has no basis in our actual consensus reality. The key point is that this is not some sort of error that can be corrected, or a bug that can be ironed out in future versions. This is how LLMs work; it's why they are so good at generating convincing text, but it's also why they cannot be used like search engines.
 
 That is where RAG comes in: the LLM is used as a conversational interface to a database, but the hard data for the response comes from the database, not from the LLM.
 
