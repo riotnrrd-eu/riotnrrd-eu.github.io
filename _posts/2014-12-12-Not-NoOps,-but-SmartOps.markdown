@@ -5,14 +5,11 @@ date:   2014-12-12
 categories:  devops NoOps 
 ---
 
-# Not NoOps, but SmartOps
-
-
 ### Or, **Don't work harder, work smarter**
 
 I have always been irritated by some of the more extreme rhetoric around DevOps. I especially hate the way DevOps often gets simplified into blaming everything that went wrong in the past on the Ops team, and explicitly minimising their role in the future. At its extreme, this tendency is encapsulated by the *NoOps* movement.
 
-This is why I was heartened to read [There is no such thing as NoOps](http://www.itskeptic.org/content/there-no-such-thing-noops-it-awful-word "There is no such thing as NoOps: it is an awful word | The IT Skeptic"), by the reliably acerbic IT Skeptic.
+This is why I was heartened to read [There is no such thing as NoOps](http://www.itskeptic.org/content/there-no-such-thing-noops-it-awful-word "There is no such thing as NoOps: it is an awful word" ), by the reliably acerbic IT Skeptic.
 
 Annoyingly, in terms of the original terminology, I quite agree that we need to get rid of Ops. Back in the day, there was a distinction between [*admins*](http://en.wikipedia.org/wiki/System_administrator) and [*ops*](http://en.wikipedia.org/wiki/Computer_operator). The sysadmins were the senior people, who had deep skills and experience, and generally spent their time planning and analysing rather than executing. The operators were typically junior roles, often proto-sysadmins working through an apprenticeship.
 

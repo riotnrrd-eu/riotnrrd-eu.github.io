@@ -5,16 +5,13 @@ date:   2021-04-11
 categories:  Agile ITOM 
 ---
 
-# The Changing Value Of Mistakes
-
-
 The simplest possible definition of experience would equate it to **mistakes**. In other words, experience means having made many mistakes — and with any luck, learned from them.
 
 This transubstantiation of mistakes into experience does rely on one hidden assumption, though, which is that the environment does not change too much. Experience is only valid as long as the environment in which the mistakes are made remains fairly similar to the current one. If the environment changes enough, the experience learned from those mistakes becomes obsolete, and new mistakes need to be made in the changed conditions in order to build up experience that is valid in that situation.
 
 This reflection is important because there is a cultural misunderstanding of Ops and SRE that I see over and over — twice just this morning, hence this post.
 
-![](/images/image.111.png)
+![A file labelled "MISTAKE"](/images/image.111.png)
 
 # I Come Not To Bury Ops, But To Praise It
 
@@ -38,7 +35,7 @@ The problem is when this healthy immune response is taken too far, and the resis
 
 The reason why resistance to change can continue too long is precisely because the Ops' team's experience is the product of mistakes made over time. With each mistake that we make, we learn to avoid that particular mistake in the future. The experience that we gain this way is valuable precisely because it means that we are not constantly making mistakes – or at least, not the same obvious ones.
 
-![](/images/image.110.png)
+![A neon sign reading "IT BEGAN AS A MISTAKE"](/images/image.110.png)
 
 # Learning By Making Mistakes
 
@@ -48,7 +45,7 @@ We look for experts to run critical systems precisely because they have made mis
 
 Change devalues expertise because it creates scope for new mistakes that have not been experienced before, and which people have not yet learned to avoid.
 
-![](/images/image.112.png)
+![A stack of paper files](/images/image.112.png)
 
 # Run The Book
 
@@ -64,7 +61,7 @@ The best approach these days centres on **agility**, working around many small p
 
 New technologies and processes these days embrace this agility, enabling that staged adoption with easy self-serve evaluations, small starting commitments, and consumption-based models. This way, people can try out the new proposed approaches, understand what benefits they offer, and make their own decisions about when to make a more wholesale move to a new system.
 
-![](/images/image.113.png)
+![Plastic athletes hurdling electronic components](/images/image.113.png)
 
 # Small Mistakes Enable Big Changes
 
@@ -78,7 +75,8 @@ Experience is learning from mistakes, but if the environment changes, new mistak
 
 Stasis on the technology side leads to stasis in the organisation. Don’t let natural caution turn into resistance to change for its own sake.
 
-***
+*** 
+
 🖼️  Photos by [Daniela Holzer](http://danielaholzer.me), [Varvara Grabova](https://unsplash.com/@santabarbara77), [Sear Greyson](https://unsplash.com/@seargreyson) and [John Cameron](https://unsplash.com/@john_cameron) on [Unsplash](https://www.unsplash.com)
 
 [^1]: On the other hand, blaming such front-page news on "human error" is also a cop-out. Major failures are not the fault of an individual operator who fat-fingered one command: they are the ultimate outcome of strategic failures in process and system design that enabled that one mistake to have such strategic consequences.
