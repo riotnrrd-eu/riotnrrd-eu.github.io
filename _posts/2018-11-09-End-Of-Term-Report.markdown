@@ -5,12 +5,9 @@ date:   2018-11-09
 categories:  cars Porsche 
 ---
 
-# End Of Term Report
+I bought a new car today. More on that later, but for now, I wanted to give a proper send-off to [the Beast]({% post_url 2016-05-17-Stupid-Car-Review,-One-Year-In %}).
 
-
-I bought a new car today. More on that later, but for now, I wanted to give a proper send-off to [the Beast]().
-
-![](/images/unknown_filename.129.png)
+![A Porsche Cayenne parked beside a Dodge Ram](/images/unknown_filename.129.png)
 
 ###### The Beast in a rare moment of looking small beside another car
 
@@ -26,7 +23,7 @@ Moving smoothly off the line is a better bet. Once the Beast is rolling, the com
 
 That rush never gets old, and the looks of shock and awe on the face of other drivers when they see a big SUV move like that are just the icing on the top.
 
-![](/images/unknown_filename.130.png)
+![The same Porsche Cayenne in the Alps](/images/unknown_filename.130.png)
 
 However, the Beast is getting to be an old lady, and there are more big bills lurking in its future. The timing belts will need doing soon, as will all four brake disks. I also had to send the summer tyres for recycling, and the sorts of compounds the Beast requires are fearsomely expensive, especially given the sheer acreage of rubber involved. Finally, even though it’s over ten years old and therefore benefits from the maximum discount, Italy’s horsepower tax is just too painful to deal with any longer.
 

@@ -5,9 +5,6 @@ date:   2016-05-17
 categories:  cars Porsche CarPlay 
 ---
 
-# Stupid Car Review, One Year In
-
-
 *Since I just renewed the insurance on the ridiculous thing, I thought it an appropriate time to look back on a year with a very silly car.*
 
 A year ago I had just [quit my job]({% post_url 2015-04-30-Spring-is-a-time-for-new-beginnings %}). The old job was one of the few that still came with a company car, so I had to get myself a new car quickly to be able to drive to the airport for the new gig. Luckily I’m a <del>fool</del> car nut, so I had a short list ready to deploy. (As it happens, I have a [short list]({% post_url 2016-01-14-Dream-Garage %}) for every occasion…)
@@ -24,7 +21,7 @@ Let's review some of the relevant stats (emphasis mine):
 
 Beyond a certain point, I think car manufacturers should just do like Rolls-Royce and simply declare horsepower to be "adequate".
 
-![](/images/thumb_IMG_0105_1024.jpg)
+![A Porsche Cayenne Turbo in its natural habitat: a petrol station](/images/thumb_IMG_0105_1024.jpg)
 
 Since I bought it I’ve put 30k on it with zero maintenance issues so far, apart from a single burned-out light bulb (touch wood). Sure, it drinks like a drunken sailor with a drinking problem who’s really thirsty and also isn’t paying for his own drinks, and likes to wash its drink down with the occasional drop of oil too - but every time I put my foot down I forgive it. Basically it’s the cheapest way I could find to drive something fun that could haul the kids and all their clobber. It also very definitely has *presence* - looming suddenly into someone’s rear view mirror generally causes them to jump out of the way pretty promptly, and if they don’t move over, the xenons are probably bright enough to give them sunburn.
 
@@ -50,7 +47,7 @@ Tyre prices are equally terrifying, but when you see the sheer acreage of rubber
 
 On the plus side of that equation, Porsche ownership gets you invited to Porsche events - so last weekend found me haring around the Circuito Tazio Nuvolari in the new 718 Boxster S, before hitting the handling track in the new 911 C4S (the one with the rear-wheel steering - very nice).
 
-![](/images/thumb_IMG_0107_1024.jpg)
+![The same Porsche Cayenne Turbo from the back](/images/thumb_IMG_0107_1024.jpg)
 
 ## What would you change
 
@@ -58,7 +55,7 @@ I already changed the one thing that really bugged me, which was the in-car ente
 
 I replaced the original ICE system with [an Alpine head unit](http://alpine-usa.com/product/view/carplay-ilx-007/ "Alpine ILX-007") with CarPlay[^1], so now I just plug my iPhone into the armrest where that phone handset used to go, and I have all my music, podcasts, and maps on the screen in the dashboard. There’s even a dedicated Siri button, so the Son&Heir can tell her to "play some Ramones" as soon as he gets in the car. I had to get an additional amp to feed the (very nice) Bose system that the car came with, but I am very happy with the results.
 
-![](/images/IMG_0697.JPG)
+![Interior shot with the Alpine head unit in place and showing the CarPlay GUI](/images/IMG_0697.JPG)
 
 The only other thing I am tempted to change is the exhaust. There’s a lovely burble when starting the engine from cold, but unless you’re really hoofing it, it’s pretty subtle on the move. (Tunnels are great fun, though!) I would quite like to hear more of the engine’s voice, but I can’t really justify the four-figure cost, especially for something that would probably make my wife’s eyes roll *right back into her head*.
 
