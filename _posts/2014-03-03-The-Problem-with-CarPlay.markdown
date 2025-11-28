@@ -5,9 +5,9 @@ date:   2014-03-03
 categories:  cars tech Apple CarPlay 
 ---
 
-Today at the Geneva International Motor Show, [Apple announced CarPlay](https://www.apple.com/pr/library/2014/03/03Apple-Rolls-Out-CarPlay-Giving-Drivers-a-Smarter-Safer-More-Fun-Way-to-Use-iPhone-in-the-Car.html), with is the new name for "iOS in the car”. It looks great!
+Today at the Geneva International Motor Show, [Apple announced CarPlay](https://www.apple.com/pr/library/2014/03/03Apple-Rolls-Out-CarPlay-Giving-Drivers-a-Smarter-Safer-More-Fun-Way-to-Use-iPhone-in-the-Car.html), which is the new name for "iOS in the car”. It looks great!
 
-![](/images/unknown_filename.413.jpeg)
+![Screen in car dashboard showing CarPlay GUI](/images/unknown_filename.413.jpeg)
 
 They are pitching it as "a smarter, safer & more fun way to use iPhone in the car”, and I love the concept. We upgrade our phones every year or two, but our cars much less frequently than that. In-car entertainment systems are limited by the automotive industry’s product cycles, so they are basically already obsolete (in consumer terms) by the time the car hits the showroom. Enabling cars to piggy-back on the smart, GPS-navigating, voice-recognising, music-playing computers that we *already carry in our pockets* can only be a good thing.
 
