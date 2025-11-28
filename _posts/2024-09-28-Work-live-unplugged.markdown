@@ -5,7 +5,7 @@ date: 2024-09-28
 categories: work WfH AI
 ---
 
-The argument that is most often made to justify forcing remote workers to return to the office is the increased creativity, camaraderie, and opportunity for ad-hoc collaboration. To be clear, I am very much in favour of all of these things! What you need is [balance between creative collaboration and focused alone time]({% post_url 2020-03-11-Working-From-Home-Is-Good,-Actually %}).
+The argument that is most often made to justify forcing remote workers to return to the office is the increased creativity, camaraderie, and opportunity for ad-hoc collaboration. To be clear, I am very much in favour of all of these things! But they are not sufficient alone. What you need is [balance between creative collaboration and focused alone time]({% post_url 2020-03-11-Working-From-Home-Is-Good,-Actually %}).
 
 ![AI avatar interviewing a nonplussed human candidate](/images/AI-interview.png)
 
