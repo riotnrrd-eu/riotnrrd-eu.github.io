@@ -2,7 +2,7 @@
 layout: post
 title:
 date: 2025-11-24
-categories:
+categories: AI
 ---
 
 For all the talk of AI transforming our society and economy, hard data on real world adoption is still very hard to come by. Benedict Evans' latest update to his "[AI Eats the World](https://www.youtube.com/watch?v=niJpDnNtNp4)" presentation notes that in the context of the sort of total revolution in human affairs that GenAI is supposed to be, weekly active users are not remotely the right metric. How transformative is something that you use maybe once a week, really?
