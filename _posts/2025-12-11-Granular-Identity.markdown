@@ -39,7 +39,7 @@ When I log in, I experience blessed quiet in the UI, with nothing jumping out at
 
 # Fog In Channel, Continent Cut Off[^2]
 
-This whole system is not quite the [benevolent Big Brother]({% post_url 2013-10-23-Why-can't-Big-Brother-ever-lift-a-finger-to-help-out/ %}) I have wished for in the past, but it's getting pretty close.
+This whole system is not quite the [benevolent Big Brother]({% post_url 2013-10-23-Why-can't-Big-Brother-ever-lift-a-finger-to-help-out %}) I have wished for in the past, but it's getting pretty close.
 
 This is why I have very little time for the reflexive British panic every time a national ID card for the UK is proposed. Of course it is possible to design such a system poorly, gathering too much information and sharing it willy-nilly with far too many US corporations for no good reason — except that it's supposed to be "innovative" somehow. I would also fully expect the current or any probable future UK government to try to do just that. But the alternative is… what? Keep on identifying yourself with a utility bill, like you're in a Dickens story or something? This is the 21st century: a more serious identity system is required, and examples of well-designed ones exist.
 
