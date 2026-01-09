@@ -7,7 +7,7 @@ categories:  cloud marketing devops tech
 
 I've been blogging a lot about messaging lately, which I suppose is to be expected from someone in marketing. In particular, I have been focusing on how messaging can go wrong.  
 
-![|500x0](/images/unknown_filename.311.jpeg)  
+![Street sceme with overhead wires](/images/unknown_filename.311.jpeg)  
 
 The process I outlined in "[SMAC My Pitch Up]({% post_url 2014-06-03-SMAC-My-Pitch-Up %})" went something like this:  
 
@@ -19,9 +19,9 @@ The process I outlined in "[SMAC My Pitch Up]({% post_url 2014-06-03-SMAC-My-Pit
 
 Now the cynical take is that the Followers are doing this in an effort to be perceived as Thought Leaders themselves - and there is certainly some of that going on. However, my new corollary to the theory is that many Followers are not interested in the concept at all. They are name-checking the concept to signal to their audience that they are aware of it and gain credibility for *other* initiatives, not to jump on the bandwagon of the original concept. This isn't the same thing as "cloudwashing", because that is at least *about* cloud. This is about using the cloud language to justify doing something completely different.  
 
-This is how we end up with *actual printed books* purporting to explain what is happening in the world of mobile and social. By the time the text is finalised it's already obsolete, never mind printed and distributed - but that's not the point. The point is to be seen as someone knowledgeable about up-to-date topics so that other, more traditional recommendations gain some reflected shine from the new concept.  
+This is how we end up with *actual printed books* purporting to explain what is happening in the world of mobile and social. By the time the text is finalised it's already obsolete, never mind printed and distributed — but that's not the point. The point is to be seen as someone knowledgeable about up-to-date topics so that other, more traditional recommendations gain some reflected shine from the new concept.  
 
-![](/images/unknown_filename.312.jpeg)  
+![Antennae on a tower](/images/unknown_filename.312.jpeg)  
 
 The audience is in on this too. There will always be rubes taken in by a silver-tongued visionary with a high-concept presentation, but a significant part of the audience is signalling - to other audience members and to outsiders who are aware of their presence in that audience - that *they too* are aware of the new shiny concept.  
 

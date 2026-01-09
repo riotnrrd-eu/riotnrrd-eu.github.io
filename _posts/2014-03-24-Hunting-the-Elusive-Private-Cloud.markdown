@@ -16,9 +16,13 @@ Some might expect me to disagree, but in fact I think there’s more than a grai
 If I may quote the [NIST definition](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf) yet again: *(revs up motorcycle, lines up on shark tank)*
 
 > **On-demand self-service.** A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.
+> 
 > **Broad network access.** Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).
+> 
 > **Resource pooling.** The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand. There is a sense of location independence in that the customer generally has no control or knowledge over the exact location of the provided resources but may be able to specify location at a higher level of abstraction (e.g., country, state, or datacenter). Examples of resources include storage, processing, memory, and network bandwidth.
+> 
 > **Rapid elasticity.** Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand. To the consumer, the capabilities available for provisioning often appear to be unlimited and can be appropriated in any quantity at any time.
+> 
 > **Measured service.** Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service.
 
 The item most people point to when making the claim that "private cloud is not a cloud” is the fourth in that list: *elasticity*. Public clouds have effectively infinite elasticity for any single tenant: even Amazon itself cannot saturate AWS. By definition, private cloud does not have infinite elasticity, being constrained to whatever the capacity of the existing datacenter is.
