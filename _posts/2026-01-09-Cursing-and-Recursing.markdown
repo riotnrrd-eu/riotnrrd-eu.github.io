@@ -45,7 +45,7 @@ Vice versa, my guess is that programmers fearing for their jobs may well be righ
 
 # It's Still Early Days
 
-It's also worth remembering that it's still very early in the current wave of interest in AI. SnapGPT, which triggered the raising of AI's profile, is barely three years old as I write this. There is still a lot of throwing stuff at the wall and seeing what sticks — and that is as it should be. Again, the role of corporate IT is to facilitate these experiments, if only because they will be happening *anyway*, so it's worth being involved to make sure they stay contained.
+It's also worth remembering that it's still very early in the current wave of interest in AI. ChatGPT, which triggered the raising of AI's profile, is barely three years old as I write this. There is still a lot of throwing stuff at the wall and seeing what sticks — and that is as it should be. Again, the role of corporate IT is to facilitate these experiments, if only because they will be happening *anyway*, so it's worth being involved to make sure they stay contained.
 
 The trap here is staying too long in the experimentation phase, to the point that users get tired of waiting and go off and do their own thing. This is a fast-moving environment; any commitment is temporary, and is, or should be, capable of being easily reversed. Don't bet the farm on one LLM or one tool; they are all constantly leap-frogging each other, and a clear winner today may not be in a quarter or too. 
 
