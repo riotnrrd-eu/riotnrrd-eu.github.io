@@ -11,11 +11,11 @@ The big benefit is that I can often shortcut my way to the sense of something by
 
 ![A train speeding along the rails](/images/linus-mimietz-9Z3acH8gBps-unsplash.jpg)
 
-With that said, I think that experience gives us a useful lens through which to analyse the current AI wave (bubble?), and that is the rise of cloud computing (wow, I'm old). I was working on cloud at the time, and I wrote a couple of blog posts which I think are still relevant.
+With that said, I think that experience gives us a useful lens through which to analyse the current AI wave (bubble?), and that is the rise of cloud computing fifteen to twenty years ago (wow, I'm old). I was working on a cloud management product at the time, and I wrote a couple of blog posts which I think are still relevant.
 
-I should point out right away that I am talking only of enterprise use of AI, hence the cloud computing comparison. I am not going to try to get into "nudify" apps, wholesale IP theft, or the extremely thorny topic of AI use in education: consumer AI is a whole other thing, but those are *applications* of the technology, not anything inherent in Large Language Models. 
+I should point out right away that I am talking only of enterprise use of AI, hence the cloud computing comparison. I am not going to try to get into the mess that is consumer AI, with "nudify" apps, wholesale IP theft, or the extremely thorny topic of AI use in education, except to say that those are *applications* of the technology, not anything inherent in Large Language Models. The people building the tools own the outcomes, but the underlying models can still be useful elsewhere.
 
-In the enterprise context, too, there are good and bad applications. If Alice uses GenAI to expand a two-line prompt into a professional-looking and well-formatted email to Bob, and he uses GenAI to summarise it (lossily) back down to two lines, what exactly is the point of the GenAI? This sort of thing is symptomatic of the early days of a technology adoption wave, and to me at least, it explains a lot of the current mismatch between adoption and value.
+In the enterprise context, too, there are good and bad applications. If Alice uses GenAI to expand a two-line prompt into a professional-looking and well-formatted email to Bob, and he uses GenAI to summarise it (lossily) back down to two lines, what exactly is the point of the GenAI? This sort of thing is symptomatic of the early days of a technology adoption wave, and to me at least, it explains a lot of the current mismatch between investment (huge), adoption (unclear), and value (lagging).
 
 However, lots of enterprise processes rely on working with large volumes of text, and that is where GenAI can be very useful. This is after all the big remaining opportunity for organisational automation: all of the processes that involved working with numbers have already been digitised by now.
 
@@ -57,7 +57,7 @@ Again, I get to reiterate my own advice from the early days of cloud: keep your 
 
 The point is that, even in those fast-moving early days, we focused on how we as a management-tool vendor, and our customers in enterprise IT, could differentiate. Provisioning a virtual server was no great trick even back then, much as chatty AI bots are ten-a-penny these days. Where things got interesting was if you needed to deploy various software stacks and custom configurations, including certifying the compliance of the result, without having to maintain an unmanageably large catalogue of templates — and especially if you needed to deploy *clusters* of such things, which all needed to be aware of each other.
 
-It's the same with AI. A generic chatbot is not interesting. One that has (safe and compliant) access to your specific internal data is better. One that can call on agents that in turn can trigger custom functions in other systems? Now we're talking. And if one of those agents or tools needs to change? Well, if you architect it right, you can do that without disrupting users' work. 
+It's the same with AI. A generic chatbot is not interesting. One that has (safe and compliant) access to your specific internal data is better. One that can call on agents which in turn can trigger custom functions in other systems? Now we're talking. And if one of those agents or tools needs to change? Well, if you architect the overall system right, you can do that without disrupting users' work. 
 
 Who won in cloud? The people who build value-added services on top of the basic compute elements, which had been turned into undifferentiated commodities.
 
