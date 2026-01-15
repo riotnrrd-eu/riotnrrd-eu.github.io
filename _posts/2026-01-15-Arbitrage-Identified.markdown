@@ -2,7 +2,7 @@
 layout: post
 title:  Arbitrage Identified
 date:   2026-01-15
-categories: AI
+categories: AI UX
 ---
 
 Last week, I [wrote about enterprise uses of AI]({% post_url 2026-01-09-Cursing-and-Recursing %}), but I realised that there was more to say, in particular about the notion that, both in the consumer and in the enterprise space, many apps are seen (rightly or wrongly) as no more than thin wrappers around an AI model. Right now, as I write this in early 2026, many consumer AI products especially act primarily as middlemen, executing fairly simple prompts of AI models against content:
@@ -43,4 +43,4 @@ Either way, I just hope the slop-merchants end up like candybar phones, on the d
 
 ***
 
-🖼️  Photos by [giggs](https://morguefile.com/creative/giggs) on [Morguefile](https://morguefile.com)
+🖼️  Photo of Ericsson phone by [giggs](https://morguefile.com/creative/giggs) on [Morguefile](https://morguefile.com)
