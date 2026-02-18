@@ -7,7 +7,7 @@ categories:  AI Spotify
 
 Noah Smith writes over at the [Nazi bar](https://www.theguardian.com/media/2026/feb/07/revealed-how-substack-makes-money-from-hosting-nazi-newsletters) that [*You are no longer the smartest type of thing on Earth*](https://www.noahpinion.blog/p/you-are-no-longer-the-smartest-type):
 
-> Vibe coding is taking over _fast_. Spotify’s co-CEO [recently revealed](https://x.com/sarthakgh/status/2022145859996254630) that the company’s best developers don’t write code anymore. Some journalists from CNBC, with no coding experience, [vibe-coded a clone of the app Monday](https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html), and the company’s stock price [promptly crashed](https://finance.yahoo.com/news/monday-crashed-ai-built-product-214856201.html). 
+> Vibe coding is taking over **fast**. Spotify’s co-CEO [recently revealed](https://x.com/sarthakgh/status/2022145859996254630) that the company’s best developers don’t write code anymore. Some journalists from CNBC, with no coding experience, [vibe-coded a clone of the app Monday](https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html), and the company’s stock price [promptly crashed](https://finance.yahoo.com/news/monday-crashed-ai-built-product-214856201.html). 
 
 Here's the thing that trips me up about a lot of the "AI" hype. Where is the actual **product**?
 
@@ -15,7 +15,7 @@ If you think that, because you cloned Spotify's GUI, you now have a competitor t
 
 ![You still need software engineers even if the AI is generating most of the code.](/images/claude-hiring.jpeg)
 
-Spotify's co-CEO is excited about AI generating code because it stands to reduce his costs. He can either have the same amount of developers produce more code, or get rid of some of the developers while maintaining the same level of code output. Either way, Spotify's cost per feature goes down.[^1] That in turn gives Spotify the option to continue to charge users the same amount, increasing margins, or to return some portion of the savings to users in the form of lower costs if there is a need to defend against competitors — while still preserving their margins.
+Spotify's co-CEO is excited about AI generating code because it stands to reduce his costs. Of course he is: he can either have the same amount of developers produce more code, or get rid of some of the developers while maintaining the same level of code output. Either way, Spotify's cost per feature goes down.[^1] That in turn gives Spotify the option to continue to charge users the same amount, increasing margins, or to return some portion of the savings to users in the form of lower costs if there is a need to defend against competitors — while still preserving their margins.
 
 None of these mechanisms apply to this vibe-coded ersatz Spotify. Sure, they have a GUI; well done. That does not even begin to answer the questions any would-be competitor to Spotify would have to answer:
 
@@ -51,7 +51,7 @@ But instead of engaging seriously with what is going on, we are doing vibes-repo
 
 > Meanwhile, AI is increasingly writing the next version of itself, and humans [may not be in the loop](https://x.com/r0ck3t23/status/2022118457710719340) for very much longer.
 
-We see this over and over. The previous AI-fuelled media furore was about a supposed "social network for AI bots" — which turns out to be populated by [humans cosplaying as AI](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/), chatbots following detailed prompts given by humans, and other chatbots simply imitating how humans communicated on all the forums whose archives they have ingested. 
+We see this superficiality over and over. The last AI-fuelled media furore before this one was about a supposed "social network for AI bots" — which turns out to be populated by [humans cosplaying as AI](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/), chatbots following detailed prompts given by humans, and other chatbots simply generating text based on how humans communicated on all the forums whose archives they have ingested. 
 
 I don't know whether we are in an "AI bubble" or not — don't take investment advice from me! — but we are certainly seeing a lot of ridiculously credulous AI hype from the media. It was only last week that [a company previously best known for peddling in-car karaoke systems](https://www.msn.com/en-us/money/markets/meet-the-former-karaoke-company-that-sank-trucking-stocks/ar-AA1Wf8gJ) [crashed the stock market valuations of trucking and logistics firms with a single white paper claiming some sort of AI planning breakthrough](https://www.theguardian.com/business/2026/feb/13/trucking-logistics-shares-ai-freight-tool-launch-semicab-algorhythm). Just saying "AI!!1!" repeatedly does not a product make; there is still a lot of hard work downstream of the cool demo the AI let you spin up.
 
