@@ -58,4 +58,4 @@ Right now in AI we are still at the equivalent stage of arguing about the abstru
 
 🖼️  Photos by [Fred Robin](https://unsplash.com/@ntxr) on [Unsplash](https://www.unsplash.com)
 
-[^1]: And can we talk about that GUI for a moment? For how long have Salesforce users been invited to switch to the Lightning experience? The 
+[^1]: And can we talk about that GUI for a moment? For how long have Salesforce users been invited to switch to the Lightning experience? The length of that transition should illustrate just how important change management is as a discipline. Users do not like the GUI they spend a lot of their work hours in to change under them, and they really do not like having to recreate customisations they put in place laboriously to help them do their work.
