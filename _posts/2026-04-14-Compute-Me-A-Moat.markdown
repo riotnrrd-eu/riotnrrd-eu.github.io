@@ -13,7 +13,7 @@ A couple of weeks ago, I went looking for [a competitive moat for AI]({% post_ur
 
 ![A stately home surrounded by a moat](/images/colin-watts-oaiESTTyAu0-unsplash.jpg)
 
-Of course the big frontier labs are also frantically searching for a moat to avoid getting commoditised and letting someone else capture all of the value at a different level of the stack. Now *The Verge* has published [Openai’s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic), which includes this nugget:
+Of course the big frontier labs are also frantically searching for a moat to avoid getting commoditised and letting someone else capture all of the value at a different level of the stack. Now *The Verge* has published [OpenAI’s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic), which contains this nugget:
 
 > Our compute advantage sets us up to deliver continuous leaps in capability. Customers already feel it in real product terms: higher token limits, lower latency, and more reliable execution of complex workflows. Every step forward in compute lets us train stronger models, serve more demand, and lower the cost per unit of intelligence. That is durable business leverage.
 
