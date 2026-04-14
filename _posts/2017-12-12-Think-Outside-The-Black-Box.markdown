@@ -5,9 +5,6 @@ date:   2017-12-12
 categories:  AI machine-learning 
 ---
 
-# Think Outside The Black Box
-
-
 ![](/images/unknown_filename.441.png)
 
 AI and machine-learning (ML) are the hot topic of the day. As is usually the case when something is on the way up to the Peak of Inflated Expectations, wild proclamations abound of how this technology is going to either doom or save us all. Going on past experience, the results will probably be more mundane – it will be useful in some situations, less so in others, and may be harmful where actively misused or negligently implemented. However, it can be hard to see that stable future from inside the whirlwind.
@@ -44,7 +41,8 @@ It’s important to note that, despite the potential for draconian consequences,
 
 The main fear that we should have when it comes to AI is not “what if it works and tries to enslave us all”, but “what if it doesn’t work but gets used anyway”.
 
-***
+*** 
+
 Photo by [Ricardo Gomez Angel](http://www.flickr.com/photos/rigoan) via [Unsplash](https://unsplash.com/)
 
 [^1]: Yes, it is noticeable that all of these personifications of AI just happen to be female.
