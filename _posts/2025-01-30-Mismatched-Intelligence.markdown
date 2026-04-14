@@ -43,6 +43,7 @@ Finally, Simon also offers some pretty decent analysis of the significance of De
 ![Piles of cash](/images/alexander-grey-8lnbXtxFGZw-unsplash.jpg)
 
 # It Cost How Much?
+
 There is some weirdness about those costs, since I have been unable to trace them back conclusively to an authoritative source. The sub-$6M training cost for DeepSeek-V3 is an estimate, and a very rough one at that. The only actual hard number is the number of GPU hours of training, which DeepSeek discloses in their [report](https://arxiv.org/html/2412.19437v1) as "2.788M H800 GPU hours". The Nvidia H800 is a restricted NVIDIA GPU sold only into the Chinese market[^1], where they [reportedly](https://www.tomshardware.com/news/price-of-nvidia-compute-gpu-can-hit-70000-in-china) cost up to $70k. Even if we assume that is not the price DeepSeek payed, because they either stockpiled GPUs before the export controls went into full effect in 2023, or obtained them in bulk at lower prices, that still indicates to me that the actual financial cost may have been higher.
 
 The whole [model configuration](https://thezvi.substack.com/i/153830656/run-model-run) is also hyper-optimized for that particular setup, which may make it hard to replicate this result. Hugging Face is reportedly working to replicate DeepSeek’s work, so this conclusion is tentative.
@@ -72,7 +73,7 @@ Finally, reinforcement learning without human feedback is innovative, but unprov
 ![People are confused](/images/tim-gouw-1K9T5YiZ2WU-unsplash.jpg)
 
 # What Does It All Mean?
-‪Shout out to [Chris Jones‬](‪@chrisjones1.bsky.social) for [this banger](https://bsky.app/profile/chrisjones1.bsky.social/post/3lgqmskoy7c2z):‬
+‪Shout out to [Chris Jones‬](https://bsky.app/profile/chrisjones1.bsky.social) for [this banger](https://bsky.app/profile/chrisjones1.bsky.social/post/3lgqmskoy7c2z):‬
 
 *** 
 
