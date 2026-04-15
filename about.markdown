@@ -9,3 +9,5 @@ permalink: /about/
 Topics on this blog are many and varied, hence the name. Some of the things I write about more frequently are [tech](https://findthethread.blog/categories/#tech), especially [enterprise IT](https://findthethread.blog/categories/#enterprise) and [Apple](https://findthethread.blog/categories/#Apple), but I also write about non-work things like [cars](https://findthethread.blog/categories/#cars), [cycling](https://findthethread.blog/categories/#cycling), and [books](https://findthethread.blog/categories/#books), and topics that span both [work](https://findthethread.blog/categories/#work) and play, like [travel](https://findthethread.blog/categories/#travel).
 
 If you want to find out more about me, or to comment on anything I've written, since I don't have comments active, you can find me on [Mastodon](https://mastodon.social/@riotnrrd), [Bluesky](https://bsky.app/profile/theriotnrrd.eurosky.social), and [LinkedIn](https://www.linkedin.com/in/dwellington/). 
+
+Everything on this blog is crafted lovingly by hand, by me; no slop detected. I wouldn't expect you to read something I couldn't be bothered to write.
