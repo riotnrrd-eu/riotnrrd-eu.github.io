@@ -63,7 +63,11 @@ But that's not how the consumer world works: it's driven by the "killer app", th
 
 *** 
 
-UPDATE: Of course no sooner had I hit "publish" than another perfect example comes along! Via [Matt Levine's invaluable and entertaining *Money Stuff* newsletter](), *Bloomberg* reports that [*AI Bots Auditioning For Wall Street Trading Are Mostly Losing*](https://www.bloomberg.com/news/articles/2026-05-06/ai-bots-auditioning-for-wall-street-trading-are-mostly-losing):
+# UPDATE
+
+Of course no sooner had I hit "publish" than another perfect example came along! 
+
+Via [Matt Levine's invaluable and entertaining *Money Stuff* newsletter](), *Bloomberg* reports that [*AI Bots Auditioning For Wall Street Trading Are Mostly Losing*](https://www.bloomberg.com/news/articles/2026-05-06/ai-bots-auditioning-for-wall-street-trading-are-mostly-losing):
 
 > Across a series of new trading contests between the world’s leading AI models, the verdict so far is unflattering. Most of the systems lose money. They trade too much. They make wildly different decisions when given identical instructions. And no one yet knows if these shortcomings will fade with more powerful iterations — or if they reveal something fundamental about the gap between large language models and how markets actually work.
 > 
