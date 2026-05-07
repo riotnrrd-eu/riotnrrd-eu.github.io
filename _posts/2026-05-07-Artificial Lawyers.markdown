@@ -63,7 +63,7 @@ But that's not how the consumer world works: it's driven by the "killer app", th
 
 *** 
 
-# UPDATE
+# Update
 
 Of course no sooner had I hit "publish" than another perfect example came along! 
 
@@ -79,9 +79,7 @@ I do disagree somewhat with Matt Levine's conclusions based on this report, thou
 
 > It would be crazy if it was otherwise! If you could just go to ChatGPT and type “hey tell me what stocks will go up” and it told you, then everyone would do it, and how could everyone beat the market? I definitely see the intuition here — “if AI agents can do a lot of the work of lawyers and accountants and marketing consultants, why can’t they do the work of hedge fund investors?” — but it has to be wrong. The work of investors is fundamentally adversarial; we can’t all beat the market.
 
-That is a load-bearing "if" in "if AI agents can do a lot of the work of lawyers and accountants and marketing consultants"! Once again, everyone is convinced that AI can automate somebody else's job, but not their own, which requires fundamental human abilities that cannot be replaced by a soulless machine. 
-
-In fairness to Matt Levine, he is not saying that automated stock-picking is impossible. Rather, he is making the point that, even if bots could figure out investments perfectly, they would be in competition with other bots figuring out the perfect counter-strategy, so none of them could get ahead.
+That is a load-bearing "**if**" in "if AI agents can do a lot of the work of lawyers and accountants and marketing consultants"! Once again, everyone is convinced that AI can automate somebody else's job, but not their own, which requires fundamental human abilities that cannot be replaced by a soulless machine.[^3] 
 
 It's also probably worth emphasising "**a lot of the work**" — not the whole job, but a lot of the toil which until now was a prerequisite for the job. This is true of sysadmins, programmers, lawyers, doctors, and probably investment advisers too: there is a lot of toil involved in laboriously assembling information from disparate sources and in differing formats, collating it, and then processing it in fairly routine and predictable ways. If you can automate those tasks (with suitable guardrails to avoid hallucinations creeping in — don't just YOLO your stock portfolio!), you can make the actual job both more pleasant and more efficient. 
 
@@ -95,3 +93,4 @@ None of this is coming to ChatGPT, not tomorrow and not ever.
 
 [^1]: A typo originally made this into "relationslop", which I move to be adopted immediately into the Oxford English Dictionary.
 [^2]: Of course in actual fact nobody would *own* a self-driving car: you would summon one from Waymo or any other similar service, and release it when you were done. [It would be great]({% post_url 2017-02-02-Category-Error %}), but we're nowhere near there yet.
+[^3]: In fairness to Matt Levine, he is not saying that automated stock-picking is impossible. Rather, he is making the point that, even if bots could figure out investments perfectly, they would be in competition with other bots figuring out the perfect counter-strategy, so none of them could get ahead.
