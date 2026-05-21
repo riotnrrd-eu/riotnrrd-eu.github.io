@@ -41,7 +41,7 @@ The worst of it is that he won't just *feel* productive; he will *look* producti
 
 I have been talking about this shift for a while now, including in my latest [Coffee Talk video](https://www.linkedin.com/feed/update/urn:li:activity:7462551161888440320/): there is very little upside in applying AI to speed up steps in an existing process, without examining why the overall process operates as it does and what its outputs are. Applying AI in isolation might *look* like productivity, at least at the level of the individual, but the overall *result* is not improved by nearly the same margin, or perhaps at all.
 
-If there is a paying business case for AI, [it's in the enterprise]({% post_url 2026-05-07-Artificial-Lawyers %}), because that's where we find the systems and data already in place to make the world legible to AI. But even there, it's not a free lunch; there is process re-engineering and systems re-architecting to do in order to take full advantage of these new capabilities.
+If there is a paying business case for AI, [it's in the enterprise]({% post_url 2026-05-07-Artificial Lawyers %}), because that's where we find the systems and data already in place to make the world legible to AI. But even there, it's not a free lunch; there is process re-engineering and systems re-architecting to do in order to take full advantage of these new capabilities.
 
 If we don't learn but just try to take effort out of doing the same things, at the cost of reduced quality, we are actually worse off, at a personal and a corporate level.
 
