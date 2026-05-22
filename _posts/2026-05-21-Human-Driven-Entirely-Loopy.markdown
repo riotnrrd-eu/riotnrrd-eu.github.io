@@ -19,7 +19,7 @@ It wasn't just the look of the slides, it was how they were structured. In fact,
 
 What do I mean? All the decoration is lots of little elements, not even grouped — so what you think is a textbox with a funky border is actually three completely separate boxes. This in turn means that you can't scale them together or anything.
 
-This is still relatively normal: I've seen people commit worse crimes against good presentation design with their own hands. But AI of course invents entirely new ways of messing up that no human would ever have conceived of. All the fonts are Arial, and so far, so good — but all the sizes are just a little bit off, 17 and 13 points, say. The colours are *similar* to our corporate colours but just a few hex digits off — enough to show up, especially if you put them side by side in the same deck as we will be doing. No human would choose those text sizes, and no human would go to the trouble of selecting colours outside the palette, only to pick wrong ones.
+This is still relatively normal: I've seen people commit worse crimes against good presentation design with their own hands. But AI of course invents entirely new ways of messing up that no human would ever have conceived of. All the fonts are Arial, and so far, so blah — but all the sizes are just a little bit off, 17 and 13 points, say. The colours are *similar* to our corporate colours but just a few hex digits off — enough to show up, especially if you put them side by side in the same deck as we will be doing. No human would choose those text sizes, and no human would go to the trouble of selecting colours outside the palette, only to pick wrong ones.
 
 <iframe width="431" height="766" src="https://www.youtube.com/embed/26BDVgIXkTo" title="Moving a photo in Microsoft Word 🤣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ The worst of it is that he won't just *feel* productive; he will *look* producti
 
 I have been talking about this shift for a while now, including in my latest [Coffee Talk video](https://www.linkedin.com/feed/update/urn:li:activity:7462551161888440320/): there is very little upside in applying AI to speed up steps in an existing process, without examining why the overall process operates as it does and what its outputs are. Applying AI in isolation might *look* like productivity, at least at the level of the individual, but the overall *result* is not improved by nearly the same margin, or perhaps at all.
 
-If there is a paying business case for AI, [it's in the enterprise]({% post_url 2026-05-07-Artificial Lawyers %}), because that's where we find the systems and data already in place to make the world legible to AI. But even there, it's not a free lunch; there is process re-engineering and systems re-architecting to do in order to take full advantage of these new capabilities.
+If there is a paying business case for AI, [it's in the enterprise]({% post_url 2026-05-07-Artificial-Lawyers %}), because that's where we find the systems and data already in place to make the world legible to AI. But even there, it's not a free lunch; there is process re-engineering and systems re-architecting to do in order to take full advantage of these new capabilities.
 
 If we don't learn but just try to take effort out of doing the same things, at the cost of reduced quality, we are actually worse off, at a personal and a corporate level.
 
