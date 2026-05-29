@@ -31,7 +31,7 @@ There is absolutely good and bad user experience, or UX, in this world. I litera
 
 # Story time
 
-I lived in Italy through high school, and in Italy, high school is a morning-only affair — so at the age of sixteen, armed with my teenage brashness, I marched into the front door of the local Apple reseller, and said, basically "I know Macs, give me a job". To their credit, they did not immediately throw me out on my ear: they sat me in a corner with a pile of hand-written warranty slips, which all had to be entered in to a FileMaker Pro database. This, I dutifully did for a few days, before returning to the Powers That Were with a list of complaints about how the database was set up.
+I lived in Italy through high school, and in Italy, high school is a morning-only affair — so at the age of sixteen, armed with my teenage brashness, I marched into the front door of the local Apple reseller, and said, basically "I know Macs, give me a job". To their credit, they did not immediately throw me out on my ear: they sat me in a corner with a pile of hand-written warranty slips, which all had to be entered in to a FileMaker Pro[^1] database. This, I dutifully did for a few days, before returning to the Powers That Were with a list of complaints about how the database was set up.
 
 Once again, said Powers showed admirable restraint, and told me I had a week to make something better. This, I duly did, with proper tab-ordering, pre-filled menus, context-aware sequences, and more that I have forgotten since. 
 
@@ -69,3 +69,5 @@ It's on us to architect our systems to be able to support these new usage models
 ***
 
 🖼️  Photos by [Jr Korpa](https://unsplash.com/@jrkorpa) and [Clark Van Der Beken](https://www.clarkvanderbeken.com) on [Unsplash](https://www.unsplash.com)
+
+[^1]: If you haven't heard of FileMaker Pro, think Microsoft Access but for Macs, and you're not far off. I had assumed that whole Claris suite had gone the way of the dodo, but no, [Claris is still out there](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next)!
