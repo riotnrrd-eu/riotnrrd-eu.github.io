@@ -39,7 +39,7 @@ The point was that my new GUI was not just *prettier*, it was *more usable*: I c
 
 # Enough ancient history!
 
-Okay, so this was all last century; why would anyone car now?
+Okay, so this was all last century; why would anyone care now?
 
 The point of my new UX is not that it was prettier, nor even that it enabled or sped up some business task — although it was, and it did. The way in which it did that was because the graphical representation in the interface was tied closely to the data in the underlying system and how it was processed.
 
