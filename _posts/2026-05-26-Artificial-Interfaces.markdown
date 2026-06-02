@@ -47,18 +47,23 @@ Delamination of interfaces — the separation of the vibe-coded GUI from the und
 
 ![Layers of interfaces](/images/clark-van-der-beken-A1AV-H8ZBaM-unsplash.jpg)
 
-The sorts of Systems of Reference, to go back to the [pace-layering]({% post_url 2016-05-03-Multimodal-IT %}) model, which underpin all of these new engagement models, are all set up and optimised to support certain access patterns. Creating a new consumption pattern is *probably* fine, as long as it remains on the level of a handful of users: the creator and their friends, say. But the system probably cannot tolerate more than a handful of people running those sorts of unpredictable — and unpredicted — queries. 
+The sorts of Systems of Reference (to go back to the [pace-layering]({% post_url 2016-05-03-Multimodal-IT %}) model) which underpin all of these new engagement models, are all set up and optimised to support certain access patterns. Creating a new consumption pattern is *probably* fine, as long as it remains on the level of a handful of users: the creator and their friends, say. But the system probably cannot tolerate more than a handful of people running those sorts of unpredictable — and unpredicted — queries. 
+
+The historical separation between transactional (OLTP) and analytical (OLAP) processing was primarily defined by how predictable the query patterns would be. If you were looking at a small number of highly-predictable queries (because they would be coming from an application, or at least an API, that you controlled) you could optimise the system to support a massive number of those queries, and you had an OLTP system. If you were looking at unpredictable queries, then your only move was to try to limit the number people who were entitled to run queries in the first place.
+
+If everyone is creating their own dashboards which did not exist before, and of course running queries against the backend that were unexpected and had not been optimised for, that will soon become a problem.
 
 # What is to be done?
 
 Luckily, the solution is known. GenAI is accelerating and democratising practices which already existed. This means that there are proven ways of dealing with these challenges. The big difference is that, as we heard at Gartner D&A:
 
 > Thanks to AI, we have everyone’s attention.
+> 
 > The downside is, we have everyone’s attention.
 
 As an industry, we have an enormous opportunity thanks to AI: all of those eat-your-vegetables initiatives about data hygiene and performance optimisation are suddenly on the critical path to the success of key business initiatives.
 
-This is the opportunity to get everyon to adopt good DevOps practice of clean interfaces ands decomposition. It's time to break up the enterprise monolith, because users are already doing it.
+This is the opportunity to get everyone to adopt good DevOps practice of clean interfaces and decomposition. It's time to break up the enterprise monolith, because users are already doing it.
 
 The main reason to do this is defensive, to minimise the blast radius of poor developments. After all, even the proponents of these tools admit that [vibe-coded software is often bad](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394). And that's fine, if the tools really are as ephemeral as their proponents claim.
 
