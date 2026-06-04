@@ -51,7 +51,7 @@ The problem is that, while a datacenter's physical plant may have value for year
 
 The [rapid obsolescence of AI chips is why they cannot be a competitive moat for operators]({% post_url 2026-03-31-Networked-Intelligence %}), even as they struggle get hold of [enough chips to fill new datacenters]({% post_url 2026-04-14-Compute-Me-A-Moat %}). The current shortage does explain why a bunch of four-year-old chips still have value for Anthropic, but it still doesn't mean that sitting Smaug-like on a massive pile of GPUs is a viable long-term strategy.
 
-The whole saga just emphasises the short-term nature of much of the planning in this space. Get in quick, get your bag, and get out even quicker, seems to be the operating model.
+The whole saga just emphasises the short-term nature of much of the planning in this space. Get in quick, get your bag, and get out even quicker, seems to be the operating model. Given that, it's perhaps not surprising that the general public is opposed to projects which seem to have significant and immediate downside, and very little discernible upside.
 
 ***
 
