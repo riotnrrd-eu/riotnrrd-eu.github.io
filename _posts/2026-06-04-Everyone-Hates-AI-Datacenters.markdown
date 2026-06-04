@@ -5,9 +5,10 @@ date:   2026-06-04
 categories:  AI
 ---
 
-According to a recent Gallup poll, it seems that [*Americans Oppose AI Data Centers in Their Area*](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx), even as we read that ["A JPMorgan analysis last month found that more than 60% of data-center capacity planned for completion in 2027 isn’t yet under construction, and another 7% is delayed."](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8)
+According to a recent Gallup poll, it seems that [*Americans Oppose AI Data Centers in Their Area*](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx), even as we read that ["A JPMorgan analysis last month found that more than 60% of data-center capacity planned for completion in 2027 isn’t yet under construction, and another 7% is delayed."](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8) Some are saying that [
+the fight against AI datacenters isn’t just about tech – it’s about democracy](https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy), and even credit many of those delays in datacenter construction directly to local opposition — often maligned as NIMBYism by the more vociferous proponents of AI.
 
-I think it's worth digging into the reasons why people object to AI datacenter construction near them in order to understand the current state of the public perception of AI.
+I think it's worth digging into the reasons *why* people object to AI datacenter construction near them in order to understand the current state of the public perception of AI.
 
 # Water, water everywhere
 
@@ -49,7 +50,7 @@ There is also the question of the future value of the datacenters if and when th
 
 The problem is that, while a datacenter's physical plant may have value for years or decades, the GPUs it contains have a very short half-life before they become obsolete. The GPUs in that Memphis datacenter are already on the downward part of the curve: while we do not know the precise breakdown of the chips that make up the [Colossus](https://en.wikipedia.org/wiki/Colossus_(supercomputer))[^2] installation, it is known to have started out with 100.000 [Nvidia H100 chips, a model first announced back in 2022](https://www.theverge.com/2022/3/22/22989182/nvidia-ai-hopper-architecture-h100-gpu-eos-supercomputer).
 
-The [rapid obsolescence of AI chips is why they cannot be a competitive moat for operators]({% post_url 2026-03-31-Networked-Intelligence %}), even as they struggle get hold of [enough chips to fill new datacenters]({% post_url 2026-04-14-Compute-Me-A-Moat %}). The current shortage does explain why a bunch of four-year-old chips still have value for Anthropic, but it still doesn't mean that sitting Smaug-like on a massive pile of GPUs is a viable long-term strategy.
+The [rapid obsolescence of AI chips is why they cannot be a competitive moat for operators]({% post_url 2026-03-31-Networked-Intelligence %}), even as they struggle get hold of [enough chips to fill new datacenters]({% post_url 2026-04-14-Compute-Me-A-Moat %}) — which may explain those construction delays. The current shortage does explain why a bunch of four-year-old chips still have value for Anthropic, but it still doesn't mean that sitting Smaug-like on a massive pile of GPUs is a viable long-term strategy.
 
 The whole saga just emphasises the short-term nature of much of the planning in this space. Get in quick, get your bag, and get out even quicker, seems to be the operating model. Given that, it's perhaps not surprising that the general public is opposed to projects which seem to have significant and immediate downside, and very little discernible upside — even if the fixation on water usage does not seem to be the most salient problem.
 
