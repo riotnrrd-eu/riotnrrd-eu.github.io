@@ -5,9 +5,9 @@ date:   2026-06-04
 categories:  AI
 ---
 
-![](/images/)
+According to a recent Gallup poll, it seems that [*Americans Oppose AI Data Centers in Their Area*](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx), even as we read that ["A JPMorgan analysis last month found that more than 60% of data-center capacity planned for completion in 2027 isn’t yet under construction, and another 7% is delayed."](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8).
 
-According to a recent Gallup poll, it seems that [*Americans Oppose AI Data Centers in Their Area*](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx). I think it's worth digging into the reasons for their objections to understand the current state of the public perception of AI.
+I think it's worth digging into the reasons for their objections to understand the current state of the public perception of AI.
 
 # Water, water everywhere
 
@@ -51,7 +51,7 @@ The problem is that, while a datacenter's physical plant may have value for year
 
 The [rapid obsolescence of AI chips is why they cannot be a competitive moat for operators]({% post_url 2026-03-31-Networked-Intelligence %}), even as they struggle get hold of [enough chips to fill new datacenters]({% post_url 2026-04-14-Compute-Me-A-Moat %}). The current shortage does explain why a bunch of four-year-old chips still have value for Anthropic, but it still doesn't mean that sitting Smaug-like on a massive pile of GPUs is a viable long-term strategy.
 
-The whole saga just emphasises the short-term nature of much of the planning in this space. Get in quick, get your bag, and get out even quicker, seems to be the operating model. Given that, it's perhaps not surprising that the general public is opposed to projects which seem to have significant and immediate downside, and very little discernible upside.
+The whole saga just emphasises the short-term nature of much of the planning in this space. Get in quick, get your bag, and get out even quicker, seems to be the operating model. Given that, it's perhaps not surprising that the general public is opposed to projects which seem to have significant and immediate downside, and very little discernible upside — even if the fixation on water usage does not seem to be the most salient problem.
 
 ***
 
