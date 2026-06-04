@@ -7,7 +7,7 @@ categories:  AI
 
 According to a recent Gallup poll, it seems that [*Americans Oppose AI Data Centers in Their Area*](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx), even as we read that ["A JPMorgan analysis last month found that more than 60% of data-center capacity planned for completion in 2027 isn’t yet under construction, and another 7% is delayed."](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8).
 
-I think it's worth digging into the reasons for their objections to understand the current state of the public perception of AI.
+I think it's worth digging into the reasons why people object to AI datacenter construction near them in order to understand the current state of the public perception of AI.
 
 # Water, water everywhere
 
