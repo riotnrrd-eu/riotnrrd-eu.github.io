@@ -5,7 +5,7 @@ date:   2026-06-08
 categories:  AI work
 ---
 
-There has been a lot of talk over the years about how new tech-sector jobs can compensate for jobs lost in other sectors of the economy. The latest wheeze is [Keir Starmer, UK PM, telling us that data centres will replace closing factories](https://www.bbc.com/news/live/cr5j43zp2rpt?post=asset%3Aa9404349-9816-4c67-89d4-a51081917eb5#post). I do not think that bet will pay off; one of the reasons that [everyone hates AI datacenters]({% post_url 2026-06–04-Everyone-Hates-AI-Datacenters %}) is that they do not actually bring all that many jobs:
+There has been a lot of talk over the years about how new tech-sector jobs can compensate for jobs lost in other sectors of the economy. The latest wheeze is [Keir Starmer, UK PM, telling us that data centres will replace closing factories](https://www.bbc.com/news/live/cr5j43zp2rpt?post=asset%3Aa9404349-9816-4c67-89d4-a51081917eb5#post). I do not think that bet will pay off; one of the reasons that [everyone hates AI datacenters]({% post_url 2026-06-04-Everyone-Hates-AI-Datacenters %}) is that they do not actually bring all that many jobs:
 
 > We are not quite at the point of the proverbial datacenter staffed by a man and a dog — the man to feed the dog, the dog to bite the man if he touches anything — but we are not far off. A datacenter has probably the worst ratio of on-site employment to surface area out there. There are going to be a handful of security guards (not exactly skilled labour) and a handful of on-site techs to deliver the “remote hands & eyes” service, and that’s it.
 
