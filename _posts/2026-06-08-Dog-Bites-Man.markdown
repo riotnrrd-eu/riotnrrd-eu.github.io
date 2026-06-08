@@ -13,12 +13,12 @@ In online conversation about this topic, this Brookings report came up: [*New ev
 
 ![Person working on two laptops](/images/freestocks-I_pOqP6kCOI-unsplash.jpg)
 
-> 1. **Data centers do create local jobs,** though fewer than industry advocates claim. Naive estimates that fail to account for preexisting growth trends overstate the effect by a factor of three.
+> - **Data centers do create local jobs,** though fewer than industry advocates claim. Naive estimates that fail to account for preexisting growth trends overstate the effect by a factor of three.
 
 In keeping with the Brookings Institutions’ centrist positioning, the report begins by pointing out that many datacenters[^1] are placed in locations that already have good growth trajectories, so simply counting the marginal addition of employment from adding a datacenter to a vibrant local economy is overly simplistic and unlikely to be replicated elsewhere without that existing support base. 
 
-> 2. **Not all data centers are equal.** The technology ecosystem effects that distinguish data centers from warehouses are concentrated in hyperscale investment. Colocation facilities generate construction activity but not the IT  agglomeration that makes data centers a distinctive economic development tool.
-> 3. **Clusters generate the largest effects.** Single facilities produce modest employment gains. The information sector benefits require multiple facilities in the same area.
+> - **Not all data centers are equal.** The technology ecosystem effects that distinguish data centers from warehouses are concentrated in hyperscale investment. Colocation facilities generate construction activity but not the IT  agglomeration that makes data centers a distinctive economic development tool.
+> - **Clusters generate the largest effects.** Single facilities produce modest employment gains. The information sector benefits require multiple facilities in the same area.
 
 These two points are related, so I will address them together. Almost the entirety of gains in employment come from locations where at least one of the following conditions is true:
 
@@ -35,13 +35,13 @@ The ecosystem jobs are on top of that employment, but only really materialise on
 
 In other words, the key distinction is not whether a particular facility belongs to a hyperscaler, but the absolute number of physical datacenter facilities in the area, and the fact that a hyperscaler datacenter is almost always close to at least two other similar facilities. From the point of view of a contractor laying cable or whatever, it doesn’t really matter who owns the endpoints, just that there is a certain ongoing base level of demand for their services.
 
-> 4. **Workers see modest real gains.** Wages rise 3%-4% for both existing workers and new hires, with no significant effect on home prices.
+> - **Workers see modest real gains.** Wages rise 3%-4% for both existing workers and new hires, with no significant effect on home prices.
 
 Again, not surprising. The highly-payed AWS jobs are back in Seattle (especially with the ongoing roll-back of remote-work), not out in the provinces. Those local jobs, while they do exist, are mostly blue-collar tech work, dealing with messy physical infrastructure, not the glorious abstractions that it supports.
 
 ![Piles of coins](/images/towfiqu-barbhuiya-jpqyfK7GB4w-unsplash.jpg)
 
-> 5. **Incentives may be poorly targeted.** Overall, state incentives are small relative to private investment. In hyperscale counties, incentives represent about 2% of total construction investment. Location decisions for these facilities are driven by power availability, land, and fiber infrastructure, not by tax breaks. In colocation counties, incentives represent a much larger share of total investment (62%), meaning subsidies may matter more for precisely the facilities that generate the smallest employment benefits.
+> - **Incentives may be poorly targeted.** Overall, state incentives are small relative to private investment. In hyperscale counties, incentives represent about 2% of total construction investment. Location decisions for these facilities are driven by power availability, land, and fiber infrastructure, not by tax breaks. In colocation counties, incentives represent a much larger share of total investment (62%), meaning subsidies may matter more for precisely the facilities that generate the smallest employment benefits.
 
 This is my contention overall, both at the local level, and even at the national level. Sure, I’ll grant Keir Starmer that it’s better to have a datacenter than just the shell of an empty factory — but not by as much as you might think, and a lot of the benefits are shipped overseas. The hardware comes from US companies, and if the datacenter is used for AI, so do the AI models, and all the revenue from them. It is far from clear where the benefits are to British companies from having this facility — and if those benefits do exist, surely the market would cause it to be built anyway. The one reason for governments to support such a build would be competition, if e.g. there were going to be one AI datacenter for Western Europe, and British companies would benefit from it being in the UK rather than somewhere on the Continent. But that does not seem to be the case here.
 
