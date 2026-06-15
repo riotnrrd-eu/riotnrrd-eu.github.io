@@ -8,8 +8,11 @@ categories:  AI cloud open-source SpaceX Anthropic
 [SpaceX went public](https://apnews.com/article/musk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d), popped nearly 20% on the first day of trading, and made That Guy a trillionaire. Meanwhile, Anthropic released its Fable 5 model, which is basically [the Mythos model which was previously limited to approved users]({% post_url 2026-04-09-Mythical-Intelligence %}), and it quickly got [banned by the US government](https://www.nbcnews.com/tech/tech-news/anthropic-suspends-new-ai-models-fable-mythos-government-directive-rcna349901).
 
 > This is 100% Anthropic reaping what they have sown:
+> 
 > “oh no, our AI is too dangerous, it must be regulated” (repeat 1000x, get the pope involved too)
+> 
 > “…not like that.”
+
 [Me on Bluesky/(https://bsky.app/profile/theriotnrrd.eurosky.social/post/3mo5kwtshf22v)
 
 So what does it all mean?
