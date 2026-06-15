@@ -13,7 +13,7 @@ categories:  AI cloud open-source SpaceX Anthropic
 > 
 > “…not like that.”
 
-[Me on Bluesky](https://bsky.app/profile/theriotnrrd.eurosky.social/post/3mo5kwtshf22v)
+-- [Me on Bluesky](https://bsky.app/profile/theriotnrrd.eurosky.social/post/3mo5kwtshf22v)
 
 So what does it all mean?
 
