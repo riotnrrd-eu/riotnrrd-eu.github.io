@@ -2,7 +2,7 @@
 layout: post
 title:  Mythical Intelligence
 date:   2026-04-09
-categories:  AI security IoT
+categories:  AI security IoT Anthropic
 ---
 
 The current wave of "AI" interest, spawned largely since the public release of ChatGPT, has always had a dark side. The positive side is all about new possibilities enabled by LLMs, whether for individuals or for companies. The dark side talks about [P\(doom\)](https://en.wikipedia.org/wiki/P(doom)), the probability of AI causing our doom, whether through the advent of some sort of super-intelligence that turns us all into paperclips, or more indirectly, through humans using advanced AI capabilities to engineer novel pathogens or whatever.
