@@ -1,11 +1,24 @@
 ---
 layout: post
 title:  Software Is Eating Itself
-date:   2026-06-10
-categories:  AI cloud open-source
+date:   2026-06-15
+categories:  AI cloud open-source SpaceX Anthropic
 ---
 
-From Matt Levine's [*Money Stuff* newsletter](https://links.message.bloomberg.com/s/c/Hv5bhBbJxHkyDIiR30bwmTvBIwks1lB3ms-lPFUZSkP9du423c34_VPguuNDyfxXdSCNeo7DGDpXchDlANf1PFpUwFfLRtbhpKMtD7KLKiReRUgKX1VQaxYtrrZeSHKKxxdUWh69TBQQF2oDpcZvTqMIjDas4hmu4Togfx20_57yIa4cE3naDdI_Qty-5wVtfpf8LnrmIoH4R7yK9bBD-EEcTNmT6sEt_vOq_oQFIpFiN9-LCwOGlsDIjfnyS5mmvcuvsGffQ2IHfmjDlIp7oQnlrBYuxb3e_TH4Jk3IqcKrwWkwKz9MEo7xk02cybu-nSeEHutPqgmRDnR5cBAtIuXxTqG5jEVdab3FbjLzh4nkhB4AKfvrXCIK0Q/a9QMpN_jvMQYHqoKB_lR5WPUlFCRQUPS/21) we read about an interesting transition in the cost model of software:
+[SpaceX went public](https://apnews.com/article/musk-spacex-tesla-ipo-trillionaire-billionaire-worth-rockets-7723f82b6063a9a17c194e25982cd66d), popped nearly 20% on the first day of trading, and made That Guy a trillionaire. Meanwhile, Anthropic released its Fable 5 model, which is basically [the Mythos model which was previously limited to approved users]({% post_url 2026-04-09-Mythical-Intelligence %}), and it quickly got [banned by the US government](https://www.nbcnews.com/tech/tech-news/anthropic-suspends-new-ai-models-fable-mythos-government-directive-rcna349901).
+
+> This is 100% Anthropic reaping what they have sown:
+> “oh no, our AI is too dangerous, it must be regulated” (repeat 1000x, get the pope involved too)
+> “…not like that.”
+[Me on Bluesky/(https://bsky.app/profile/theriotnrrd.eurosky.social/post/3mo5kwtshf22v)
+
+So what does it all mean?
+
+If there is a thread running through this blog, it's that there is very little that is new under the sun. Remember the [crypto[^1] wars of the 90s](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States#PC_era)?
+
+![This shirt is a munition](/images/Munitions_T-shirt.jpg)
+
+What is different this time is the nature of what is being banned. Software used to have zero marginal cost, but in the era of software that is provided "as a service", that is no longer true. From Matt Levine's [*Money Stuff* newsletter](https://links.message.bloomberg.com/s/c/Hv5bhBbJxHkyDIiR30bwmTvBIwks1lB3ms-lPFUZSkP9du423c34_VPguuNDyfxXdSCNeo7DGDpXchDlANf1PFpUwFfLRtbhpKMtD7KLKiReRUgKX1VQaxYtrrZeSHKKxxdUWh69TBQQF2oDpcZvTqMIjDas4hmu4Togfx20_57yIa4cE3naDdI_Qty-5wVtfpf8LnrmIoH4R7yK9bBD-EEcTNmT6sEt_vOq_oQFIpFiN9-LCwOGlsDIjfnyS5mmvcuvsGffQ2IHfmjDlIp7oQnlrBYuxb3e_TH4Jk3IqcKrwWkwKz9MEo7xk02cybu-nSeEHutPqgmRDnR5cBAtIuXxTqG5jEVdab3FbjLzh4nkhB4AKfvrXCIK0Q/a9QMpN_jvMQYHqoKB_lR5WPUlFCRQUPS/21):
 
 > A lot of the biggest and most successful companies now are [_enormously_ capital-intensive](https://links.message.bloomberg.com/s/c/0r36sM1kxNI0y5w6sE2JDeo19-TNLUPCDgN_-XLATWFU99nQkbI2zrTZISr26pwTYGvwwq5Vk_-VI2Kliue6obTlj9JiC3-kjCf-CxIwCqHQhi5DIxJBacRXnFVSO8OVwqk4dZZze5VKqBnXC9ReGpexw9AeZ1r5BVwraX8sWUpQ834aOeKhIVNcJJNROGPgjUziTLMRZ318BgAVALDpnJPFKTmKn0BGsZadjhJo-7T6p3On5KOFMqlEuTT5fh4mqU_Kdt_r75ybhskOD8U1yCDBnNd16K_gzvxpvExyVgpw4jJIB8UZ342uxPH76oOzwM7rNPG0YuS6N47sWhdw-csdmHvA05Xuo-x353h9IDc1U47cFWZ8V7Wif9I/KueOFzj3V1Vzuy25mkfdUoIi7A7Dq_Dx/21). They are artificial-intelligence hyperscalers, and their business model is like “build nuclear power plants and orbital data centers and massive chip fabrication facilities.” After years in which the cutting edge of the economy was nearly zero-marginal-cost software, now the cutting edge of the economy is extremely capital-intensive, uh, [software](https://links.message.bloomberg.com/s/c/lkH_MALJguBz8Xssl5QddOnCEcjEooP-8TKJVomb7CMqHhdlRahGVWoU-1mHuJDlE1GFEAsyV8TH7Ls9zV8jMak8ZMuf2DFoPgfnrFtCFMcmgkOvkSXQMgq75aIuinohY2kRH5ZI5WCo2Lo_-T6Ma-wNVTT-pxLs7-HZPdan-f6rG_SHdPGbcaxTTIi_-ILjv2ey4fYaWOWa4vEEH-7WDw7CChSlmh-4w1a0kuGPLhDr4qQRVsMviKfGDbZfnU5FeSBRgtrvfBj46oNRFa9FjVA8sX0MmopzEe-_vEvgjGqxmSPMomkIXtp6nAsIS1Rq9mGxHckO_1pUgu39Z2tDmV78Z2G_-ET9ZfAWXj8c6HKOQ5vA7fzfcO5g1M4/LKQVG8LyCcfNxQKmHQUY00S_cGBkkRiH/21).
 
@@ -31,7 +44,7 @@ Here's the catch: serverless compute is *significantly more expensive* than pre-
 
 This means that if you do know your demand profile, you are better off *not* using the metered serverless model, but instead pre-purchasing the capacity that you know you need. You may even be able to mix and match, with baseline guaranteed capacity at one price point and a buffer on top that is charged at surge pricing rates if it turns out that you do need it.
 
-But right now that is not how any of the frontier models work. They consume "tokens", and they do so at a rate that is not always easy to predict, and which can be affected by non-obvious architectural choices.[^1] In other words, the meter is always running.
+But right now that is not how any of the frontier models work. They consume "tokens", and they do so at a rate that is not always easy to predict, and which can be affected by non-obvious architectural choices.[^2] In other words, the meter is always running.
 
 # What if you don't have coins to feed the meter?
 
@@ -57,12 +70,19 @@ The big AI labs' problem is that AI has advanced enough that many AI tasks do no
 
 This sort of offline usage is a problem for the business model of the frontier labs precisely because it does not generate the ongoing ever-growing token revenue which their stock market valuation is built on.
 
-Offline AI models are also the reason why any attempt at AI regulation that assumes the ability to prevent certain uses, or its use by certain groups, is doomed to failure. That doesn't mean regulation is not worth doing, mind: it's perfectly reasonable to say that the Instagram app should not have a built-in feature to "nudify" pictures that people post there. On the other hand, we should also not expect that a ban on built-in features like that will eliminate abuse entirely. The reality is that bad people will continue to find ways to be bad. There probably do need to be controls on AI, but more in the way that we have controls on fertiliser, enforcing regulation and tracking at the point of sale.
+# But what about regulation?
 
-Regardless, the lack of clarity around what the future usage patterns for the frontier AI models will be is the reason why the S&P 500 is not taking on the AI bet, or at least, not right now. They want to let things play out for a year, and then see what happens. And if you really do want to buy stock in SpaceX, Anthropic, and OpenAI in the meantime, you still have the choice of going and doing that directly, actively, rather than have it included willy-nilly in a passively-managed index fund, at least while the future outcome is still so uncertain.
+Offline AI models are also the reason why any attempt at AI regulation that assumes the ability to prevent certain uses, or its use by certain groups, is doomed to failure. That doesn't mean regulation is not worth doing, mind: it's perfectly reasonable to say that the Instagram app should not have a built-in feature to "nudify" pictures that people post there. On the other hand, we should also not expect that a ban on AI features like that, or on entire hosted models like Fable 5, will eliminate abuse entirely. The reality is that bad people will continue to find ways to be bad. There probably do need to be controls on AI, but more in the way that we have controls on fertiliser, enforcing regulation and tracking at the point of sale.
 
-***
+The US Government can ban Fable 5 because it is provided as a service, which means there is a single point of access which can be blocked: Anthropic's servers themselves. The attempt to ban PGP in the 90s failed because there was no one place you had to go to get PGP, and once you had it, you didn't have to go back to the source every time; you could use your local copy of PGP entirely offline. But because ["AI" models don't have a moat]({% post_url  2026-04-14-Compute-Me-A-Moat %}), a ban on Fable 5 only buys a little bit of time until some other model which can be run offline achieves comparable performance.
+
+Regardless, the lack of clarity around what the future usage patterns for the frontier AI models will be is the reason why the S&P 500 is not taking on the AI bet, or at least, not right now. They want to let things play out for a year, and then see what happens. The Fable 5 ban, regardless of its specific merits, justifies that caution, as it implies that government regulation of the AI market is a very real possibility.
+
+And if you really do want to buy stock in SpaceX, Anthropic, and OpenAI in the meantime, you still have the choice of going and doing that directly, actively, rather than have it included willy-nilly in a passively-managed index fund, at least while the future outcome is still so uncertain.
+
+*** 
 
 🖼️  Photos by [Dylan Michaud](https://unsplash.com/@dylan_michaud) and [Simone Dinoia](https://unsplash.com/@simonedna) on [Unsplash](https://www.unsplash.com)
 
-[^1]: Yes yes, you can pre-purchase tokens at some discount, but the mechanism of token consumption is still very opaque, and the use-it-or-lose-it ratchet is much more aggressive than most of the existing cloud pricing models. It's more of a financial arbitrage than a meaningfully different pricing model.
+[^1]: You know, back when "crypto" meant something good and useful to society.
+[^2]: Yes yes, you can pre-purchase tokens at some discount, but the mechanism of token consumption is still very opaque, and the use-it-or-lose-it ratchet is much more aggressive than most of the existing cloud pricing models. It's more of a financial arbitrage than a meaningfully different pricing model.
