@@ -17,7 +17,7 @@ categories:  AI cloud open-source SpaceX Anthropic
 
 So what does it all mean?
 
-If there is a thread running through this blog, it's that there is very little that is new under the sun. Remember the [crypto[^1] wars of the 90s](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States#PC_era)?
+If there is a thread running through this blog, it's that there is very little that is new under the sun. Remember the [crypto wars of the 90s](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States#PC_era)?[^1]
 
 ![This shirt is a munition](/images/Munitions_T-shirt.jpg)
 
@@ -37,9 +37,9 @@ This problem of open-ended cost structures is not a new one that is specific to 
 
 Cloud software is roughly divided into three layers:
 
-- IaaS, or Infrastructure as a Service: basically, virtual servers in the cloud. Apart from them running in someone else's datacenter, these behave like normal servers: you log into them directly, deploy software, reboot them, and so on. Your bill is for a certain number of servers.
-- SaaS, or Software as a Service: you have no idea where the software is running, you just connect via a web browser and get to work. Your bill is for a certain number of users, or "seats".
-- PaaS, or Platform as a Service: this is an intermediate level of abstraction, where you are not connecting directly to a server, but to application software running on top of one or more servers. The details are not important or even visible to you; it's just "compute" (short-hand for "computational power/capacity"), but your bill might still be for a certain number of servers.
+- **IaaS**, or Infrastructure as a Service: basically, virtual servers in the cloud. Apart from them running in someone else's datacenter, these behave like normal servers: you log into them directly, deploy software, reboot them, and so on. Your bill is for a certain number of servers.
+- **SaaS**, or Software as a Service: you have no idea where the software is running, you just connect via a web browser and get to work. Your bill is for a certain number of users, or "seats".
+- **PaaS**, or Platform as a Service: this is an intermediate level of abstraction, where you are not connecting directly to a server, but to application software running on top of one or more servers. The details are not important or even visible to you; it's just "compute" (short-hand for "computational power/capacity"), but your bill might still be for a certain number of servers.
 
 Serverless billing applies to that last model. The idea is that, since with PaaS you don't access the servers directly, you should just pay for however much platform capacity you use, rather than for a fixed pool of capacity, as you would with per-server billing. This approach is pitched as being particularly attractive to startups: you don't know if your offering will take off, so you don't want to commit to high up-front costs — and if you do hit the big time and your thing is blowing up, you don't want to be constrained by capacity.
 
