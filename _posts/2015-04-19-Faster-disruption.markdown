@@ -5,10 +5,7 @@ date:   2015-04-19
 categories:  tech disruption 
 ---
 
-# Faster disruption
-
-
-There are theories which seem just intrinsically *right* when you hear them. Clayton Christensen's famous "disruption theory" is one of these. I was recommended to read "The Innovator's Solution" by a friend of mine who had previously worked directly with Professor Christensen, and it definitely shaped my thinking about the technology business. 
+There are theories which seem just intrinsically *right* when you hear them. Clayton Christensen's famous "disruption theory" is one of these. I was recommended to read [*The Innovator's Solution*](https://bookshop.org/p/books/the-innovator-s-solution-with-a-new-foreword-creating-and-sustaining-successful-growth-clayton-m-christensen/) by a friend of mine who had previously worked directly with Professor Christensen, and it definitely shaped my thinking about the technology business. 
 
 > When the core business approaches maturity and investors demand new growth, executives develop seemingly sensible strategies to generate it. Although they invest aggressively, their plans fail to create the needed growth fast enough; investors hammer the stock; management is sacked; and Wall Street rewards the new executive team for simply restoring the *status quo ante*: a profitable but low-growth core business. 
 
@@ -16,7 +13,7 @@ There are theories which seem just intrinsically *right* when you hear them. Cla
 
 > In sustaining circumstances—when the race entails making better products that can be sold for more money to attractive customers—we found that incumbents almost always prevail. In disruptive circumstances—when the challenge is to commercialise a simpler, more convenient product that sells for less money and appeals to a new or unattractive customer set—the entrants are likely to beat the incumbents. 
 
-Disruption theory explains a lot about many markets, although it is not without its critics. In particular, Jill Lepore caused a minor furore with a piece in the *New Yorker* entitled [The Disruption Machine](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine "The Disruption Machine" ), in which she accused Professor Christensen of cherry-picking his evidence. 
+Disruption theory explains a lot about many markets, although it is not without its critics. In particular, Jill Lepore caused a minor furore with a piece in the *New Yorker* entitled [*The Disruption Machine**](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine "The Disruption Machine"), in which she accused Professor Christensen of cherry-picking his evidence. 
 
 There is one famous exception and objection to disruption theory, and that is Apple. According to the orthodox version of the theory, Apple should have been disintermediated by now by smaller, more agile modularised competitors. Every year seems to bring its candidate as the disruptor of Apple: whether it's the Nexus, or Samsung, or Xiaomi, or whoever. Apple somehow survives them all, and not just survives, but goes from strength to strength. 
 
@@ -26,7 +23,11 @@ Ben Thompson [wrote](http://stratechery.com/2010/apple-innovators-dilemma/ "Appl
 
 Apple emphatically does not fit this model, with its focus on design and the user experience. The buyer **is** the user, and once their basic criteria are met, they can still be swayed by different user experience and personal preferences - of course, up to the budget they have available or are willing to assign to a piace of electronics. Therefore, Apple continues to be able to command much higher prices for devices that are - on paper - comparable to their modularised competitors. Users return again and again for newer versions of their device, every year or two, and Apple's profit margins are legendary. 
 
-Enterprise software had always seemed to be on a much more classic track to disruption, with procurement departments working from Request for Proposal (RfP) documents that generally allow yes/no or at most grading on a short scale, typically from one to four. Recently, though, the market has been changing, and incumbent vendors are being disrupted by offerings which bypass the traditional buyer in Procurement and appeal directly to the end user. One model is open-source, where sufficiently technical users have been able to download and use free software without support from central IT for at least the last fifteen years. The main roadblock to this avenue of disruption was in users' willingness to futz around with graphics drivers or whatever. More recently, a new avenue has opened up, namely software as a service. SaaS offerings require much less technical acumen, and much less effort even when the technical acumen is available. Even users who are able and willing to get their hands dirty only have a limited amount of time available to do so, and are quite happy to hand the responsibility off to someone else. 
+Enterprise software had always seemed to be on a much more classic track to disruption, with procurement departments working from Request for Proposal (RfP) documents that generally allow yes/no or at most grading on a short scale, typically from one to four. Recently, though, the market has been changing, and incumbent vendors are being disrupted by offerings which bypass the traditional buyer in Procurement and appeal directly to the end user. 
+
+One model is open-source, where sufficiently technical users have been able to download and use free software without support from central IT for at least the last fifteen years. The main roadblock to this avenue of disruption was in users' willingness to futz around with graphics drivers or whatever. 
+
+More recently, a new avenue has opened up, namely software as a service, or SaaS. These offerings require much less technical acumen to set up, and much less effort even when the technical acumen is available. Even users who are able and willing to get their hands dirty only have a limited amount of time available to do so, and are quite happy to hand the responsibility off to someone else. 
 
 This is how you get the infamous "shadow IT" - enterprise IT's particular incarnation of disruption theory. However, I do wonder whether enterprise software might not also have exceptions to classic disruption theory. Buyer inertia may prevent modularisation, or at least *complete* modularisation, from taking hold, or delay it for a long time. 
 
@@ -61,6 +62,8 @@ However, there ain't no such thing as a free lunch: those integrations have to k
 All of this represents yet another level of abstraction. The competition moves to a different layer of the stack: the content and integrations. Enterprise vendors who refuse to follow along are simply ceding to their competition; users - and importantly, buyers - are there already. 
 
 Hardware got commoditised, then operating systems got commoditised, and now it's the next layer up. It's not what you have under the hood, it's what you do with it - and both people and enterprises will buy the tool that enables them to get the most done.
+
+*** 
 
 [^1]: Please note the small print around any roadmap estimates.
 
