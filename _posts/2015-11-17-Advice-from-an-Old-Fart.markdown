@@ -5,9 +5,6 @@ date:   2015-11-17
 categories:  sales bitcoin 
 ---
 
-# Advice from an Old Fart
-
-
 Young people these days, am I right?
 
 > We have fallen upon evil times,
@@ -21,11 +18,11 @@ I don’t know how long is too long to be in sales, but I have now been doing it
 
 Today’s example is actually a perfect storm of sorts, involving Silicon Valley VCs, a Bitcoin startup, and large enterprise processes. I was listening to [the a16z podcast](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin"), which as usual is about equally irritating and enlightening. The guest on this particular episode was one [Adam Ludwin](https://twitter.com/adamludwin), whose claim to fame is as the founder of a Bitcoin - sorry, ***blockchain*** startup, called [Chain](http://chain.com "Chain Enterprise Blockchain Platform").
 
-![](/images/unknown_filename.10.jpeg)
+![Old man yells at cloud — I relate to this image more and more each year](/images/unknown_filename.10.jpeg)
 
 I find the techno-utopianism of everything associated with Bitcoin to be jarring at the best of times, but Ludwin and Chain have an interesting angle on it. Instead of enabling drug dealers and software extortionists, they are trying to enable large financial institutions to carry out their business using the blockchain, instead of the weird semi-analogue hodgepodge of processes that banks run on today.
 
-I’m not going to get too deeply into what Chain are up to - if you want to find out about that, you can go [listen to the episode](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin” ). What I found jarring was his surprise at what he found when selling into those large financial institutions. Anyone who has spent time selling into large enterprises could have told him this, but apparently he had to learn it the hard way.
+I’m not going to get too deeply into what Chain are up to - if you want to find out about that, you can go [listen to the episode](https://overcast.fm/+BlzHxlBRY "a16z: Blockchain vs/and Bitcoin"). What I found jarring was his surprise at what he found when selling into those large financial institutions. Anyone who has spent time selling into large enterprises could have told him this, but apparently he had to learn it the hard way.
 
 For the benefit of everyone else, here are a couple of key points.
 
@@ -39,7 +36,7 @@ Let’s get real: moving *anything* that is currently working to unproven techno
 
 There is nothing inherently wrong with this resistance: the existing process has been refined over time and is well understood, including its failure modes. The proposed new solution, however, is by definition unproven, and will almost certainly require a period of acclimatisation before it becomes as reliable as what went before, let along delivering additional value.
 
-![](/images/unknown_filename.11.png)
+![Things are best when they're obsolete. The old way of doing things reaches perfection just as it's time to be replaced.](/images/unknown_filename.11.png)
 
 *Graphic stolen from [Ben Evans](http://ben-evans.com/benedictevans/2015/11/7/mobile-ecosystems-and-the-death-of-pcs)*
 
@@ -55,7 +52,8 @@ The key point, though, is that precisely *none* of this frenzied activity will a
 
 On the other hand, once you have a sponsor who can make things happen for you, the evaluation will go that much more smoothly. Partly this is because you can call on your executive sponsor to sort out the inevitable [brown M&Ms]({% post_url 2014-01-13-Brown-M&Ms %}) sorts of problems, but mostly it is because they will clarify what is an actual business requirement versus technical curiosity or “nice to have” feature.
 
-***
+*** 
+
 
 So far so good, right? Well, if it were that simple, everyone would be doing it. The other issue is that it can be difficult to find anyone that has visibility into the whole process - which is the other point I want to discuss.
 
@@ -77,7 +75,7 @@ It turned out that *literally nobody* within the company understood the entire e
 
 What I learned is that this is normal. The sorts of processes that modern business runs on are too complex to be understood in their entirety - not when there are a hundred and one other tasks demanding people’s attention. When selling to these organisations, we need to ensure that we understand what we are proposing that they replace - and this means talking to many different people, because nobody sees the whole picture. 
 
-![](/images/unknown_filename.12.jpeg) 
+![A forest full of trees](/images/unknown_filename.12.jpeg) 
 
 People working inside complex processes are busy with individual trees, and not necessarily focusing on the entire forest. Vice versa, if we are to propose that foresters change how they manage their trees, we had better have a pretty comprehensive picture of *why*.
 
