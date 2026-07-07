@@ -11,7 +11,7 @@ Large Language Models do have their place, especially in the enterprise. I am fa
 
 ![A rocket ship. It's not supposed to look like that.](/images/blue-origin-explosion.gif)
 
-There is a huge disconnect between those graduates who have been booing commencement speakers that laud AI — and [cheering the comedians who repeat “fuck AI”](https://www.inc.com/jessica-stillman/ronny-chieng-told-harvard-grads-to-destroy-ai-they-cheered/91353239) — and the huge valuation ascribed to Anthropic, OpenAI, and SpaceX. Some say the whole of AI is a bubble, and the students are right and the market is wrong. I am not any sort of investment advisor, and of course something can be utterly bereft of value either technical and social and still be extremely valuable *financially* (ahem crypto ahem), but here is my own theory, for what it may be worse.
+There is a huge disconnect between those graduates who have been booing commencement speakers that laud AI — and [cheering the comedians who repeat “fuck AI”](https://www.inc.com/jessica-stillman/ronny-chieng-told-harvard-grads-to-destroy-ai-they-cheered/91353239) — and the huge valuation ascribed to Anthropic, OpenAI, and SpaceX. Some say the whole of AI is a bubble, and the students are right and the market is wrong. I am not any sort of investment advisor, and of course something can be utterly bereft of value either technical and social and still be extremely valuable *financially* (ahem crypto ahem), but here is my own theory, for what it may be worth.
 
 # Teaching robots to read the world
 
