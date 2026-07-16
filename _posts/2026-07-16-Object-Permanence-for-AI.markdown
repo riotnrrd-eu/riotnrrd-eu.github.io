@@ -11,7 +11,7 @@ This acceptance of inaccurate information can be a problem, of course, and while
 
 Right now AI tools do not have object permanence, beyond the ability to feed previous interactions in a conversation back in to give context to subsequent steps. The expectation of a Jarvis-like personal assistant is that it will learn over time, and this is where all of the previous iterations have fallen down. 
 
-One reason why [AI has taken off in the enterprise way faster than in consumer applications is the availability of information for it to work on]({% post_url 2026-07-07-Absent-Intelligence %}). To put it another way, a company's processes are far more legible to AI than a person's daily life. With techniques like Retrieval-Augmented Generation, or RAG, LLMs can easily parse those processes and present its analysis back to users. And of course there is code generation, where there is no bottleneck of availability of information; if anything, the problem is the opposite!
+One reason why [AI has taken off in the enterprise way faster than in consumer applications is the availability of information for it to work on]({% post_url 2026-07-07-Absent-Intelligence %}). To put it another way, a company's processes are far more legible to AI than a person's daily life. With techniques like [Retrieval-Augmented Generation, or RAG]({% post_url 2024-12-11-Object-Permanence-for-AI %}), LLMs can easily parse those processes and present their analysis back to users. And of course there is code generation, where there is no bottleneck of availability of information; if anything, the problem is the opposite!
 
 # An LLM in every pot
 
