@@ -5,16 +5,13 @@ date:   2021-07-21
 categories:  analyst podcast 
 ---
 
-# Textual Podcast
-
-
 In lieu of a normal episode of our [*Roll for Enterprise*](https://rollforenterprise.com) podcast this week, which was thwarted by myriad technical difficulties, we are trying to take our witty banter to text. Let’s see how this goes - thank you for taking the ride with us.
 
-![](/images/image.109.png)
+![Technical Difficulties](/images/image.109.png)
 
 Mike starts us off with a bang, picking up on the release of the new [Gartner Hype Cycle for Enterprise Networking](https://www.theregister.com/2021/07/15/ipv6_istilli_510_years_away/) (don’t worry, the link is to The Register, you don’t need a Gartner account to read it):
 
-**Mike**: The reason I don’t trust most market research is that I am pretty sure vendors are writing it …
+**Mike**: The reason I don’t trust most market research is that I am pretty sure vendors are writing it…
 
 **Dominic**: I wish!
 

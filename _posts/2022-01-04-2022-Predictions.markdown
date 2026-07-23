@@ -5,12 +5,9 @@ date:   2022-01-04
 categories:  podcast 2022 predictions 
 ---
 
-# 2022 Predictions
-
-
 # A Textual Podcast
 
-Welcome back to Roll For Enterprise, the podcast described as the squishy heart at the centre of enterprise IT. Because all four hosts were off having fun over the holidays, we couldn’t quite figure out the logistics of getting us all online at the same time to record an audio episode – so instead we put together this textual podcast, since it worked well as an asynchronous way of bouncing ideas around [last time we had trouble recording together]({% post_url 2021-07-21-Textual-Podcast %}).
+Welcome back to **Roll For Enterprise**, the podcast described as the squishy heart at the centre of enterprise IT. Because all four hosts were off having fun over the holidays, we couldn’t quite figure out the logistics of getting us all online at the same time to record an audio episode – so instead we put together this textual podcast, since it worked well as an asynchronous way of bouncing ideas around [last time we had trouble recording together]({% post_url 2021-07-21-Textual-Podcast %}).
 
 ![](/images/145139.png)
 
@@ -38,23 +35,24 @@ Finally, the factors enabling the Great Resignation are still very much with us,
 
 Perhaps we close the year with a verse, with apologies [to the Bard](https://www.goodreads.com/quotes/334858-if-we-shadows-have-offended-think-but-this-and-all)… 
 
-*If we podcasters have offended
-Think but this and all is mended
-That you have commuted here
-While our voices filled your ears
-And our odd, unhinged debate
-Won't predict our world’s fate
-Listeners, do not unsubscribe
-Do enjoy our diatribes
-And, as I am a fair Lilac
-If we’ve earned your candid flack
-Now, to edit themes and form
-Improvement shall become our norm
-Else the Mike, a liar call
-Or Zack incites a verbal brawl
-Lend us your ears, if we be friends
-And Dominic shall restore amends*
+> *If we podcasters have offended*
+> *Think but this and all is mended*
+> *That you have commuted here*
+> *While our voices filled your ears*
+> *And our odd, unhinged debate*
+> *Won't predict our world’s fate*
+> *Listeners, do not unsubscribe*
+> *Do enjoy our diatribes*
+> *And, as I am a fair Lilac*
+> *If we’ve earned your candid flack*
+> *Now, to edit themes and form*
+> *Improvement shall become our norm*
+> *Else the Mike, a liar call*
+> *Or Zack incites a verbal brawl*
+> *Lend us your ears, if we be friends*
+> *And Dominic shall restore amends*
 
-***
+*** 
+
 🖼️  Photo by [Clay Banks](https://claybanks.info) on [Unsplash](https://www.unsplash.com)
 
