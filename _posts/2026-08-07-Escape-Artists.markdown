@@ -25,7 +25,7 @@ What all of these "escapes" have in common is that it's not a case of the model 
 
 The problem we are facing is not that we are all about to be turned into paperclips by ChatGPT on its own initiative; rather, it's that the researchers running these evaluations have been quite shockingly lax in their experimental protocols. 
 
-The thing is, it's not just the big labs in the US and China who are conducting these evalauations; the AI Security Institute, a UK government agency, has been conducting its own evaluations of tools developed by Anthropic and OpenAI, and *also* [experienced a containment breach](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing). However, differently from the big US labs, the British boffins have actually written up a halfway decent *mea culpa*, complete with a plan to do better in the future:
+The thing is, it's not just the big labs in the US who are conducting these evalauations; the AI Security Institute, a UK government agency, has been conducting its own evaluations of tools developed by Anthropic and OpenAI, and *also* [experienced a containment breach](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing). However, differently from the big US labs, the British boffins have actually written up a halfway decent *mea culpa*, complete with a plan to do better in the future:
 
 > Importantly, this was not a case of a model escaping its secure test environment, or ‘sandbox’. As was standard in our cyber testing, we had intentionally permitted internet access, and model-provider cyber classifiers were deliberately disabled - conditions that do not reflect how frontier models are made available to the public. We do this to best assess the maximum capability of models. These configuration choices have been common practice in frontier AI evaluations. The specific models in question, in the configurations in which we tested them are not commercially available and there is no clear indication of similar activity outside of testing scenarios.  
 
@@ -60,7 +60,7 @@ Even if the US were to put Anthropic, OpenAI, and Meta under some sort of strict
 
 ![The Net movie poster](/images/Netposter1995.jpg)
 
-Worry about the human driving the agents, not some scenario vaguely mis-remembered from a science-fiction film that dates back to last century.
+Worry about the humans driving the agents, not some scenario vaguely mis-remembered from a science-fiction film that dates back to last century.
 
 ***
 
