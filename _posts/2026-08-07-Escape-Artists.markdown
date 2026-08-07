@@ -38,6 +38,8 @@ The AISI team offer three lessons for the future:
 > - **Real-time monitoring.** We are introducing monitoring built to watch an evaluation as it runs, able to flag or block out-of-scope actions as they happen.
 > - **Reassessing evaluation design.** Evaluations should assume a capable model may try to act beyond its remit, with the scope of any such behaviour limited in advance. AISI’s sandboxing guidelines recommend tailoring the sandbox configuration based on the design of the evaluation; good containment should not depend on the model choosing not to test its boundaries. We are also adding additional checks to ensure tasks are correctly specified and solvable by the intended route.
 
+All known best practices, not even AI-specific, and relatively easy to implement too, requiring simply that researchers a\) pay attention to what they are doing, and b\) think about their experiment design for more than one minute.
+
 # Who is to blame?
 
 The bigger question is, [who is legally to blame for actions by these autonomous AI agents](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)?
@@ -60,7 +62,13 @@ Even if the US were to put Anthropic, OpenAI, and Meta under some sort of strict
 
 ![The Net movie poster](/images/Netposter1995.jpg)
 
-Worry about the humans driving the agents, not some scenario vaguely mis-remembered from a science-fiction film that dates back to last century.
+Worry about the humans driving the agents, not some scenario vaguely mis-remembered from a science-fiction film that dates back to last century. The cat is well and truly out of the bag on the tools being available and becoming more capable, so enforcement mechanisms need to focus on the users who give them their instructions and set up the environments they will operate in. 
+
+The Wild West era of breakneck experimentation is coming to a close. Figuring out how to integrate these new technologies into our world is going to require some though to be given to the frameworks they will operate under. 
+
+When [Bertha Benz](https://en.wikipedia.org/wiki/Bertha_Benz) went on her famous drive, she did not have to worry about traffic lights, speed limits, and parking enforcement. But now, our use of our cars is fenced around with all sorts of regulations, including who is liable in the case of collisions or other problems. 
+
+We will know that "AI" is properly mature once we see the same sorts of frameworks emerge to regulate its use. Whether that will involve the transnational Turing police envisioned by William Gibson, or some other mechanism, is up to us to decide — but we need to be having that conversation right now.
 
 ***
 
