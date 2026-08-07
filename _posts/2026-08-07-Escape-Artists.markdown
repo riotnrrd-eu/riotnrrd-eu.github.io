@@ -30,7 +30,7 @@ The thing is, it's not just the big labs in the US and China who are conducting 
 > Importantly, this was not a case of a model escaping its secure test environment, or ‘sandbox’. As was standard in our cyber testing, we had intentionally permitted internet access, and model-provider cyber classifiers were deliberately disabled - conditions that do not reflect how frontier models are made available to the public. We do this to best assess the maximum capability of models. These configuration choices have been common practice in frontier AI evaluations. The specific models in question, in the configurations in which we tested them are not commercially available and there is no clear indication of similar activity outside of testing scenarios.  
 
 ![That's nothing! My AI broke its guardrails, became head of commissioning at HBO, and greenlit a $300M live-action remake of Wacky Races. And it wasn't *just* because I trained it to do that sort of thing.](/images/jason-gorman.png)
-######[Jason Gorman on LinkedIn](https://www.linkedin.com/posts/jasongorman_thats-nothing-my-ai-broke-its-guardrails-share-7491032076406898688-HCBX/)
+###### [Jason Gorman on LinkedIn](https://www.linkedin.com/posts/jasongorman_thats-nothing-my-ai-broke-its-guardrails-share-7491032076406898688-HCBX/)
 
 The AISI team offer three lessons for the future:
 
