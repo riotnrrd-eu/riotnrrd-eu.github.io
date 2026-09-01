@@ -5,6 +5,10 @@ date:   2026-09-01
 categories:  books
 ---
 
+Here is what I have been reading and watching over the past month. It feels a little light on the reading, but that's because I had a bit of a book hangover from July. There was also a lot of personal travel in August, which you'd think might mean more time to read, but when you're travelling with friends, is more the opposite of that.
+
+No referral links; if you like something I recommended, tell me what you liked, preferably over a beer, and share one of your faves in return.
+
 # Reading
 
 ## The Bridge, Iain Banks
@@ -36,6 +40,8 @@ I forget who recommended this one, but it does interesting things. I was ready t
 The book sometimes feels more like magical realism than science fiction, even with a lot of the plot rotating around a tech company focused on instantiation. That magical-realism aspect is what initially turned me off, and I'm still not quite sure whether it gets dialled or whether it was me getting tuned into it, but by the halfway point it was no longer bothering me. 
 
 There is a lot of Korea in this one, which is fun to read about, precisely because I don't know that much about Korea as a nation. I'm not really the demographic for K-pop, but other aspects of Korean culture are interesting, and very naturally realised in this book. As with *Cool Machine*, I can't really comment on the accuracy, but it felt very real in the moment.
+
+*** 
 
 # Watching
 
