@@ -9,9 +9,11 @@ Here is what I have been reading and watching over the past month. It feels a li
 
 No referral links; if you like something I recommended, tell me what you liked, preferably over a beer, and share one of your faves in return.
 
+*** 
+
 # Reading
 
-## The Bridge, Iain Banks
+### The Bridge, Iain Banks
 
 I had been putting this one off, even though the paperback has been on my shelves for years, because it is the very last Banks book for me. I've read and loved them all,[^1] even the non-fiction ones (*Raw Spirit* is a particular favourite, whether you like whisky or not). Because it is the last one, I also rationing my reading of this one, and not just because, being a paperback, I don’t read it in bed (that is iPad time). 
 
@@ -19,7 +21,7 @@ After all that, I found it an appropriate ending to my years-long journey with I
 
 No spoilers, but not because the plot is in any way twisty or surprising; I had a pretty good idea of the conclusion before I was more than a handful of pages in. This one is about the ride, not the destination.
 
-## After 1178 — The Survival Of Civilizations, Eric H. Cline
+### After 1178 — The Survival Of Civilizations, Eric H. Cline
 
 This is the sequel to his earlier book, *1177 B.C.: The Year Civilization Collapsed*. It was entirely unplanned that I was finishing this when I went to see Christopher Nolan’s take on *The Odyssey* (see below), but I nearly fell off my cinema seat when Matt Damon delivered *that* line (no spoilers in case you haven’t seen it, but now you know there is a connection — although I have since seen a couple of reviews that picked up on it).
 
@@ -27,13 +29,13 @@ In a summer of apocalyptic imagery, the theme of society-level resilience is ver
 
 It's a rollicking ride for all that, with Cline managing to keep threads going both "horizontally" (everything that's happening at a particular time) and "vertically" (how events fall out in a particular place or for a specific civilisation). It would be easy to get lost in the wealth of material here — or conversely, to extrapolate too wildly about a period defined largely by the absence or cessation of written records — but I was able to stay engaged throughout.
 
-## Cool Machine, Colson Whitehead
+### Cool Machine, Colson Whitehead
 
 This book evokes a tremendous sense of place of New York in 1980, and from an African-American perspective at that. Of course I have no idea how *accurate* the portrayal is, but the setting feels very lived-in. The book itself is a series of heist vignettes which rattle along entertainingly, but really it’s all about the ambience. 
 
 I can see why William Gibson recommended it, as he does something very similar in his own books, creating worlds for readers to inhabit via the inclusion of a filigree of minor details and fleshing out the characters by showing them moving through that world, changing it and being changed by it as they go. 
 
-## Sublimation, Isabel Kim
+### Sublimation, Isabel Kim
 
 I forget who recommended this one, but it does interesting things. I was ready to give up about twenty pages in, as I felt that the setting was too pat: if you cross a border, you may "instance", meaning a copy of you leaves and another stays behind. And yes, Kim does do the obvious things, but in a not-obvious way: instances have visa trouble, and there are ongoing literary threads about a version of the Odyssey (that again!) in which Odysseus instances. 
 
@@ -45,15 +47,15 @@ There is a lot of Korea in this one, which is fun to read about, precisely becau
 
 # Watching
 
-## Ted Lasso
+### Ted Lasso
 
 At this point you know what the deal is with Ted Lasso, and you’re either in for his folksy brand of cosy escapism, or not. She Who Must Be Obeyed and I quite enjoyed previous series, and at this point we are enjoying visiting with the characters from previous series (sadly minus Jamie Tartt) rather than looking for any earth-shattering plot twists. Of course the series is only half-way done, but I'm getting exactly what I was in for.
 
-## La Femme Nikita
+### La Femme Nikita
 
 I like Luc Besson as a film-maker, although I do understand he is not a nice person at all. This film really reflects a nasty personality behind it, but, in what is a worse sin on an artistic level, its narrative structure Is extremely disjointed. I can see the development of some themes he will return to in later, better-known filmes, but I cannot really recommend this one except for completists, or perhaps obsessive fans of Eighties suit tailoring. The idea of a Violent Girl might have been shockingly novel when the film first came out, but it’s been done better since, including by Besson himself.
 
-## The Odyssey
+### The Odyssey
 
 I saw this at the cinema, although not in IMAX (there is no suitable screen within easy striking distance). The big screen obviously helps, but the big sound system is actually a crucial part of the experience here — although Nolan and Ludwig Göransson's trademark blasts of HOOOOOORNS did sometimes overwhelm the speakers. 
 
