@@ -5,9 +5,9 @@ date:   2026-09-01
 categories:  books
 ---
 
-Here is what I have been reading and watching over the past month. It feels a little light on the reading, but that's because I had a bit of a book hangover from July. There was also a lot of personal travel in August, which you'd think might mean more time to read, but when you're travelling with friends, is more the opposite of that.
+Here is what I have been reading and watching over the past month. It feels a little light on the reading, but that's because I had a bit of a book hangover from July. There was also a lot of personal travel in August, which you'd think might mean more time to read, but when you're travelling with friends and family, is more the opposite of that.
 
-No referral links; if you like something I recommended, tell me what you liked, preferably over a beer, and share one of your faves in return.
+No referral links; if you like something I recommended, tell me what you liked about it, preferably over a beer, and share one of your faves in return.
 
 *** 
 
@@ -15,7 +15,7 @@ No referral links; if you like something I recommended, tell me what you liked, 
 
 ### The Bridge, Iain Banks
 
-I had been putting this one off, even though the paperback has been on my shelves for years, because it is the very last Banks book for me. I've read and loved them all,[^1] even the non-fiction ones (*Raw Spirit* is a particular favourite, whether you like whisky or not). Because it is the last one, I also rationing my reading of this one, and not just because, being a paperback, I don’t read it in bed (that is iPad time). 
+I had been putting this one off, even though the paperback has been on my shelves for years, because it is the very last Banks book for me. I've read and loved them all,[^1] even the non-fiction ones (*Raw Spirit* is a particular favourite, whether you like whisky or not). Because it is the last one, I also rationing my reading of this one, and not just because, being a paperback, I didn’t read it in bed (that is iPad time). 
 
 After all that, I found it an appropriate ending to my years-long journey with Iain (M) Banks: a slow-burn journey, a *Bildungsroman* of sorts. What it reminded me of most was *Lanark*, by Alasdair Gray: Scottish metaphysical dreams. But Banks fundamentally *liked* people, where I am not at all sure that Gray did, and that shines through one last time in this creation. 
 
@@ -39,9 +39,9 @@ I can see why William Gibson recommended it, as he does something very similar i
 
 I forget who recommended this one, but it does interesting things. I was ready to give up about twenty pages in, as I felt that the setting was too pat: if you cross a border, you may "instance", meaning a copy of you leaves and another stays behind. And yes, Kim does do the obvious things, but in a not-obvious way: instances have visa trouble, and there are ongoing literary threads about a version of the Odyssey (that again!) in which Odysseus instances. 
 
-The book sometimes feels more like magical realism than science fiction, even with a lot of the plot rotating around a tech company focused on instantiation. That magical-realism aspect is what initially turned me off, and I'm still not quite sure whether it gets dialled or whether it was me getting tuned into it, but by the halfway point it was no longer bothering me. 
+The book sometimes feels more like magical realism than science fiction, even with a lot of the plot rotating around a tech company focused on instantiation. That magical-realism aspect is what initially turned me off, and I'm still not quite sure whether it gets dialled down or whether it was me getting tuned into the setting, but by the halfway point of the book, that aspect was no longer bothering me. 
 
-There is a lot of Korea in this one, which is fun to read about, precisely because I don't know that much about Korea as a nation. I'm not really the demographic for K-pop, but other aspects of Korean culture are interesting, and very naturally realised in this book. As with *Cool Machine*, I can't really comment on the accuracy, but it felt very real in the moment.
+There is a lot of Korea in this one, which is fun to read about, precisely because I don't know that much about Korean culture. I'm not really the demographic for K-pop, but other aspects of Korea are interesting, and very naturally realised in this book. As with *Cool Machine*, I can't really comment on the accuracy, but it felt very real in the moment.
 
 *** 
 
@@ -62,6 +62,10 @@ I saw this at the cinema, although not in IMAX (there is no suitable screen with
 I did not get too exercised about the departures from the original epic poem, and I say this having read parts of it in the original Greek — in *metre*, natch. I think Nolan mostly respects the spirit of the Odyssey, refracted through modern sensibilities. Most of the criticism I found utterly inane (the poem *also* uses non-linear storytelling and flashbacks, you oafs! it was written down *at least* four centuries after the events that inspired it, during which goodness knows how much editorialising had happened already!). There has been fan-fic set in the Homeric Cinematic Universe since the original poems were first written down, with Virgil being probably the most successful, at least in terms of longevity. Personally I am a huge fan of Claire North’s retelling of the story from Penelope’s point of view in her *The Songs of Penelope* trilogy; you might not think there would be three books of material there, but there absolutely are.
 
 One point that I have not seen picked up anywhere else, though, is the design of Agamemnon’s armour. Like everything else on screen, this is no mistake, but rather a very deliberate choice on Nolan’s part. SWMBO and I both picked up on this, and our theory is that it’s marking Agamemnon out as a hero from the age that has ended, the age of the Illiad, who is out of place in the fallen or falling world of the Odyssey, where the laws of hospitality have been broken forever, and the islands are beset by the Sea Peoples, whoever they might actually be.
+
+*** 
+
+See you next month, with an end-of-season report on *Silo* at the very least, as well as opinions on the history of the Chinese Communist Party! 
 
 ***
 
