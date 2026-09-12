@@ -2,7 +2,7 @@
 layout: post
 title:  SaaSpocalypse Now?
 date:   2026-09-11
-categories:  CoffeeTalk AI
+categories:  CoffeeTalk AI SaaS
 ---
 
 [![Me waving and holding a coffee cup](/images/SaasPocalypse-cover.jpg)](https://www.youtube.com/watch?v=QaC7iqf76fo)
