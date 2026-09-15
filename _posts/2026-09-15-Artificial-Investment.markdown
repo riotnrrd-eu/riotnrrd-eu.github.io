@@ -23,9 +23,9 @@ It was the same when I was building business cases for non-AI automation. We alw
 
 If the users are paralegals, or HR specialists, or accountants, that gap is a lot bigger. They might use bits of automation in their jobs — a library of text snippets for autocomplete, a helpful spreadsheet macro — but the benefits are limited to the individual. AI is already working at that level; in fact, that is where a lot of "shadow AI" comes from. Individuals use their personal chatbot accounts, or perhaps even just the free tier, to compose emails, clean up writing, or generate reports. But any benefit is invisible to the company, and limited to those individuals.[^2] For the benefit to show up on the CFO's beloved bottom line, something else is needed: a way to harness the AI more closely to the core business processes. This is not a small change, and requires the involvement of many people who have the agency and responsibility to modify those processes to take advantage of new technological capabilities.
 
-Incidentally, this discrepancy is what drives the interest in humanoid robots. The whole concept of machines shaped like humans is an attempt to hack the technology adoption process: if a machine can operate like a human, in spaces and with equipment designed for humans, it can slot in without requiring all that tedious process redesign and change management. Instead, what we have in actual current reality is industrial robots on carefully-engineered assembly lines. Humans work entirely differently, and have to stay well away from the robots while they are operating.
-
 ![Industrial robot arms](/images/franck-v-dRMQiAubdws-unsplash.jpg)
+
+Incidentally, this discrepancy is what drives the interest in humanoid robots. The whole concept of machines shaped like humans is an attempt to hack the technology adoption process: if a machine can operate like a human, in spaces and with equipment designed for humans, it can slot in without requiring all that tedious process redesign and change management. Instead, what we have in actual current reality is industrial robots on carefully-engineered assembly lines. Humans work entirely differently, and have to stay well away from the robots while they are operating.
 
 There is one more useful analogy from my BladeLogic days, and that is the transition between treating servers as [pets versus cattle]({% post_url 2015-06-12-As-one-chapter-ends,-another-begins %}):
 
@@ -65,7 +65,7 @@ What if, as Singularity fans postulate, progress continues beyond the creation o
 
 Do AGIs need environmental protection? Maybe in this we humans could have common cause with our artificial offspring, in pursuit of a less-polluted informational space. We could even fine major polluters, or deem certain spaces Superfund sites, beyond reasonable remediation. Finally, a legal definition of cognitohazards!
 
-![The Twitter logo, with the following text: This place is not a place of honor. No highly esteemed deed is commemorated here. Nothing valued is here. What is here is dangerous and repulsive to us. This place is best shunned and left uninhabited.](images/twitter-warning.jpg)
+![The Twitter logo, with the following text: This place is not a place of honor. No highly esteemed deed is commemorated here. Nothing valued is here. What is here is dangerous and repulsive to us. This place is best shunned and left uninhabited.](/images/twitter-warning.jpg)
 
 Wait, do AGIs get to *vote*? Or for that matter, could they stand for election to public office? 
 
