@@ -20,7 +20,7 @@ Some of the reactions are genuinely funny, like [this one](https://river.geek.nz
 
 It is time once again to bring out the ancient wisdom:
 
-![Tech enthusiasts: My entire house is smart. Tech workers: The only piece of technology in my house is a printer and I keep a gun next to it so I can shoot it if it makes a noise I don't recognize.](/images/tweet-1116670170980859905.png")
+![Tech enthusiasts: My entire house is smart. Tech workers: The only piece of technology in my house is a printer and I keep a gun next to it so I can shoot it if it makes a noise I don't recognize.](/images/tweet-1116670170980859905.png)
 
 The problem is that smart appliances are *not* actually a terrible idea; they are just being implemented poorly and with many bad incentives.
 
