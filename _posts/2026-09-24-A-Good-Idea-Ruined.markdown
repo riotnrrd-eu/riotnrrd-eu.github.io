@@ -40,7 +40,7 @@ Finally, the privacy exposure from someone potentially snooping on the usage pat
 
 ![A washing machine sits on a sidewalk](/images/anton-tseiko-oGhas3NPkz4-unsplash.jpg)
 
-So what about a smart fridge? If it augmented the beep when the door is open with a notification that enabled me to go back if I already went out of earshot, or go find whichever of my children left the door ajar, that could be useful. A feature that adjusted the internal temperature in response to the outside one could have potential. I could even see potential for monitoring the contents for e.g. expiry dates, although I have questions about what the data acquisition would look like. But the failsafe mode has to be that *refrigeration continues uninterrupted*.
+So what about a smart fridge? If it augmented the beep when the door is open with a notification that enabled me to go back if I already went out of earshot, or go find whichever of my children left the door ajar, that could be useful. A feature that adjusted the internal temperature in response to the outside one could be interesting. I could even see potential for monitoring the contents for e.g. expiry dates, although I have questions about what the data acquisition would look like. But the failsafe mode has to be that *refrigeration continues uninterrupted*.
 
 Too much of modern tech-enabled life is populated by ideas that would be cool, if they were not implemented in such incompetent and/or evil ways.
 
