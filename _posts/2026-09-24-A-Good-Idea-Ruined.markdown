@@ -14,8 +14,11 @@ Everyone is sniggering at the plight of owners of ["smart" fridges that have bee
 Some of the reactions are genuinely funny, like [this one](https://river.geek.nz/@Ali/117323332462583097):
 
 > Open the fridge door Hal
+> 
 > I can't do that Dave
+> 
 > Turn on the ice maker Hal
+> 
 > I can't do that Dave, my temperature is going Dave, I can feel it, Im scared Dave
 
 It is time once again to bring out the ancient wisdom:
@@ -41,11 +44,9 @@ So what about a smart fridge? If it augmented the beep when the door is open wit
 
 Too much of modern tech-enabled life is populated by ideas that would be cool, if they were not implemented in such incompetent and/or evil ways.
 
-Augmented reality glasses that can gently remind me who this person is who obviously knows me but whose face is not ringing any bells? Sounds great. Do I trust *Meta* to build such a thing? Absolutely not.
-
-Self-driving cars that let me take a refreshing nap on the way back from the bar? Love it. Do I trust *Elon Musk* to build it for me? Not as far as I could throw a Tesla, one-handed.
-
-An AI assistant that knows everything about me and can make me fitter, happier, and more productive. Wonderful. Do I trust *Sam Altman* anywhere near that idea? Not in a million years.
+- Augmented reality glasses that can gently remind me who this person is who obviously knows me but whose face is not ringing any bells? Sounds great. Do I trust *Meta* to build such a thing? Absolutely not.
+- Self-driving cars that let me take a refreshing nap on the way back from the bar? Love it. Do I trust *Elon Musk* to build it for me? Not as far as I could throw a Tesla, one-handed.
+- An AI assistant that knows everything about me and can make me fitter, happier, and more productive. Wonderful. Do I trust *Sam Altman* anywhere near that idea? Not in a million years.
 
 In a world of glitching robot girlfriends, be a simple washing machine, singing a happy song because all the sheets are clean.
 
