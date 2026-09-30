@@ -72,7 +72,7 @@ What is the upside for these providers — that they can more easily be disinter
 
 All of the above goes for the consumer space, because those are the examples in the original piece that I was reacting to. A move away from apps is far more plausible in the business world, not least because it has largely already happened. An app that needs to be provisioned to users' devices is just one more source of friction that gets between vendor and revenue. A web application is easier to build, quicker to update, and more universally compatible. And none of those web apps is *beautiful*; beauty, and even usability, are secondary concerns when the buyer is not the user. In fact, the vibe-coded custom GUI is often a step up in usability, because it is built by someone who is directly involved in whatever the business process is, interacting daily with the vendor-supplied GUI, and sufficiently frustrated by the experience to come up with their own alternative.
 
-[I still don't believe in the SaaSpocalypse]({% post_url 2026-09-11-SaaSpocalypse-Now %}), though: customising the front-end is very different from replacing the back-end. Both will evolve, and may well need to be [repackaged in new and interesting ways]({% post_url 2026-01-09-Cursing-and-Recursing/ %}), but that's a story for another day.
+[I still don't believe in the SaaSpocalypse]({% post_url 2026-09-11-SaaSpocalypse-Now %}), though: customising the front-end is very different from replacing the back-end. Both will evolve, and may well need to be [repackaged in new and interesting ways]({% post_url 2026-01-09-Cursing-and-Recursing %}), but that's a story for another day.
 
 ***
 
