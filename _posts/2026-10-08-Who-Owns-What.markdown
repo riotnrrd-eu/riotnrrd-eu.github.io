@@ -14,7 +14,7 @@ I had an interesting exchange with Benedict Evans over on LinkedIn, prompted by 
 Prompted by some recent thoughts of my own about "customer ownership", I responded:
 
 > Customers might well object to the notion that it is Amazon’s data to own. And we are seeing the same conflict play out in the enterprise space, e.g. with Salesforce blocking Glean. It’s far from settled what the landscape will look like. 
-> More here: [https://findthethread.blog/Personal-Data-Silos/({% post_url 2026-09-13-Personal-Data-Silos %})
+> More here: [https://findthethread.blog/Personal-Data-Silos/({% post_url 2026-09-23-Personal-Data-Silos %})
 
 To which Benedict curtly replied:
 
