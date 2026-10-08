@@ -32,7 +32,7 @@ Now a second entity (Meta, Glean) would like to access that data to deliver serv
 
 ![SQUEEEEEEZE](/images/raquel-baires-8kbehseBQtE-unsplash.jpg)
 
-The point that I was trying to make to Benedict is that the two aspects of ownership of the customer and ownership of the data are intimately related. The data gravity is stronger as users receive more value from the services which rely on that data. But if the value provided by the third-party entrants (Meta and Glean) is high enough, the situation becomes unstable.
+The point that I was trying to make to Benedict is that the two aspects of *ownership of the customer* and *ownership of the data* are intimately related. The data gravity is stronger as users receive more value from the services which rely on that data. But if the value provided by the third-party entrants (Meta and Glean) is high enough, the situation becomes unstable.
 
 On the one hand, Amazon and Salesforce are reluctant to weaken their grip on the customer by granting access to the data. Those ancillary services do not just have value to customers; they also have value to the vendors, as in the example of the inline apps within Amazon that Benedict himself cites. If a customer is accessing Amazon via Meta's Muse, or Salesforce via Glean's enterprise search, they are not encountering those services, and Amazon and Salesforce lose an opportunity to monetise that interaction.
 
