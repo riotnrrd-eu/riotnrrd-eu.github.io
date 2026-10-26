@@ -16,10 +16,15 @@ The problem is the same one I have with all consumer AI devices: users would hav
 I have a little [TRMNL e-ink device](https://trmnl.com) in the kitchen, and I use it to display the weather forecast, the family calendar, and other odds and ends. The weather forecast is fine, but the problem with the calendar is getting the other people in the family to update their own data in there. I regularly have questions like this:
 
 > ME: $CHILD, are you not supposed to be getting ready for $ACTIVITY about now?
+> 
 > CHILD: huh?
+> 
 > ME: (deep sigh) the calendar says you are supposed to be at $ACTIVITY in half an hour?
+> 
 > CHILD: oh no, that got moved to Wednesday
+> 
 > ME: could you update the calendar so I'll know too?
+> 
 > CHILD: fiiiiiine (rolls eyes with such force that I can feel it from the kitchen)
 
 Any AI assistant that bases its recommendations or planning on a data source that is frequently incorrect is off to a bad start — and the AI part is a big part of the attraction here, over something like a normal HomePod.
