@@ -28,7 +28,7 @@ What else can the HomeView do? Run home automation stuff? I only have a couple o
 
 The problem we are left with then is the same one that any device will face if it tries to compete with the phone. The [HomeView launch video](https://www.youtube.com/watch?v=hkrYiZ_g9tw) (apart from the issues that everyone has pointed out with how the power cord is routed) does not show anything people can't already do on their phones. The problem is always the same: people already have the phones, they like them, and one of the things they like is specifically that they are multi-purpose devices
 
-![Everything the iPhone replaced](/images/1993-vs-2013-v0-XcjXiiSaOgglY2rdETwZkv3Vk7NGa9GkohrJ4Ldk06M.jpg)
+![Everything the iPhone replaced](/images/1993-vs-2013-v0-XcjXiiSaOgglY2rdETwZkv3Vk7NGa9GkohrJ4Ldk06M.jpeg)
 
 The iPhone replaced music players, cameras, address books, maps, books, and more, and people specifically like that they can carry one device and have all of those functions in their pocket. Any device that is trying to break that meld up again into dedicated single-purpose devices, let alone stationary ones, has an uphill battle ahead of it.
 
