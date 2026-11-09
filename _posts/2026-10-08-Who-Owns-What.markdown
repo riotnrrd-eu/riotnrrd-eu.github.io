@@ -11,16 +11,16 @@ I had an interesting exchange with Benedict Evans over on LinkedIn, prompted by 
 > 
 > But the more interesting issue is that Amazon sold $75bn of ads in the last 12 months. Ads are big business for a lot of retailers now and they’re most of the profits at places like Instacart and DoorDash. Never mind losing your upsell - the agent won’t see the ads. And on the other side, no-one really knows what agents will do to returns and fraud, but it won’t be pretty, and that was already part of why people block bots.
 
-Prompted by some recent thoughts of my own about "customer ownership", I responded:
+Prompted by some recent thoughts of my own about "customer ownership", I [responded](https://lnkd.in/p/eRURerE4):
 
 > Customers might well object to the notion that it is Amazon’s data to own. And we are seeing the same conflict play out in the enterprise space, e.g. with Salesforce blocking Glean. It’s far from settled what the landscape will look like. 
 > More here: [https://findthethread.blog/Personal-Data-Silos]({% post_url 2026-09-23-Personal-Data-Silos %})
 
-To which Benedict curtly replied:
+To which Benedict curtly [replied](https://lnkd.in/p/eqmG62kK):
 
 > **Dominic Wellington** I didn’t mention data ownership. 
 
-Which is a fair point; in trying to keep my point pithy, I had elided that important difference. I clarified:
+Which is a fair point; in trying to keep my point pithy, I had elided that important difference. I [clarified](https://lnkd.in/p/eHTxpfWU):
 
 > **Benedict Evans** Neither you did, but I suspect if (big if) Muse takes off the way Meta hopes it will, data ownership will become a competitive issue, leading to potential changes in what had previously seemed pretty solid customer ownership. 
 
