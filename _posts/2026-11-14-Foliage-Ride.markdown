@@ -25,7 +25,7 @@ From Rezzanello I rode along the ridge, enjoying more autumn colours, before hea
 
 ![A teal bicycle leaning against a wooden information board](/images/IMG_3613.jpeg)
 
-Unfortunately at this point a bitterly cold wind came up. I was glad of my spare outer layer and [Hestra over-gloves]({% post_url 2021-02-17-Who-Needs-Alps-Anyway }), but it was still unpleasant, and my legs decided they had simply had enough. However, I didn't fancy busy Saturday traffic on the main road, so I was stuck with my route via Rallio and [Veano]({% post_url 2024-08-19-Up-and-down-through-history %}), and ground my way up the side of the valley excruciatingly slowly. It didn't help that my bone-conduction headphones ran out of battery at this point, leaving me with nothing to distract me and keep me motivated.
+Unfortunately at this point a bitterly cold wind came up. I was glad of my spare outer layer and [Hestra over-gloves]({% post_url  2021-02-17-Who-Needs-Alps-Anyway %}), but it was still unpleasant, and my legs decided they had simply had enough. However, I didn't fancy busy Saturday traffic on the main road, so I was stuck with my route via Rallio and [Veano]({% post_url 2024-08-19-Up-and-down-through-history %}), and ground my way up the side of the valley excruciatingly slowly. It didn't help that my bone-conduction headphones ran out of battery at this point, leaving me with nothing to distract me and keep me motivated.
 
 ![Looking across the Trebbia valley to the Pillerone](/images/IMG_3622.jpeg)
 
