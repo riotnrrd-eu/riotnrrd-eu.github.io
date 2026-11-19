@@ -18,7 +18,3 @@ But eventually someone goes down the rabbit hole of trying to find the original 
 It is also possible to fight back against the entropy of bad stats. Again, I am not going to share names, but I joined a company and was handed a default first-meeting deck that rested entirely on one key statistic. And when I went looking for the source, I found that it was not backed up by anything — literally just an unsupported assertion, granted a veneer of authority by familiarity and re-use. Eventually I was able to change our messaging so that it did not rely on the bogus stat, but in the mean time, it was already out there, in press reports, interviews, and even (here's the kicker) adopted by competitors. In fact, I just did a quick check, and it's *still out there*. At this point, it's presumably been ingested by LLMs, so it's going to be with us until the heat death of the universe.
 
 All I can do for my part is refuse to perpetrate similar crimes against data integrity, and correct the record where they have already occurred. If I don't know where a stat comes from and what it means, I will not use it. I stand by any numbers on a slide that I put together, and if I don't have solid stats, I'll use something else instead. After all, it's so easy to [lie with real statistics](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics); only amateurs need to tilt the board by making up their own numbers too.
-
-***
-
-🖼️  Photos by [name](link) on [Unsplash](https://www.unsplash.com)
