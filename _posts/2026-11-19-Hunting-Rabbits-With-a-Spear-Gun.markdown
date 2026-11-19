@@ -7,7 +7,7 @@ categories:  Work
 
 I had an incredibly satisfying experience today.
 
-I had put together a deck for a big event, and included a statistic from an industry analyst firm (details removed to protect the guilty). Some analysts from the firm were in the audience, and after the show, questioned that key stat. Here's the satisfying part: I was able to respond immediately by quoting back chapter and verse of where that stat came from, including the actual slide where their own colleague had presented it to me.
+I had put together a slide deck for a big event, and included a statistic from an industry analyst firm (details removed to protect the guilty). Some analysts from the firm were in the audience, and after the show, questioned that key stat. Here's the satisfying part: I was able to respond immediately by quoting back chapter and verse of where that stat came from, including the actual slide where their own colleague had presented it to me.
 
 ![Obama mic drop](/images/Barack_Obama_Mic_Drop_2016-1584245544.jpg)
 
