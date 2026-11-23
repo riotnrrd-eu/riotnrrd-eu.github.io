@@ -9,6 +9,8 @@ I have written before about how [one of the key requirements for AI to be succes
 
 Problems arise when services and products require this legibility, or, perhaps worse for users' experience, assume it is already present. 
 
+*** 
+
 > My kingdom for a search engine that will just. Do. What. I. Fscking. Tell. It.
 > 
 > I want to search for pages that match two words, both of them, in that precise sequence. Back in the day you could just put quotes around the words, job done. No more.
@@ -19,7 +21,9 @@ Problems arise when services and products require this legibility, or, perhaps w
 
 -- [Me on Bluesky](https://bsky.app/profile/theriotnrrd.eurosky.social/post/3n24lf6amcm2f)
 
-These "helpful" features are killing digital search, at least for humans, who are [retreating into digital dark forests](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search) where we can talk to each other in peace, without being bothered by bots that appear to be more rudely intrusive, the less well-informed and helpful they are.
+*** 
+
+These "helpful" features are killing digital search, at least for humans, who are [retreating into digital dark forests](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search) where we can talk to each other in peace, without being bothered by bots that appear to be more rudely intrusive, the less well-informed and actually helpful they are.
 
 ![Mistral advert for sovereign AI, spotted in the wild at LCY airport](/images/IMG_3648.jpeg)
 
